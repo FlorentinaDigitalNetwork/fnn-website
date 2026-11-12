@@ -6,6 +6,35 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>REVOLUȚIE VIZUALĂ LA FNN! După 70 de articole, redacția descoperă că imaginile pot avea descrieri diferite!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-081054-db61fb.html</link>
+      <description>Florentina's National Network (FNN) anunță o schimbare importantă în politica sa editorială: începând chiar cu acest articol, publicația introduce imagini individuale, descrieri alternative personalizate și legende adaptate subiectului fiecărei știri.
+
+Decizia vine după ce redacția a constatat că aceeași pisică prezentatoare apărea în zeci de articole, indiferent dacă subiectul era un router revoltat, o […]</description>
+      <content:encoded>Florentina's National Network (FNN) anunță o schimbare importantă în politica sa editorială: începând chiar cu acest articol, publicația introduce imagini individuale, descrieri alternative personalizate și legende adaptate subiectului fiecărei știri.
+
+Decizia vine după ce redacția a constatat că aceeași pisică prezentatoare apărea în zeci de articole, indiferent dacă subiectul era un router revoltat, o farmacie atacată de usturoi sau un program informatic care refuza să doarmă.
+
+„Am observat că unele publicații folosesc aceeași descriere pentru imagini diferite, iar altele copiază pur și simplu titlul articolului în descrierea fotografiei. Noi am decis să mergem mai departe: descrierea va descrie chiar imaginea!”, a declarat solemn departamentul fictiv de fotografie FNN.
+
+Noua versiune FNN Publisher permite gestionarea separată a descrierii alternative (ALT) și a legendei vizibile (FIGCAPTION), precum și previzualizarea imaginilor înainte de publicare. Informațiile relevante vor fi integrate și în paginile HTML și în fluxul RSS.
+
+Noua politică se aplică articolelor publicate de acum înainte, fără a impune modificarea retroactivă a întregii arhive.
+
+Pisica prezentatoare își păstrează funcția de mascotă oficială, însă nu va mai fi obligată să apară simultan la toate evenimentele fictive relatate de publicație.
+
+FNN — Știri. Satiră. Realitate... aproape.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-081054-db61fb.png" medium="image" type="image/png">
+        <media:description>Fotograf FNN prezentând imagini diferite pe monitoare într-o redacție modernă, în timp ce o pisică prezentatoare, îmbrăcată în costum, supraveghează noua politică editorială.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-081054-db61fb.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261112-081054-db61fb</guid>
+      <pubDate>Thu, 12 Nov 2026 08:10:54 +0200</pubDate>
+    </item>
+    <item>
       <title>Un prezentator de știri care nu doarme niciodată? Andrei Știri, programul românesc care transformă calculatorul într-o redacție!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-063901-090cb9.html</link>
       <description>Un proiect software dezvoltat în AutoHotkey v2 demonstrează că un calculator obișnuit poate deveni o adevărată redacție digitală. Numele său este Andrei Știri, iar misiunea programului este să descopere, să organizeze și să prezinte vocal știri din numeroase publicații online.
