@@ -6,6 +6,21 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>PANICĂ LA FNN: redacția a codificat știrile în Base64 și caută o cheie API pentru alfabet</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-131341-1b4bb9.html</link>
+      <description>QlVDVVJFyJhUSSDigJQgUmVkYWPIm2lhIEZOTiBhIGFudW7Im2F0IGFzdMSDemkgbyByZXZvbHXIm2llIHRlaG5vbG9naWPEgzogyJl0aXJpbGUgdm9yIGZpIHB1YmxpY2F0ZSDDrm4gQmFzZTY0LCBwZW50cnUgY8SDLCBwb3RyaXZpdCBkaXJlY3RvcnVsdWksIOKAnmRhY8SDIG9hbWVuaWkgbnUgcG90IGNpdGkgdGl0bHVsLCDDrm5zZWFtbsSDIGPEgyBpbmZvcm1hyJtpYSBlc3RlIGZvYXJ0ZSBiaW5lIHByb3RlamF0xIPigJ0uCgpDcml6YSBhIMOubmNlcHV0IGPDom5kIHVuIHJlZGFjdG9yIGEgYXDEg3NhdCBkaW4gZ3JlyJllYWzEgyBwZSB1biBidXRvbiBudW1pdCDigJ5FbmNvZGXigJ0uIER1cMSDIHRyZWkgbWludXRlLCBkaXJlY3RvcnVsIGEgY29udm9jYXQgbyDImWVkaW7Im8SDIGRlIHVyZ2VuyJvEgyDImWkgYSDDrm50cmViYXQgY8OidCBjb3N0xIMgbyBjaGVpZSBBUEkgcGVudHJ1IGRlY29kYXJlYSBhbGZhYmV0dWx1aS4KCkRlcGFydGFtZW50dWwgSVQgYSBleHBsaWNhdCBjxIMgQmFzZTY0IG51IGVzdGUgY3JpcHRhcmUsIG51IGNlcmUgYWJvbmFtZW50IMiZaSBwb2F0ZSBmaSBkZWNvZGF0IGxvY2FsLiBDb25kdWNlcmVhIGEgY2VydXQgaW1lZGlhdCBkb3ZlemkgY8SDIGxpdGVyYSBBIG51IGVzdGUgcHJvcHJpZXRhdGVhIHVuZWkgY29tcGFuaWkgYW1lcmljYW5lLgoKw45udHJlIHRpbXAsIHVuIGNpdGl0b3IgYSByZWNsYW1hdCBjxIMgYXJ0aWNvbHVsIHNlYW3Eg27EgyBjdSBwYXJvbGEgZGUgbGEgV2ktRmksIGlhciBhbHR1bCBhIMOubnRyZWJhdCBkYWPEgyDImXRpcmVhIHBvYXRlIGZpIHBsxIN0aXTEgyDDrm4gcmF0ZSwgY8OidGUgcGF0cnUgY2FyYWN0ZXJlIG9kYXTEgy4KClNpdHVhyJtpYSBhIGZvc3Qgc2FsdmF0xIMgZGUgQW5kcmVpIMiYdGlyaSwgY2FyZSBhIGlkZW50aWZpY2F0IG1hcmNhanVsIEJhc2U2NCwgYSBkZWNvZGF0IHRleHR1bCBVVEYtOCDImWkgYSBpbmZvcm1hdCBwdWJsaWN1bCBjxIMgbnUgZXN0ZSBuZWNlc2FyxIMgbmljaW8gY2hlaWUgQVBJLiBQYXVsIGEgY29uZmlybWF0IGPEgyBkaWFjcml0aWNlbGUgc3VudCDDrm4gc2lndXJhbsibxIMgyJlpIGPEgyByZWRhY8ibaWEgbnUgYSBkZXNjb3Blcml0LCBkZSBmYXB0LCBjcmlwdG9ncmFmaWEuCgpMYSDDrm5jaGlkZXJlYSBlZGnIm2llaSwgZGlyZWN0b3J1bCBGTk4gYSBhbnVuyJthdCBvIG5vdcSDIGlub3ZhyJtpZTogcHVibGljYXJlYSBwcm9nbm96ZWkgbWV0ZW8gw65uIGNvZCBNb3JzZS4gTWV0ZW9yb2xvZ2lpIGF1IHJlZnV6YXQgc8SDIGNvbWVudGV6ZSwgaW52b2PDom5kIGxpcHNhIHB1bmN0ZWxvciDImWkgYSBsaW5paWxvci4KCkFjZXN0IGFydGljb2wgZXN0ZSBvIHNhdGlyxIMgZmljdGl2xIMgRk5OLg==</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-131341-1b4bb9.png" medium="image" type="image/png">
+        <media:description>Haos tehnologic în redacția FNN! În timp ce directorul caută disperat o cheie API pentru alfabet, Andrei Știri decodează fără probleme un articol publicat în Base64, iar Paul asistă amuzat la experiment. O demonstrație că poți transforma o știre obișnuită într-un mister informatic fără să cheltuiești niciun leu pe criptare. XD</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-131341-1b4bb9.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261112-131341-1b4bb9</guid>
+      <pubDate>Thu, 12 Nov 2026 13:13:41 +0200</pubDate>
+      <dcterms:modified>2026-11-12T13:14:16.585406+02:00</dcterms:modified>
+    </item>
+    <item>
       <title>🚨 BREAKING NEWS DIN ANUL 2099! România a inaugurat primul Minister al Inteligenței Artificiale, dar ministrul-robot a intrat în concediu medical după ce a citit un formular ANAF!🚨 BREAKING NEWS DIN ANUL 2099! România a inaugurat primul Minister al Inteligenței Artificiale, dar ministrul-robot a intrat în concediu medical după ce a citit un formular ANAF!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-101748-0cb0fa.html</link>
       <description>România a făcut un pas istoric către viitor, inaugurând primul Minister al Inteligenței Artificiale, instituție condusă integral de roboți, algoritmi și trei calculatoare care încă funcționează cu Windows 10.
