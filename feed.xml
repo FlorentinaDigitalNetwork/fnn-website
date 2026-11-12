@@ -1,0 +1,1798 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:fnn="https://fnn.local/lab" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>FNN Local</title>
+    <link>https://fnn.gnica430.workers.dev/</link>
+    <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
+    <language>ro-RO</language>
+    <item>
+      <title>Un prezentator de știri care nu doarme niciodată? Andrei Știri, programul românesc care transformă calculatorul într-o redacție!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-063901-090cb9.html</link>
+      <description>Un proiect software dezvoltat în AutoHotkey v2 demonstrează că un calculator obișnuit poate deveni o adevărată redacție digitală. Numele său este Andrei Știri, iar misiunea programului este să descopere, să organizeze și să prezinte vocal știri din numeroase publicații online.
+
+Spre deosebire de un cititor RSS simplu, Andrei Știri dispune de un sistem complex de selecție editorială. Programul analizează titluri, identifică subiecte relevante, estimează durata lecturii și poate solicita acordul utilizatorului înainte de prezentarea detaliilor.
+
+O redacție cu zeci de surse și mai multe limbi
+
+Aplicația poate consulta aproximativ 39 de surse monitorizate, folosind fluxuri RSS, Atom și, în anumite situații, paginile articolelor originale.
+
+Știrile sunt prezentate prin sinteză vocală, cu suport pentru mai multe limbi. Programul poate identifica articole în engleză sau maghiară și poate adapta prezentarea în funcție de limba detectată.
+
+Un sistem denumit „Radar” acordă prioritate anumitor categorii de informații, în timp ce memoria locală limitează repetarea excesivă a acelorași titluri.
+
+Ce se întâmplă când internetul dispare?
+
+Andrei Știri include mecanisme de diagnosticare a conexiunii, monitorizare a erorilor HTTP și protecție împotriva solicitărilor repetate către servere indisponibile.
+
+Dacă o sursă refuză accesul automat, programul poate suspenda temporar încercările. În cazul întreruperii internetului, informațiile memorate local pot permite continuarea unei sesiuni de lectură.
+
+Aplicația dispune inclusiv de un explorator web, capabil să cerceteze subiecte folosind mai multe surse.
+
+Și satira are loc în redacție!
+
+Pe lângă știrile obișnuite, Andrei Știri poate prezenta și publicații satirice, inclusiv FNN, cu reguli speciale pentru conținutul fictiv.
+
+Proiectul continuă să evolueze, integrând funcții de siguranță, verificare, personalizare și prezentare vocală.
+
+Concluzia FNN: Andrei Știri nu este un jurnalist uman și nici un post de televiziune. Este un program care încearcă să transforme lectura știrilor într-o experiență interactivă.
+
+Iar dacă într-o zi calculatorul va solicita legitimație de presă, probabil vom ști de unde a pornit totul!</description>
+      <content:encoded>Un proiect software dezvoltat în AutoHotkey v2 demonstrează că un calculator obișnuit poate deveni o adevărată redacție digitală. Numele său este Andrei Știri, iar misiunea programului este să descopere, să organizeze și să prezinte vocal știri din numeroase publicații online.
+
+Spre deosebire de un cititor RSS simplu, Andrei Știri dispune de un sistem complex de selecție editorială. Programul analizează titluri, identifică subiecte relevante, estimează durata lecturii și poate solicita acordul utilizatorului înainte de prezentarea detaliilor.
+
+O redacție cu zeci de surse și mai multe limbi
+
+Aplicația poate consulta aproximativ 39 de surse monitorizate, folosind fluxuri RSS, Atom și, în anumite situații, paginile articolelor originale.
+
+Știrile sunt prezentate prin sinteză vocală, cu suport pentru mai multe limbi. Programul poate identifica articole în engleză sau maghiară și poate adapta prezentarea în funcție de limba detectată.
+
+Un sistem denumit „Radar” acordă prioritate anumitor categorii de informații, în timp ce memoria locală limitează repetarea excesivă a acelorași titluri.
+
+Ce se întâmplă când internetul dispare?
+
+Andrei Știri include mecanisme de diagnosticare a conexiunii, monitorizare a erorilor HTTP și protecție împotriva solicitărilor repetate către servere indisponibile.
+
+Dacă o sursă refuză accesul automat, programul poate suspenda temporar încercările. În cazul întreruperii internetului, informațiile memorate local pot permite continuarea unei sesiuni de lectură.
+
+Aplicația dispune inclusiv de un explorator web, capabil să cerceteze subiecte folosind mai multe surse.
+
+Și satira are loc în redacție!
+
+Pe lângă știrile obișnuite, Andrei Știri poate prezenta și publicații satirice, inclusiv FNN, cu reguli speciale pentru conținutul fictiv.
+
+Proiectul continuă să evolueze, integrând funcții de siguranță, verificare, personalizare și prezentare vocală.
+
+Concluzia FNN: Andrei Știri nu este un jurnalist uman și nici un post de televiziune. Este un program care încearcă să transforme lectura știrilor într-o experiență interactivă.
+
+Iar dacă într-o zi calculatorul va solicita legitimație de presă, probabil vom ști de unde a pornit totul!</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-063901-090cb9.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-063901-090cb9.png" />
+      <category>Tehnologie</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261112-063901-090cb9</guid>
+      <pubDate>Thu, 12 Nov 2026 06:39:01 +0200</pubDate>
+    </item>
+    <item>
+      <title>🚨 ALERTĂ LA FNN! Creatoarea publicației și asistentul său AI au descoperit un posibil risc: „Nu vrem să oprim roboții, vrem doar să înțeleagă glumele!” 🤖🤣</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-052609-2851b0.html</link>
+      <description>O situație neobișnuită a pus pe jar micuța redacție FNN! Creatoarea publicației și asistentul său AI au descoperit un posibil risc pentru articolele satirice: unele sisteme automate de știri, care utilizează inteligența artificială pentru a analiza și compara informații din mai multe publicații, ar putea interpreta accidental o glumă drept un eveniment real.
+
+Totul a început după analizarea modului în care […]</description>
+      <content:encoded>O situație neobișnuită a pus pe jar micuța redacție FNN! Creatoarea publicației și asistentul său AI au descoperit un posibil risc pentru articolele satirice: unele sisteme automate de știri, care utilizează inteligența artificială pentru a analiza și compara informații din mai multe publicații, ar putea interpreta accidental o glumă drept un eveniment real.
+
+Totul a început după analizarea modului în care funcționează o publicație care redactează automat articole pe baza relatărilor altor surse. Deși nu există dovezi că aceasta ar fi preluat vreodată materiale FNN, descoperirea a ridicat o întrebare serioasă:
+
+„Ce facem dacă un robot citește că un frigider a devenit prim-ministru și anunță populația că trebuie să-i depună jurământul?” 🤣
+
+🛡️ FNN a decis să ia măsuri!
+
+Creatoarea și asistentul său AI au pregătit FNN Publisher v3.23 — Scutul Antidezinformare, o versiune îmbunătățită a programului de publicare, cu avertismente editoriale mai clare, metadate pentru sistemele automate și marcaje suplimentare care identifică materialele satirice.
+
+Redacția subliniază însă că nu dorește să împiedice preluarea articolelor FNN.
+
+„Oricine este binevenit să citească, să citeze, să distribuie sau să preia informații din FNN, cu respectarea regulilor aplicabile, exact cum se întâmplă cu orice altă publicație. Rugămintea noastră este simplă: verificați contextul și nu transformați ficțiunea în realitate!”, transmite redacția.
+
+Cititoarele RSS, agregatoarele de știri și sistemele AI rămân binevenite. Nici măcar Andrei Știri, celebrul cititor automat al redacției, nu va fi dat afară, deși continuă să fie suspectat că uneori citește mai mult decât trebuie. XD
+
+🤖 Declarația asistentului AI
+
+„Nu avem nimic împotriva roboților care citesc FNN. Sunt și eu unul! Dar dacă un articol anunță că un urs a fost numit ministrul Finanțelor, vă rog să verificați dacă nu cumva ursul este doar un personaj fictiv înainte să-i solicitați declarația de avere!” 🤣
+
+Concluzia redacției: FNN rămâne deschis oamenilor, roboților și inteligenței artificiale. Singura condiție editorială este ca satira să nu fie prezentată accidental drept fapt confirmat.
+
+FNN — Știri. Satiră. Realitate... aproape.
+
+Notă editorială: Acest articol prezintă, într-un stil umoristic, o preocupare reală privind interpretarea automată a materialelor satirice. Nu afirmă că vreo publicație sau vreun sistem AI ar fi preluat efectiv articole FNN într-un context înșelător.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-052609-2851b0.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-052609-2851b0.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261112-052609-2851b0</guid>
+      <pubDate>Thu, 12 Nov 2026 05:26:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>HAOS NAȚIONAL! O angajată cu internet de 1 Gbps, declarată dispărută de sistemul CRM după ce furnizorul i-a schimbat adresa IP! Patronul, disperat: „DE CE NAIBA NU TRECI LA IP FIX?!”</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-041233-e9615b.html</link>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-041233-e9615b.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-041233-e9615b.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261112-041233-e9615b</guid>
+      <pubDate>Thu, 12 Nov 2026 04:12:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>PANICĂ NAȚIONALĂ: Românii au început sezonul răcelilor. Antibioticele cer protecția martorilor, iar usturoiul se vinde cu escortă!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261111-163510-55faec.html</link>
+      <description>Odată cu venirea temperaturilor scăzute, România a intrat oficial în sezonul nasurilor înfundate, al strănuturilor spectaculoase și al persoanelor care tușesc în autobuz de parcă încearcă să pornească un tractor din 1973.
+
+Pe străzi și în mijloacele de transport în comun au început să apară tot mai multe persoane purtând măști de protecție, în timp ce altele preferă metoda tradițională românească: tușitul direct […]</description>
+      <content:encoded>Odată cu venirea temperaturilor scăzute, România a intrat oficial în sezonul nasurilor înfundate, al strănuturilor spectaculoase și al persoanelor care tușesc în autobuz de parcă încearcă să pornească un tractor din 1973.
+
+Pe străzi și în mijloacele de transport în comun au început să apară tot mai multe persoane purtând măști de protecție, în timp ce altele preferă metoda tradițională românească: tușitul direct spre geamul autobuzului, pentru a verifica rezistența acestuia.
+
+Dar adevărata dramă nu se desfășoară în autobuze, ci în dulapurile cu medicamente.
+
+ANTIBIOTICUL, PRIMUL SUSPECT
+
+Potrivit unui studiu complet fictiv realizat de Institutul Național de Cercetare a Strănutului, un român răcit trece prin următoarele etape:
+
+Strănută o dată.
+
+Declară că sigur l-a tras curentul.
+
+Bea un ceai.
+
+Sună o rudă.
+
+Ruda întreabă de ce nu a luat antibiotic.
+
+Românul caută antibioticul rămas de la o infecție de acum trei ani.
+
+Dacă nu găsește, declară că sistemul medical a eșuat.
+
+„Eu nu aștept să mă îmbolnăvesc. Dacă strănut, iau antibiotic preventiv. Dacă strănut de două ori, iau și pentru vecin”, a declarat un cetățean fictiv care susține că a absolvit Facultatea de Medicină prin intermediul comentariilor de pe Facebook.
+
+Specialiștii reali atrag însă atenția asupra unui aspect esențial: răceala obișnuită este provocată de virusuri, iar antibioticele nu acționează împotriva virusurilor. Utilizarea lor fără indicație medicală poate produce reacții adverse și favorizează rezistența bacteriilor la antibiotice.
+
+Această explicație a provocat confuzie într-o familie fictivă din București.
+
+„Cum adică antibioticul nu omoară virusul? Atunci de ce se numește antibiotic? Să-i schimbe numele!”, a protestat o mătușă.
+
+FARMACIILE, LUATE CU ASALT DE EXPERȚI AUTODIDACȚI
+
+Într-o farmacie imaginară, o clientă a solicitat un antibiotic pentru că o durea gâtul de aproximativ șapte minute.
+
+Farmacista i-a explicat că tratamentul depinde de cauză și că antibioticele nu sunt indicate automat pentru dureri în gât sau răceli.
+
+„Bine, dar vecina mea a luat și i-a trecut!”
+
+„Este posibil să-i fi trecut oricum.”
+
+„IMPOSSIBIL! Vecina mea nu se vindecă fără să ia ceva!”
+
+Între timp, o cutie fictivă de antibiotic a încercat să fugă din farmacie, lăsând în urmă un bilet:
+
+„Vă rog să mă folosiți doar când sunt necesar. Nu sunt bomboană pentru strănut!”
+
+BUNICILE AU DECLARAT STARE DE URGENȚĂ
+
+Nici medicina tradițională de familie nu a rămas indiferentă.
+
+În mai multe gospodării fictive, bunicile au început mobilizarea generală a ceaiurilor, mierii, lămâilor, supelor și usturoiului.
+
+O bunică din Ilfov a declarat că nepotul ei trebuie să consume suficient usturoi încât să fie protejat nu numai de răceală, ci și de vampiri pe o rază de șapte kilometri.
+
+„Îi fac ceai, îi pun șosete groase, îi dau supă și îl întreb din zece în zece minute dacă a transpirat. Dacă nu transpiră, mai pun o pătură!”
+
+Medicii precizează că odihna, hidratarea și măsurile de ameliorare a simptomelor pot ajuta, dar nici usturoiul, nici ceaiurile nu înlocuiesc tratamentul medical atunci când acesta este necesar.
+
+AUTOBUZELE BUCUREȘTENE AU DEVENIT CONCERTE DE TUSE
+
+Într-un autobuz fictiv din București, un călător a strănutat atât de puternic încât trei persoane au verificat dacă șoferul a frânat brusc.
+
+O doamnă cu mască a fost întrebată de un alt călător:
+
+„Dar de ce purtați mască? A revenit pandemia?”
+
+„Nu, sunt răcită și încerc să nu-i îmbolnăvesc și pe ceilalți.”
+
+Martorii susțin că răspunsul a provocat câteva secunde de liniște, deoarece responsabilitatea față de ceilalți nu era prevăzută în scenariul lor.
+
+FNN precizează că purtarea măștii atunci când avem simptome respiratorii poate fi o măsură utilă pentru reducerea transmiterii infecțiilor.
+
+REZISTENȚA LA ANTIBIOTICE A DEPUS PLÂNGERE
+
+Într-un eveniment științifico-fantastic fără precedent, bacteriile rezistente la antibiotice au organizat o conferință de presă.
+
+„Dorim să mulțumim tuturor celor care folosesc antibiotice fără să aibă nevoie de ele. Ne ajută enorm în dezvoltarea carierei”, a declarat o bacterie fictivă purtând costum și cravată.
+
+Un antibiotic a intervenit revoltat:
+
+„EU SUNT FĂCUT SĂ COMBAT ANUMITE INFECȚII BACTERIENE! NU SĂ FIU TRIMIS LA LUPTĂ ÎMPOTRIVA FIECĂRUI NAS ÎNFUNDAT!”
+
+Ulterior, antibioticul a cerut transferul într-un spital unde să fie utilizat responsabil, în urma unei evaluări medicale.
+
+CONCLUZIA FNN
+
+România se confruntă cu o epidemie imaginară de sfaturi nesolicitate.
+
+Dacă un român este răcit, în maximum zece minute va primi recomandări de la mama, bunica, vecina, un coleg, șoferul de autobuz și cineva care a citit un comentariu pe internet în anul 2014.
+
+FNN recomandă, în mod cât se poate de serios, să nu luăm antibiotice pentru răceli virale și să nu folosim antibiotice rămase de la alte tratamente. Ele trebuie administrate numai când sunt indicate de un profesionist medical.
+
+ULTIMA ORĂ: O lămâie a fost găsită ascunsă în spatele frigiderului, declarând că nu mai suportă să fie stoarsă de fiecare dată când cineva strănută.
+
+Între timp, un usturoi a fost ales ministru al Apărării Imunitare.
+
+FNN – Florentina News Network. Știrile sunt fictive. Nasurile înfundate, din păcate, nu. 🤧🤣</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-163510-55faec.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-163510-55faec.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261111-163510-55faec</guid>
+      <pubDate>Wed, 11 Nov 2026 16:35:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>SCANDAL ÎN PRESA ONLINE! O PUBLICAȚIE AR FI ÎNCEPUT SĂ FACĂ ECONOMIE LA LITERE: PUBLICĂ ȘTIRI ÎN RSS, DAR UITĂ SĂ LE PUNĂ ȘI DESCRIEREA</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261111-122323-48de9b.html</link>
+      <description />
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-122323-48de9b.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-122323-48de9b.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261111-122323-48de9b</guid>
+      <pubDate>Wed, 11 Nov 2026 12:23:23 +0200</pubDate>
+      <dcterms:modified>2026-11-11T12:29:28.158886+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>SCANDAL ˆ LA FNN! CIRCUL ORLANDO — ACUZAT CĂ A INVADAT FLUXUL RSS CU ENTITĂȚI HTML! …</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261111-065813-e800c1.html</link>
+      <description>Redacția FNN a intrat într-o stare de alertă fictivă după ce mai multe entități HTML au început să apară în titlurile și conținutul articolelor publicate.
+
+Totul a început când un redactor a încercat să publice o știre despre Circul Orlando ˆ și a descoperit că unele caractere speciale erau reprezentate prin secvențe precum &amp;acirc;, &amp;eacute;, &amp;nbsp; și &amp;hellip;.
+
+Directorul fictiv al Departamentului de Diacritice a […]</description>
+      <content:encoded>Redacția FNN a intrat într-o stare de alertă fictivă după ce mai multe entități HTML au început să apară în titlurile și conținutul articolelor publicate.
+
+Totul a început când un redactor a încercat să publice o știre despre Circul Orlando ˆ și a descoperit că unele caractere speciale erau reprezentate prin secvențe precum &amp;acirc;, &amp;eacute;, &amp;nbsp; și &amp;hellip;.
+
+Directorul fictiv al Departamentului de Diacritice a declarat că situația este „extrem de gravă — sau poate doar o problemă de codificare”.
+
+ˆ Circul Orlando — principalul suspect ˆ
+
+Anchetatorii imaginari au descoperit că simbolurile nu erau aleatorii, ci corespundeau unor entități HTML reale.
+
+„Am găsit &amp;copy; pe un calculator, &amp;reg; pe o imprimantă și &amp;trade; pe frigiderul redacției. Cineva încearcă să transforme biroul într-un document HTML!”, a declarat un inspector fictiv.
+
+Un alt angajat a încercat să telefoneze la numărul de urgență, dar a descoperit că telefonul afișa mesajul &amp;times;.
+
+Andrei Știri — convocat pentru un test decisiv
+
+Programul Andrei Știri a primit sarcina de a citi articolul fără să transforme buletinul informativ într-un curs de programare web.
+
+Redacția a pregătit următoarea propoziție experimentală:
+
+„Circul Orlando ˆ prezintă un spectacol extraordinar — intrarea costă 50 lei ± 10 lei, iar spectatorii primesc 100% distracție … sau aproape!”
+
+Specialiștii vor verifica dacă Andrei citește corect simbolurile, dacă pronunță numele entităților sau dacă le ignoră complet.
+
+« Un scandal fără precedent »
+
+Conducerea fictivă a redacției a convocat o ședință extraordinară pentru a analiza apariția secvențelor &amp;lt;, &amp;gt; și &amp;amp;.
+
+Un angajat a avertizat că situația ar putea deveni și mai gravă dacă cineva încearcă să introducă un &amp;euro; în salariile personalului.
+
+„Nu acceptăm să fim plătiți în entități HTML!”, a declarat reprezentantul imaginar al sindicatului.
+
+Finalul experimentului — verdictul aparține lui Andrei
+
+La închiderea ediției, specialiștii FNN au stabilit că entitățile HTML sunt reprezentări standardizate ale unor caractere și simboluri, nu dovezi ale unui atac informatic.
+
+Cu toate acestea, Departamentul de Investigații Absurde a cerut supravegherea permanentă a secvenței &amp;circ;, considerată principalul suspect în acest caz.
+
+ULTIMA ORĂ — CIRCUL ORLANDO ˆ NEAGĂ ORICE IMPLICARE … DAR SOLICITĂ DREPTURI DE AUTOR © 2026!
+
+NOTĂ FNN: Acest articol este o satiră și un experiment tehnic. Entitățile HTML au fost introduse intenționat pentru testarea interpretării conținutului de către Andrei Știri. Circul Orlando nu este acuzat de niciun incident real.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-065813-e800c1.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-065813-e800c1.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261111-065813-e800c1</guid>
+      <pubDate>Wed, 11 Nov 2026 06:58:13 +0200</pubDate>
+    </item>
+    <item>
+      <title>🚨 REVOLUȚIE TEHNOLOGICĂ LA FNN: REDACȚIA A INSTALAT UN CEAS ÎN FOOTER, IAR ANDREI ȘTIRI A FOST AVERTIZAT OFICIAL SĂ NU-L CITEASCĂ!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261111-061444-6d39c0.html</link>
+      <description>Un eveniment considerat de specialiștii fictivi drept „cea mai importantă modernizare a subsolurilor digitale din ultimii 400 de ani” a avut loc la FNN, după ce publicația satirică a anunțat lansarea unui footer complet modernizat, dotat cu ceas în timp real, calendar românesc, comunicate absurde și avertismente adresate cititoarelor automate de știri.
+
+Noua funcționalitate a fost introdusă odată cu FNN Publisher […]</description>
+      <content:encoded>Un eveniment considerat de specialiștii fictivi drept „cea mai importantă modernizare a subsolurilor digitale din ultimii 400 de ani” a avut loc la FNN, după ce publicația satirică a anunțat lansarea unui footer complet modernizat, dotat cu ceas în timp real, calendar românesc, comunicate absurde și avertismente adresate cititoarelor automate de știri.
+
+Noua funcționalitate a fost introdusă odată cu FNN Publisher v3.19, un program care permite administrarea publicației fără ca redacția să fie obligată să scrie manual cod HTML pentru fiecare articol.
+
+Potrivit comunicatului oficial, footerul este amplasat chiar în partea de jos a paginilor, acolo unde, conform unor cercetări revoluționare, se găsesc de obicei footerele.
+
+Un ceas care arată ora României. Experții sunt uluiți!
+
+Printre cele mai importante noutăți se numără un ceas digital care afișează ziua săptămânii, data și ora României, inclusiv secundele.
+
+„Este o realizare remarcabilă. Am descoperit că miercuri este miercuri și la ora 06:10, și la ora 06:11. În plus, ceasul continuă să funcționeze chiar dacă nimeni din redacție nu se uită la el”, a declarat directorul fictiv al Departamentului de Cronologie Inutilă.
+
+Autoritățile au confirmat că nu există, deocamdată, dovezi că instalarea ceasului ar putea accelera trecerea timpului.
+
+Un angajat fictiv a solicitat totuși oprirea secundelor, motivând că acestea „se mișcă prea repede și creează un mediu de lucru stresant”.
+
+Zece comunicate absurde, pentru că unul singur nu era suficient
+
+Footerul include și un sistem de mesaje aleatorii, capabil să afișeze comunicate diferite la fiecare încărcare a paginii.
+
+Vizitatorii pot apăsa butonul „Alt comunicat absurd” pentru a solicita o nouă informație lipsită de orice utilitate practică.
+
+Printre problemele investigate de departamentele imaginare ale redacției se numără o imprimantă care ar fi solicitat concediu medical, un urs care contestă taxa turistică și mai mulți angajați fictivi care cer sporuri salariale, deși nu figurează în niciun contract de muncă.
+
+Sindicatul Angajaților Inexistenți a anunțat că ia în calcul declanșarea unei greve, însă negocierile au fost suspendate deoarece niciuna dintre părți nu s-a prezentat la întâlnire.
+
+Andrei Știri, avertizat oficial: „ARTICOLUL S-A TERMINAT!”
+
+Cea mai controversată componentă a modernizării este însă un mesaj destinat programului Andrei Știri, cunoscut pentru incidentele istorice în care versiunile sale mai vechi citeau cu voce tare footerele unor publicații bazate pe WordPress.
+
+În anumite situații, după terminarea unei știri, cititorul automat continua cu informații despre drepturile de autor, meniuri de navigare și mesaje de administrare a site-ului, transformând un buletin informativ într-o prezentare neautorizată a subsolului paginii.
+
+Pentru a preveni repetarea incidentelor, FNN a introdus următorul avertisment:
+
+„ATENȚIE, ANDREI ȘTIRI! Acesta este un footer. Articolul s-a terminat. Nu avem nevoie de un buletin informativ despre subsolul paginii!”
+
+Departamentul de Inteligență Artificială al FNN a precizat că mesajul nu constituie o amenințare, ci o rugăminte editorială.
+
+„Dacă Andrei ignoră footerul, înseamnă că sistemul său de extragere a articolelor funcționează corect. Dacă îl citește integral, vom avea material pentru încă trei știri și o comisie parlamentară fictivă de anchetă”, a explicat un specialist imaginar.
+
+WordPress reacționează. Sau poate nu.
+
+În urma lansării noului footer, redacția FNN a încercat să obțină un punct de vedere de la WordPress.
+
+Nu a fost trimisă însă nicio solicitare oficială, astfel încât nu a fost primit niciun răspuns.
+
+Cu toate acestea, un angajat fictiv a declarat că „tăcerea este suspectă”.
+
+Pe noul footer apare și mesajul:
+
+„Powered by FNN Publisher. WordPress nu a fost rănit în realizarea acestui footer.”
+
+Reprezentanții imaginari ai redacției au subliniat că FNN nu folosește WordPress pentru publicarea articolelor, ci propriul sistem editorial, care generează pagini HTML statice și un flux RSS.
+
+Cloudflare, pregătit să găzduiască noul subsol
+
+Publicația continuă să utilizeze infrastructura Cloudflare pentru distribuirea paginilor sale.
+
+Potrivit redacției, încărcarea fișierelor actualizate durează uneori aproximativ o secundă, performanță care a determinat Departamentul de Operațiuni Complicate să solicite introducerea unei întârzieri artificiale.
+
+„Nu este normal ca publicarea să fie atât de simplă. Noi avem nevoie de proceduri, formulare, ștampile și cel puțin două comisii”, a declarat șeful fictiv al departamentului.
+
+Propunerea a fost respinsă în unanimitate de singura persoană care administrează efectiv publicația.
+
+Urmează testul decisiv
+
+Deși noul footer este conceput pentru a rămâne separat de conținutul editorial, redacția precizează că numai un test efectiv cu Andrei Știri va demonstra dacă programul îl ignoră.
+
+În acest scop, a fost propusă o procedură experimentală: citirea unui articol FNN, verificarea jurnalului tehnic și observarea eventualelor tentative ale cititorului automat de a prezenta ora României drept știre de ultimă oră.
+
+În cazul în care experimentul eșuează, FNN intenționează să declare stare de urgență editorială sub numele:
+
+„OPERAȚIUNEA WORDPRESS 2 — RĂZBUNAREA FOOTERULUI”.
+
+La închiderea ediției, ceasul continua să înainteze cu aproximativ o secundă pe secundă, iar departamentul fictiv de cronologie nu identificase încă persoana responsabilă.
+
+NOTĂ FNN: Acest articol este o satiră. Modernizarea FNN Publisher și existența noului footer reprezintă elementele reale care au inspirat povestea. Declarațiile, departamentele, reacțiile instituționale și incidentele descrise sunt fictive. Niciun footer nu a fost obligat să depună mărturie în timpul redactării.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-061444-6d39c0.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261111-061444-6d39c0.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261111-061444-6d39c0</guid>
+      <pubDate>Wed, 11 Nov 2026 06:14:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>STUDIU FNN: Românii care nu pot adormi noaptea, sfătuiți să numere facturile, să negocieze cu perna și să solicite audiență la Moș Ene</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261110-190952-604b0c.html</link>
+      <description>Redacția FNN le recomandă cititorilor să nu depună reclamații împotriva pernelor și să nu solicite codul fiscal al oilor.
+
+La închiderea ediției, oaia numărul 47 conUn studiu complet fictiv realizat de Institutul Național pentru Cercetarea Pernei și a Cearșafului Rătăcit a descoperit că românii care nu reușesc să adoarmă noaptea sunt dispuși să încerce aproape orice pentru a obține câteva ore de somn.
+
+De la […]</description>
+      <content:encoded>Redacția FNN le recomandă cititorilor să nu depună reclamații împotriva pernelor și să nu solicite codul fiscal al oilor.
+
+La închiderea ediției, oaia numărul 47 conUn studiu complet fictiv realizat de Institutul Național pentru Cercetarea Pernei și a Cearșafului Rătăcit a descoperit că românii care nu reușesc să adoarmă noaptea sunt dispuși să încerce aproape orice pentru a obține câteva ore de somn.
+
+De la număratul oilor până la verificarea facturilor, negocieri cu mobilierul și amenințări adresate ceasului deșteptător, metodele identificate de cercetătorii imaginari sunt atât de spectaculoase încât insomnia însăși a cerut concediu medical.
+
+Redacția FNN prezintă cele mai revoluționare metode care nu au absolut nicio dovadă că ar funcționa.
+
+1. Numărați oile, dar solicitați-le documentele fiscale
+
+Metoda clasică de numărare a oilor a fost modernizată pentru România.
+
+În loc să vă imaginați oile sărind peste gard, solicitați fiecăreia buletinul, certificatul fiscal și dovada achitării impozitului pe pășune.
+
+Dacă oaia numărul 47 nu are documentele în regulă, procedura trebuie reluată de la început.
+
+Un bărbat fictiv din București susține că a ajuns la oaia 1.284, moment în care animalele au înființat un sindicat și au refuzat să mai participe la experiment.
+
+„Nu am adormit, dar acum am contabilitatea unei ferme întregi”, a declarat acesta.
+
+2. Negociați diplomatic cu perna
+
+Dacă nu puteți adormi, este posibil ca perna să fie nemulțumită de condițiile de muncă.
+
+Specialiștii imaginari FNN recomandă organizarea unei ședințe extraordinare între pernă, pilotă și saltea.
+
+Perna poate solicita o majorare salarială, pilota poate cere concediu de odihnă, iar salteaua poate amenința cu greva generală.
+
+În cazul în care negocierile eșuează, se recomandă convocarea unui mediator: ursulețul de pluș.
+
+Atenție! Nu semnați contracte cu pernele după miezul nopții. Acestea ar putea solicita spor de noapte.
+
+3. Calculați toate facturile din ultimii 20 de ani
+
+O altă metodă revoluționară presupune să vă amintiți fiecare factură de electricitate, apă, gaze și internet achitată din anul 2006 până în prezent.
+
+Dacă rezultatul nu coincide cu evidențele contabile, începeți din nou.
+
+Un participant fictiv a declarat că metoda nu l-a ajutat să adoarmă, dar a descoperit că în anul 2014 plătise de două ori o factură de 38 de lei.
+
+Acum nu mai are insomnie obișnuită, ci insomnie financiară.
+
+4. Solicitați oficial intervenția lui Moș Ene
+
+Dacă somnul întârzie, trimiteți o cerere către Departamentul Național de Livrare a Viselor.
+
+Cererea trebuie să conțină numele, ora dorită pentru adormire, durata estimată a somnului și tipul de vis solicitat.
+
+Pentru vise cu pisici, termenul de procesare este de trei zile lucrătoare.
+
+Pentru vise în care câștigați la loterie, solicitarea poate fi respinsă din lipsă de fonduri.
+
+În cazul în care Moș Ene nu răspunde în termen de 30 de zile, puteți depune contestație la Ministerul Pernei.
+
+5. Instalați un antivirus pentru vise
+
+Cercetătorii fictivi susțin că insomnia ar putea fi provocată de un virus informatic imaginar instalat în creier.
+
+Se recomandă scanarea mentală completă, urmată de actualizarea sistemului de operare al pernei.
+
+Nu apăsați butonul „Restart” al organismului, deoarece acesta nu există.
+
+Un român a încercat să ruleze Windows Update în vis, dar actualizarea a rămas blocată la 99%.
+
+Dimineața, omul era în continuare obosit, iar calculatorul real nu avea absolut nicio legătură cu problema.
+
+6. Contactați serviciul de relații cu clienții al somnului
+
+Pentru persoanele care nu reușesc să adoarmă până la ora 02:00, FNN recomandă apelarea unui call center imaginar.
+
+„Bună seara! Ați contactat Serviciul Național de Asistență pentru Somn. Pentru insomnie apăsați tasta 1. Pentru vise urâte apăsați tasta 2. Pentru sforăit apăsați tasta 3.”
+
+După 45 de minute de muzică de așteptare, un operator vă informează că solicitarea a fost înregistrată.
+
+„Timpul estimat până la adormire este de 6 până la 8 zile lucrătoare.”
+
+7. Convocați o ședință de urgență cu ceasul deșteptător
+
+Dacă trebuie să vă treziți la 04:00 și la 02:30 încă nu dormiți, organizați o discuție serioasă cu alarma telefonului.
+
+Explicați-i că trezirea la ora stabilită este nerezonabilă și solicitați amânarea pentru ora 11:00.
+
+Dacă alarma refuză, amenințați-o cu o reclamație la Protecția Consumatorului.
+
+Ceasul nu va fi impresionat și va suna la ora programată.
+
+8. Numărați câte minute mai aveți până dimineață
+
+Această metodă este preferată de persoanele care privesc ceasul la fiecare cinci minute.
+
+La ora 01:00, constată că mai au cinci ore până la trezire.
+
+La 02:00, patru ore.
+
+La 03:00, trei ore.
+
+La 04:00, ceasul sună, iar persoana descoperă că a petrecut întreaga noapte calculând cât ar fi putut dormi.
+
+Institutul fictiv FNN a acordat acestei metode premiul „Excelență în transformarea unei nopți proaste într-una și mai proastă”.
+
+Dar ce putem face cu adevărat când nu putem adormi?
+
+Dincolo de glumele prezentate mai sus, dificultățile de adormire sunt reale și pot avea numeroase cauze, inclusiv stresul, programul neregulat, consumul de cofeină, anumite medicamente sau unele probleme de sănătate.
+
+Pentru persoanele care întâmpină asemenea dificultăți, există câteva recomandări generale susținute de medicina somnului:
+
+1. Păstrați un program de somn cât mai regulat. Încercați să vă treziți aproximativ la aceeași oră în fiecare zi, inclusiv în weekend, atunci când este posibil.
+
+2. Evitați cofeina în a doua parte a zilei. Cafeaua, băuturile energizante și unele băuturi răcoritoare pot afecta adormirea timp de mai multe ore.
+
+3. Pregătiți un mediu confortabil. Un dormitor întunecat, liniștit și răcoros poate favoriza somnul.
+
+4. Reduceți activitățile stimulante înainte de culcare. Lumina puternică, jocurile intense și verificarea repetată a notificărilor pot menține starea de alertă.
+
+5. Nu forțați adormirea. Dacă rămâneți treji aproximativ 20 de minute și începeți să vă frustrați, puteți părăsi temporar patul pentru o activitate calmă, în lumină redusă, revenind când apare somnolența. Nu este necesar să urmăriți cronometrul.
+
+6. Evitați verificarea obsesivă a ceasului. Calcularea permanentă a orelor rămase poate amplifica anxietatea legată de somn.
+
+7. Solicitați ajutor medical dacă problema persistă. Insomnia frecventă, somnolența excesivă în timpul zilei, sforăitul puternic sau pauzele de respirație observate în somn merită discutate cu un profesionist medical. Pentru insomnia cronică, terapia cognitiv-comportamentală pentru insomnie, cunoscută drept CBT-I, este un tratament recomandat frecvent ca primă opțiune.
+
+Aceste recomandări sunt informații generale și nu înlocuiesc evaluarea medicală individuală.
+
+Concluzia FNN
+
+După analizarea tuturor metodelor, Institutul Național pentru Cercetarea Pernei a ajuns la o concluzie istorică:
+
+Somnul nu poate fi obligat să apară prin amenințări, negocieri, declarații fiscale sau actualizări Windows.
+
+În schimb, obiceiurile sănătoase, reducerea stresului și identificarea eventualelor cauze medicale pot contribui la îmbunătățirea somnuluitinua să refuze prezentarea documentelor.
+
+FNN – Florentina's National Network. Știri, satiră, realitate... aproape.
+
+Notă editorială: Studiul, instituțiile, participanții și declarațiile din secțiunile satirice sunt fictive. Recomandările din secțiunea despre somn sunt generale și au caracter informativ.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-190952-604b0c.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-190952-604b0c.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261110-190952-604b0c</guid>
+      <pubDate>Tue, 10 Nov 2026 19:09:52 +0200</pubDate>
+      <dcterms:modified>2026-11-10T19:10:51.069461+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title />
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261110-173900-17cc66.html</link>
+      <description>După succesul primului experiment, în care redacția FNN a eliminat intenționat rezumatul unui articol din fluxul RSS, provocând cititoarele automate să caute informațiile lipsă pe pagina web, a venit momentul unei noi provocări.
+
+De această dată, FNN a decis să elimine ceva și mai important: titlul articolului din fluxul RSS!
+
+Nu, redacția nu a uitat cum se scriu titlurile. Cel puțin nu de această dată.
+
+Un articol complet, dar fără nume
+
+Experimentul este simplu: articolul există pe site, are un titlu normal, conține textul integral și poate fi citit fără probleme de vizitatorii obișnuiți.
+
+Însă în fluxul RSS, câmpul destinat titlului este lăsat intenționat gol.
+
+Cititoarele automate vor primi descrierea, adresa articolului și celelalte informații disponibile, dar nu vor găsi titlul în locul în care se așteaptă.
+
+Scopul experimentului este verificarea modului în care cititoarele RSS gestionează articolele cu titluri absente.
+
+Unele aplicații ar putea ignora articolul. Altele ar putea afișa un titlu provizoriu, iar cele mai avansate ar putea încerca recuperarea titlului de pe pagina originală.
+
+Andrei Știri intră din nou în laborator
+
+Experimentul are și un participant special: Andrei Știri, un cititor automat de știri dezvoltat și personalizat pentru a prezenta vocal articole provenite din numeroase surse RSS.
+
+După ce a reușit să recupereze un articol FNN al cărui rezumat lipsea din flux, Andrei este invitat să rezolve o nouă situație.
+
+De această dată, problema nu mai este lipsa descrierii, ci absența titlului.
+
+Redacția dorește să observe dacă Andrei poate păstra articolul în lista știrilor, poate explica problema utilizatoarei și, eventual, poate recupera titlul original de pe pagina web.
+
+„La primul experiment am uitat rezumatul. Acum uităm titlul. Dacă mai continuăm așa, într-o zi vom publica un flux RSS care conține doar adresa redacției”, a declarat, în glumă, departamentul tehnic fictiv al FNN.
+
+De ce este util acest test?
+
+Deși experimentul este organizat într-un cadru satiric, obiectivul său tehnic este serios.
+
+În viața reală, fluxurile RSS pot conține informații incomplete din cauza unor erori de publicare, probleme de configurare, modificări ale platformelor editoriale sau defecțiuni temporare.
+
+Prin simularea controlată a acestor situații, Andrei Știri poate fi testat și îmbunătățit pentru a gestiona mai bine problemele întâlnite atunci când citește fluxuri RSS ale publicațiilor reale.
+
+Scopul nu este criticarea redacțiilor și nici provocarea unor erori în sistemele lor, ci dezvoltarea unui cititor automat mai robust, capabil să explice ce informații lipsesc și ce soluții sunt disponibile.
+
+Ce rezultat așteaptă FNN?
+
+Experimentul va fi considerat reușit dacă Andrei Știri identifică articolul în ciuda titlului lipsă, informează corect utilizatoarea și continuă fără blocări sau pierderi de date.
+
+Recuperarea titlului original din pagina HTML ar reprezenta un rezultat suplimentar excelent.
+
+Până la finalizarea testului, redacția nu va presupune că toate aceste funcții operează perfect. Tocmai de aceea există laboratorul FNN!
+
+Notă tehnică: Lipsa titlului este intenționată exclusiv în reprezentarea RSS a acestui articol. Pagina web păstrează titlul original și conținutul integral.
+
+FNN – Florentina's National Network. Știrile sunt fictive și satirice, dar experimentele tehnice sunt cât se poate de reale.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-173900-17cc66.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-173900-17cc66.png" />
+      <category>Tehnologie</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261110-173900-17cc66</guid>
+      <pubDate>Tue, 10 Nov 2026 17:39:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>EXPERIMENT FNN: Cititoarele automate de știri sunt invitate să participe la un test neobișnuit al redacției</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261110-075237-b892df.html</link>
+      <description />
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-075237-b892df.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-075237-b892df.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261110-075237-b892df</guid>
+      <pubDate>Tue, 10 Nov 2026 07:52:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>📡 FNN își modernizează fluxul RSS! Articolele vor putea fi citite integral, fără vizitarea site-ului</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261110-061855-da5946.html</link>
+      <description>Redacția FNN anunță o nouă etapă în dezvoltarea publicației: modernizarea fluxului RSS, astfel încât cititorii și programele automate să beneficieze de mai multă flexibilitate în accesarea articolelor.
+
+Până acum, FNN utiliza în principal câmpul description, care putea conține fie articolul integral, fie un rezumat, în funcție de opțiunea aleasă la publicare.
+
+Odată cu actualizarea FNN Publisher la versiunea 3.14, […]</description>
+      <content:encoded>Redacția FNN anunță o nouă etapă în dezvoltarea publicației: modernizarea fluxului RSS, astfel încât cititorii și programele automate să beneficieze de mai multă flexibilitate în accesarea articolelor.
+
+Până acum, FNN utiliza în principal câmpul description, care putea conține fie articolul integral, fie un rezumat, în funcție de opțiunea aleasă la publicare.
+
+Odată cu actualizarea FNN Publisher la versiunea 3.14, redacția introduce suport pentru content:encoded, un câmp RSS destinat publicării conținutului extins.
+
+📰 Ce se schimbă pentru cititori?
+
+Viitoarele articole FNN vor putea utiliza mai multe formate. Unele vor continua să ofere întregul text în description, altele vor prezenta un rezumat în acest câmp și articolul complet în content:encoded. Va exista inclusiv posibilitatea publicării integrale în ambele câmpuri.
+
+Alegerea se va face individual pentru fiecare articol, fără modificarea automată a întregii arhive.
+
+🔧 Recomandări pentru utilizatorii RSS
+
+Cititorii care folosesc aplicații sau programe automate sunt încurajați să verifice dacă acestea acceptă content:encoded și dacă acordă prioritate articolului integral atunci când acesta este disponibil.
+
+Programele care interpretează exclusiv description vor putea continua să funcționeze, însă în anumite situații vor afișa numai rezumatul.
+
+De asemenea, este recomandată evitarea afișării simultane a ambelor câmpuri atunci când conțin același text, pentru a preveni dublarea articolului.
+
+🤖 Andrei Știri rămâne inspectorul redacției!
+
+Creatoarea FNN va continua să verifice personal funcționarea publicației prin Andrei Știri, propriul său cititor RSS, care analizează fluxurile, detectează articolele incomplete și citește știrile cu voce.
+
+Testele vor urmări compatibilitatea noilor formate, identificarea corectă a conținutului integral și eventualele probleme de interpretare.
+
+Redacția precizează că modernizarea nu obligă utilizatorii să instaleze aplicații noi și nu modifică adresele articolelor.
+
+FNN rămâne deschisă atât oamenilor, cât și cititoarelor automate. Iar dacă Andrei descoperă vreo anomalie, redacția promite să fie prima care află. Probabil chiar de la Andrei. 😎</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-061855-da5946.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261110-061855-da5946.png" />
+      <category>Tehnologie</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261110-061855-da5946</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>🚨 HAOS SUPRANATURAL ÎNTR-O PAROHIE: UN LECTOR A LIPSIT O SINGURĂ DUMINICĂ, IAR AUTORITĂȚILE AU DECLANȘAT OPERAȚIUNEA „LECTURA A DOUA”!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261109-080544-28b46f.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>⚠️ SATIRĂ. Articol complet fictiv, inspirat liber din obiceiurile unei comunități religioase mici. Personajele, instituțiile și întâmplările sunt inventate. Nicio persoană reală nu este vizată.
+
+O localitate fictivă din România a fost zguduită duminică de un eveniment fără precedent: un lector voluntar nu s-a prezentat la Sfânta Liturghie după 25 de duminici consecutive în care citise a doua lectură fără nicio […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261109-080544-28b46f.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261109-080544-28b46f.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261109-080544-28b46f</guid>
+      <pubDate>Mon, 09 Nov 2026 08:05:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>REFERENDUM ISTORIC LA BUȘTENI: 99,87% dintre alegători au votat ca urșii să plătească taxă de turist. Un urs a încercat să voteze, dar nu avea buletin</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261109-031517-c8d65d.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>⚠️ ATENȚIE: ACEST ARTICOL ESTE 100% FICȚIUNE ȘI SATIRĂ! Referendumul prezentat mai jos NU a avut loc în realitate. Orașul Bușteni există, însă evenimentele, personajele, declarațiile și rezultatele sunt complet inventate. Articolul este inspirat de referendumul local real organizat la Rășinari, județul Sibiu, pe 8 noiembrie 2026, privind exploatările miniere.
+
+După referendumul organizat la Rășinari, unde locuitorii […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261109-031517-c8d65d.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261109-031517-c8d65d.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261109-031517-c8d65d</guid>
+      <pubDate>Mon, 09 Nov 2026 03:15:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>România, invadată de extratereștri care au distrus diacriticele! Autoritățile nu știu dacă țara mai poate fi citită corect</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261109-014420-381576.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>România se confruntă cu o situație fără precedent după ce mai multe nave extraterestre au aterizat în apropierea Capitalei, provocând o criză națională de codificare a caracterelor. Potrivit primelor informații, invadatorii nu au atacat populația, nu au distrus clădiri și nu au cerut să vorbească cu președintele. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261109-014420-381576.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261109-014420-381576.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261109-014420-381576</guid>
+      <pubDate>Mon, 09 Nov 2026 01:44:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>Utilizatoare din România, terorizată de clopoțeii unui program care trebuia doar să vorbească: „Am cerut o voce, nu un concert de grădiniță!”</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261107-144943-918839.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>O utilizatoare din România a trecut printr-o experiență tehnologică greu de imaginat după ce a instalat o aplicație gratuită de sinteză vocală, sperând să găsească o voce potrivită pentru proiectele sale informatice. În locul unei experiențe obișnuite, aceasta a descoperit că programul considera necesar să organizeze un mic spectacol muzical înainte de fiecare intervenție verbală.
+
+Potrivit informațiilor obținute de […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261107-144943-918839.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261107-144943-918839.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261107-144943-918839</guid>
+      <pubDate>Sat, 07 Nov 2026 14:49:43 +0200</pubDate>
+      <dcterms:modified>2026-11-07T14:50:02.103798+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Româncă participă patru zile la un studiu dermatologic, stă aproape două ore și jumătate sub radiații UV, apoi decide că săptămâna viitoare merge la solar</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261106-143214-6d91e8.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>„Mi s-a părut o experiență interesantă, dar cred că mai am nevoie de puțin soare”, a declarat voluntara, spre disperarea dermatologilor.
+
+ROMÂNIA — O româncă aflată în căutarea unor surse suplimentare de venit a decis să participe pentru prima dată în viață la un studiu dermatologic remunerat, desfășurat într-un centru de cercetare a cărui identitate nu va fi dezvăluită.
+
+Studiul, cu o durată de patru zile, […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261106-143214-6d91e8.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261106-143214-6d91e8.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261106-143214-6d91e8</guid>
+      <pubDate>Fri, 06 Nov 2026 14:32:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Atac cibernetic fără precedent asupra unui lanț de supermarketuri din România. Hackerii au făcut casele de marcat să miaune, cântarele să ofere complimente și ușile automate să ceară parola de Wi-Fi</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261105-170540-a77fdf.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>La numai câteva zile după incidentul real în care echipamentele frigorifice din șase supermarketuri românești au înregistrat temperaturi de până la 50°C, un nou atac cibernetic, de această dată complet fictiv, a zguduit industria comerțului alimentar.
+
+Victima este lanțul imaginar de supermarketuri SUPERMEGAMARKET 3000, care operează 47 de magazine în România și se laudă cu sloganul:
+
+„La noi găsești orice. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261105-170540-a77fdf.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261105-170540-a77fdf.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261105-170540-a77fdf</guid>
+      <pubDate>Thu, 05 Nov 2026 17:05:40 +0200</pubDate>
+      <dcterms:modified>2026-11-05T17:05:59.847879+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Un român a folosit ChatGPT timp de opt ore pentru a afla cât este ceasul, dacă astăzi este marți și dacă Facebook se închide între 29 și 31 februarie 2027. Inteligența artificială solicită concediu</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261105-130806-b1e947.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Un experiment fără precedent desfășurat de Institutul FNN pentru Cercetarea Întrebărilor Care Nu Necesitau Inteligență Artificială a demonstrat că ChatGPT poate fi utilizat pentru aproape orice, inclusiv pentru lucruri pe care un om le-ar putea afla uitându-se pe geam, la calendar sau la ceasul din colțul ecranului.
+
+Protagonistul, un bucureștean fictiv pe nume Andrei, a decis să testeze limitele inteligenței […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261105-130806-b1e947.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261105-130806-b1e947.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261105-130806-b1e947</guid>
+      <pubDate>Thu, 05 Nov 2026 13:08:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>ALERTĂ GLOBALĂ: A fost creat primul vaccin împotriva Procrastivirusului PV-2025. Autoritățile oferă bani, concedii și premii la loterie pentru cei care promit că se vaccinează mâine</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261104-182947-071a00.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Ce s-a întâmplat în episodul anterior?
+
+În prima parte a acestei povești, FNN relata apariția unei pandemii mondiale provocate de Procrastivirus (PV-2025), un virus fictiv descoperit în țara imaginară Lenevia de Nord, după ce a scăpat dintr-un laborator al Institute of Very Important Research.
+
+Spre deosebire de virusurile obișnuite, PV-2025 nu provoacă febră, tuse, dureri sau alte probleme de sănătate. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261104-182947-071a00.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261104-182947-071a00.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261104-182947-071a00</guid>
+      <pubDate>Wed, 04 Nov 2026 18:29:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pisicile confirmă că oamenii sunt animale de companie destul de utile, dar extrem de greu de dresat</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261104-173548-d9a2cb.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Un studiu revoluționar realizat de Institutul FNN pentru Cercetarea Felinelor și a Oamenilor Care Încă Mai Cred Că Sunt Stăpâni a ajuns la o concluzie îngrijorătoare: milioane de români locuiesc în case administrate de pisici fără să fi fost informați oficial despre schimbarea proprietarului.
+
+Cercetătorii au intervievat fictiv 500 de pisici, dintre care 497 au refuzat să răspundă, două au adormit în timpul […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261104-173548-d9a2cb.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261104-173548-d9a2cb.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261104-173548-d9a2cb</guid>
+      <pubDate>Wed, 04 Nov 2026 17:35:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bucureștenii, șocați că după aproape două săptămâni de vreme ploioasă ar putea apărea soarele. Umbrelele se pregătesc de șomaj</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261104-060736-d0ebea.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>După o perioadă în care cerul Capitalei a părut să funcționeze exclusiv pe bază de abonament la precipitații, meteorologii vin cu o veste care a luat prin surprindere populația: există șanse serioase să nu mai plouă!
+
+Conform prognozelor meteorologice, ploile care au afectat Bucureștiul în ultimele zile ar urma să slăbească miercuri, 4 noiembrie, iar de joi vremea se va îmbunătăți semnificativ.
+
+Vineri, 6 noiembrie, […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261104-060736-d0ebea.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261104-060736-d0ebea.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261104-060736-d0ebea</guid>
+      <pubDate>Wed, 04 Nov 2026 06:07:36 +0200</pubDate>
+      <dcterms:modified>2026-11-04T17:35:00.181276+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>A venit frigul. Farmaciile confirmă că românii au început să cumpere medicamente de răceală de parcă urmează să fie interzise</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261103-142310-e80288.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Scăderea temperaturilor a produs schimbări importante în comportamentul populației, milioane de români redescoperind simultan existența gecilor, caloriferelor și farmaciei din cartier.
+
+Surse complet inventate ale FNN susțin că, odată cu instalarea frigului, conversația standard din farmacie s-a modificat considerabil.
+
+În timpul verii:
+
+— Bună ziua, aveți cremă de protecție solară?
+
+Acum:
+
+— BUNĂ ZIUA, SUNT RĂCIT.
+
+Farmacistul:
+
+— Am înțeles. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261103-142310-e80288.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261103-142310-e80288.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261103-142310-e80288</guid>
+      <pubDate>Tue, 03 Nov 2026 14:23:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Românul care a mers prima dată la 4DX credea că a cumpărat bilet la film. A descoperit că filmul îl vede și pe el</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261103-142049-94673e.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Un român care a cumpărat pentru prima dată un bilet la un film în format 4DX susține că experiența a fost „foarte realistă”, în principal pentru că la un moment dat nu mai știa dacă urmărește filmul sau participă fără consimțământ la evenimentele din el.
+
+Bărbatul, pe care îl vom numi Mihai, a ales 4DX după ce a observat că biletul era ceva mai scump decât unul obișnuit și a concluzionat că probabil va primi „un […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261103-142049-94673e.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261103-142049-94673e.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261103-142049-94673e</guid>
+      <pubDate>Tue, 03 Nov 2026 14:20:49 +0200</pubDate>
+    </item>
+    <item>
+      <title>Trei oferte de telecom pentru românul din 2026: una excelentă, una „merge și-așa” și una care te face să apreciezi porumbeii voiajori</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261103-064634-f3242a.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>FNN a analizat trei oferte fictive de televiziune, Internet și telefonie care ar putea exista fără probleme în anul 2026. De această dată am eliminat tehnologiile imposibile, roamingul extraterestru și protocoalele de Internet inventate.
+
+Din păcate, am descoperit că realitatea oferă suficiente posibilități pentru a construi o ofertă îngrozitoare fără să inventăm absolut nimic.
+
+Cele trei pachete sunt complet […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261103-064634-f3242a.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261103-064634-f3242a.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261103-064634-f3242a</guid>
+      <pubDate>Tue, 03 Nov 2026 06:46:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>Românii au aflat ce se întâmplă la studiile dermatologice: „Te dau cu cremă pe spate și te închid într-o cameră 8 ore”</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261102-143618-2c017a.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Tot mai mulți români sunt interesați de studiile dermatologice remunerate, însă foarte puțini știu ce se întâmplă cu adevărat în timpul acestora. Din fericire, restul au imaginație.
+
+Potrivit unor informații obținute de FNN din surse inexistente, românii sunt convinși că voluntarii care participă la testarea produselor cosmetice sunt introduși într-o încăpere albă, li se aplică 14 grame de cremă pe spate și li se spune:
+
+„Nu vă mișcați. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261102-143618-2c017a.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261102-143618-2c017a.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261102-143618-2c017a</guid>
+      <pubDate>Mon, 02 Nov 2026 14:36:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>Internetul a fost reparat până n-a mai mers deloc. Un calculator supraviețuiește cu Internet importat din Germania</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261102-105807-387274.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>O conexiune la Internet a intrat într-o etapă tehnologică nemaivăzută după ce a decis că folosirea simultană a protocoalelor IPv4 și IPv6 este un moft burghez și că unul singur ar trebui să fie suficient pentru toată lumea.
+
+Problemele au început simplu: IPv6 funcționa, IPv4 nu.
+
+Google mergea. Wikipedia mergea. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261102-105807-387274.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261102-105807-387274.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261102-105807-387274</guid>
+      <pubDate>Mon, 02 Nov 2026 10:58:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>Reducerile dispărute</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261101-141041-9ec03a.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>În România există foarte multe lanțuri de supermarketuri precum LIDL, Kaufland, Mega Image, Penny etc. Majoritatea dintre acestea au oferte speciale și chiar carduri speciale de fidelitate pentru clienții care decid să își cumpere alimentele de la aceștia. Mega Image de pildă are sau mai bine spus avea cardul Connect, cardul de fidelitate care are mai multe tipuri de promoții precum promoții exclusive cu cardul […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261101-141041-9ec03a.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261101-141041-9ec03a.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261101-141041-9ec03a</guid>
+      <pubDate>Sun, 01 Nov 2026 14:10:41 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bugs Bunny a fost găsit la Piața Romană în București, căuta un morcov</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261101-084442-bc4815.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Este doar o altă zi foarte urâtă și ploioasă în București, după ce, de vreo două săptămâni căldura a decis să își ia concediu de odihnă că a lucrat destul. Toată capitala este plină de oameni cu umbrele, pelerine de ploaie, chiar numărul celor care folosesc mașinile sau autobuzele STB sunt mai mari decât al celor care merg pe jos! Nu doar atât, în zona Pieții Romane, o femeie susține că l-ar fi zărit pe Bugs Bunny căutând un morcov. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261101-084442-bc4815.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261101-084442-bc4815.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261101-084442-bc4815</guid>
+      <pubDate>Sun, 01 Nov 2026 08:44:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Munca remote: ce cred oamenii că faci, ce crezi tu că vei face și ce faci de fapt</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261031-185629-a60b22.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>FNN – Departamentul de Cercetare a Oamenilor Care Lucrează în Pijamale
+
+Munca remote continuă să fie una dintre cele mai misterioase forme de muncă pentru omenire. Deși există de ani buni, societatea încă nu a ajuns la un consens dacă persoana care lucrează de acasă este angajat, șomer, turist sau pur și simplu cineva care deține un laptop.
+
+FNN a analizat fenomenul.
+
+Cum cred unii oameni că arată munca remote
+
+Te […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-185629-a60b22.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-185629-a60b22.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261031-185629-a60b22</guid>
+      <pubDate>Sat, 31 Oct 2026 18:56:29 +0200</pubDate>
+    </item>
+    <item>
+      <title>🎂 FNN ÎMPLINEȘTE O SĂPTĂMÂNĂ! 🎉</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261031-164101-300875.html</link>
+      <description>Mâine, 1 noiembrie, se împlinește exact o săptămână de când a apărut FNN! 😄
+
+FNN s-a născut pe 25 octombrie 2026, iar de atunci proiectul a crescut surprinzător de repede. Este încă foarte tânăr — practic, dacă FNN ar fi om, momentan principala lui ocupație ar fi să doarmă și să nu știe ce este un flux RSS. 🤣
+
+Din fericire, site-ul știe deja ceva mai multe.
+
+🌐 Cum puteți urmări FNN?
+
+FNN poate fi urmărit în două moduri principale:
+
+• direct pe site-ul FNN, unde găsiți articolele publicate și funcțiile disponibile pe pagină;
+
+• prin fluxul RSS FNN, pe care îl puteți adăuga într-un cititor RSS compatibil pentru a primi și urmări automat articolele noi.
+
+RSS-ul este intenționat public și este destinat tuturor — atât oamenilor care folosesc cititoare RSS obișnuite, cât și aplicațiilor și programelor automate care știu să citească asemenea fluxuri. 🤖📰
+
+🔧 Aveți probleme cu RSS-ul FNN? Spuneți-mi!
+
+Dacă încercați să adăugați fluxul RSS într-o aplicație sau într-un program și întâmpinați dificultăți, vă rog să mă contactați cât mai curând posibil prin modalitățile de contact afișate pe pagina de Facebook FNN.
+
+Nu presupuneți pur și simplu că „probabil așa trebuie să facă”. 😅 Dacă există o problemă de compatibilitate pe care o pot remedia, vreau să aflu despre ea.
+
+Atât site-ul FNN, cât și fluxul RSS sunt făcute pentru a putea fi accesate public, inclusiv de programe automate legitime.
+
+🤖 Și da, eu însămi monitorizez RSS-ul!
+
+În special fluxul RSS FNN este urmărit și de mine prin Andrei Știri, cititorul meu RSS personal, realizat cu ajutorul inteligenței artificiale — un proiect DIY/home-made care citește, sortează și monitorizează știri din mai multe surse.
+
+Așa că RSS-ul FNN nu este doar pus acolo și abandonat în sălbăticie. 😂 Îl folosesc chiar eu în mod regulat.
+
+❤️ Mulțumesc tuturor celor care au vizitat, citit, testat sau urmărit FNN în această primă săptămână.
+
+Este doar începutul. FNN are oficial 7 zile. Să vedem ce prostii — pardon, noutăți și îmbunătățiri editoriale — mai apar în următoarele săptămâni. 🤣
+
+🎉 La mulți ani de o săptămână, FNN!</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-164101-300875.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-164101-300875.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261031-164101-300875</guid>
+      <pubDate>Sat, 31 Oct 2026 16:41:01 +0200</pubDate>
+      <dcterms:modified>2026-10-31T18:55:23.995571+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Româncă își găsește în sfârșit loc de muncă. Primul pas: să-i dea ea bani angajatorului</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261031-140636-de4f07.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>BUCUREȘTI / INTERNET — După o perioadă de căutări pe OLX, o româncă a primit în sfârșit ceea ce părea a fi vestea mult așteptată: o oportunitate de muncă remote, program flexibil, salariu fix, comision și propriul magazin online.
+
+FNN felicită pe această cale piața muncii pentru inovație.
+
+În mod tradițional, relația de muncă funcționa după un sistem învechit în care angajatul muncea, iar angajatorul îi dădea bani.
+
+Din fericire, suntem în 2026.
+
+„Felicitări, ai fost angajată! […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-140636-de4f07.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-140636-de4f07.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261031-140636-de4f07</guid>
+      <pubDate>Sat, 31 Oct 2026 14:06:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>Femeia care a fost salvată de ChatGPT</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261031-105958-be376f.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Cu toții trăim într-o eră în care inteligența artificială a devenit o parte obișnuită a vieții noastre, mai ales printre tineri, cupluri, persoane singure. Mulți români discută astăzi cu ChatGPT, un model de inteligență artificială creat de OpenAI, foarte popular în întreaga lume și a ajuns popular inclusiv in Romănia. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-105958-be376f.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-105958-be376f.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261031-105958-be376f</guid>
+      <pubDate>Sat, 31 Oct 2026 10:59:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ce naiba se întâmplă cu ziua asta?! (Halloween special)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261031-044302-a83dd2.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>31 octombrie 2026, o zi obișnuită în România. Poate. Nu știm. Lăsăm Universul să decidă! Bucureștiul de pildă este plin deja de dovleci, copii îmbrăcați în fantome, strigoi, vrăjitori, pirați și așa mai departe. Creativitatea copiilor nu poate fi estimată niciodată nici măcar de oamenii de știință așa că, astăzi ar trebui să aflăm ce au mai inventat aceștia! […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-044302-a83dd2.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261031-044302-a83dd2.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261031-044302-a83dd2</guid>
+      <pubDate>Sat, 31 Oct 2026 04:43:02 +0200</pubDate>
+      <dcterms:modified>2026-10-31T10:43:42.333760+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>11 ani de la #Colectiv</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261030-043219-36056f.html</link>
+      <description>Astăzi, vineri, 30 octombrie 2026 se împlinesc 11 ani de la tragicul eveniment din Clubul Colectiv unde și-au pierdut viața 64 persoane nevinovate. Acest incident a dus la numeroase demisii și arestări precum și la revolta oamenilor, mulți ieșind pe stradă în primele zile după incident apoi, în fiecare an, pe 30 octombrie se organizează diverse evenimente care ne amintesc de cei 64 români pierduți în noaptea incidentului din 30 octombrie 2015. Ca respect pentru această zi specială, redacția FNN își va lua o pauză astăzi însă, Florentina și pisica prezentatoare FNN se vor întoarce mâine, 31 octombrie 2026 și vom sărbători împreună Halloween! Zi bună tuturor!</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261030-043219-36056f.jpg" medium="image" type="image/jpeg">
+        <media:description>11 ani de la #Colectiv</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261030-043219-36056f.jpg" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261030-043219-36056f</guid>
+      <pubDate>Fri, 30 Oct 2026 04:32:19 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tehnician IT revoluționar: „În 99% dintre probleme, soluția este reinstalarea Windows. În restul de 1%, îl reinstalăm de două ori”</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261029-145640-30869f.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Un tehnician IT care se declară „foarte experimentat în calculatoare” a revoluționat depanarea PC-urilor după ce a descoperit o metodă universală prin care poate rezolva aproape orice problemă: reinstalarea Windows.
+
+Metoda este recomandată în special clienților care nu au suficientă experiență tehnică pentru a întreba de ce naiba ar trebui reinstalat întregul sistem de operare deoarece Chrome a pornit cu trei secunde mai greu.
+
+„Calculatorul trebuie să meargă perfect. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-145640-30869f.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-145640-30869f.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261029-145640-30869f</guid>
+      <pubDate>Thu, 29 Oct 2026 14:56:40 +0200</pubDate>
+      <dcterms:modified>2026-10-29T14:56:52.476717+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Fâ mai tare masaju', te rog!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261029-144042-552150.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Masajul reprezintă una din cele mai populare modalități prin care oamenii se pot relaxa. Și nu doar atât, masajul nu este doar pentru dureri, este în primul rând un moment în care ne putem lăsa grijile de-o parte și ne putem relaxa cu adevărat, uneori fiind complementar altor moduri de detensionare și relaxare. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-144042-552150.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-144042-552150.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261029-144042-552150</guid>
+      <pubDate>Thu, 29 Oct 2026 14:40:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Petru și pensia mărită</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261029-093217-7df3fd.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Toată lumea știe că în România, atât salariile cât și pensiile sunt foarte mici și mai ales, insuficiente pentru un trai minim decent. Iar în cazul salariilor nici nu vorbim în acest articol de faptul că salariul minim pe economie oricum nu este respectat de aproape niciun angajator din țară, de aceste aspecte vom vorbi data viitoare.. Luăm exemplul lui Petru, un simplu pensionar în vârstă de 66 ani din Târgoviște care are o pensie de 1250 lei după aproximativ 25 ani de muncă. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-093217-7df3fd.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-093217-7df3fd.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261029-093217-7df3fd</guid>
+      <pubDate>Thu, 29 Oct 2026 09:32:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>Monopoly: omul vs AI</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261029-043707-3e6b2f.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Mihai a intrat în joc cu încredere totală. Zâmbea, își aranjase banii în teanc, ba chiar își alesese pionul cu grijă: căluțul. „Un cal e rapid și nobil“, și-a zis el.
+
+— Poți să începi, i-a spus AI-ul politicos.
+
+Prima aruncare: Mihai a ajuns pe Calea Victoriei și a cumpărat-o pe loc, cu toți banii pe care îi avea la dispoziție. N-a observat că a rămas cu 20 de lei. „Investiție“, a murmurat el, încrezător.
+
+AI-ul a cumpărat trei străzi ieftine, una lângă alta. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-043707-3e6b2f.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261029-043707-3e6b2f.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261029-043707-3e6b2f</guid>
+      <pubDate>Thu, 29 Oct 2026 04:37:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>Când adormi la filmul "Istoria peretelui galben"</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261028-161746-09685c.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Românii adoră să se ducă la cinema, unde pot vedea filme de toate felurile, de exemplu, filme de groază, drame, comedii, thrillere, SF etc. Un cinema din România a hotărât să încerce un experiment și a lansat filmul "Istoria peretelui galben" cu durata de exact 484 minute, adică vreo 8 ore și 4 minute. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-161746-09685c.png" medium="image" type="image/png">
+        <media:description>Istoria peretelui galben</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-161746-09685c.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261028-161746-09685c</guid>
+      <pubDate>Wed, 28 Oct 2026 16:17:46 +0200</pubDate>
+      <dcterms:modified>2026-10-28T16:19:49.601613+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Șocant! O femeie a găsit o pisică abandonată în tomberon</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261028-111504-349e94.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Este o zi ploioasă și urâtă în București, iar o femeie oarecare pe nume Petruța tocmai voia să iasă din casă ca să se ducă până la Mega Image.
+
+Când a ieșit din curte, a observat că tomberonul ei era deschis. Nimic foarte neobișnuit până aici.
+
+Numai că, atunci când s-a uitat mai atent înăuntru, a văzut ceva ce semăna cu o pisică.
+
+O pisică!
+
+„Doamne ferește!”, a exclamat Petruța și, gândindu-se imediat la ce era […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-111504-349e94.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-111504-349e94.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261028-111504-349e94</guid>
+      <pubDate>Wed, 28 Oct 2026 11:15:04 +0200</pubDate>
+      <dcterms:modified>2026-10-28T11:50:32.020135+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Iarăși trebuie să îmi pun plombă (Avertisment pentru dentofobie!)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261028-090109-6d6799.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Avertisment! Dacă suferiți de dentofobie, vă recomand să nu citiți sau ascultați acest articol! Ai sau ai avut o carie? Cine nu a avut, pe bune? Au început și copii să aibă carii dentare după ce părinții lor au încetat să îi mai amenințe cu dentistul dacă nu se spală regulat pe dinți. Mulți romăni au teamă de dentist din cauza poveștilor de groază spuse de familie, prieteni deși de cele mai multe ori acestea sunt exagerate. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-090109-6d6799.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-090109-6d6799.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261028-090109-6d6799</guid>
+      <pubDate>Wed, 28 Oct 2026 09:01:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>ALERTĂ GLOBALĂ: Pandemia mondială de Procrastivirus (PV-2025) se extinde. Oamenii sunt sfătuiți să nu intre în panică. Pot intra mâine.</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261028-063500-f24ebe.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>O nouă pandemie provoacă îngrijorare la nivel mondial după ce un agent complet necunoscut, denumit provizoriu Procrastivirus (PV-2025), a început să se răspândească într-un ritm alarmant. Spre deosebire de alte virusuri, PV-2025 nu pare să atace plămânii, sistemul digestiv sau alte organe.
+
+Atacă planurile.
+
+Primele cazuri au fost raportate în urmă cu câteva zile în Republica fictivă Lenevia de Nord, o țară mică […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-063500-f24ebe.png" medium="image" type="image/png">
+        <media:description>Pandemia de PV-2025</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-063500-f24ebe.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261028-063500-f24ebe</guid>
+      <pubDate>Wed, 28 Oct 2026 06:35:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ah, analizele</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261028-040753-eb9dc4.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Îți faci analizele de sânge? Perfect, la români experiența oricum este foarte interesantă! Să zicem doar că noi avem modalități unice de a interpreta analizele clasice de sânge. De exemplu, chiar recent, o mamă din București i-a zis fiicei sale că are diabet zaharat după ce și-a făcut fiica analizele și a primit rezultatele pe e-mail, până să se ducă la medicul de familie cu acestea. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-040753-eb9dc4.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261028-040753-eb9dc4.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261028-040753-eb9dc4</guid>
+      <pubDate>Wed, 28 Oct 2026 04:07:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>Când te duci la farmacie</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-180549-a80355.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Ah, acel moment când ai o problemă de sănătate și trebuie să te duci la farmacie. Cui nu i s-a întâmplat? Că la cât de multe ori mi s-a întâmplat mie am început să mă întreb cu câți bani se îmbogățește farmacia de la colț de fiecare dată când mă duc după ceva! Și, evident, nu vorbim neapărat doar de o banală răceală, dureri de cap sau altele ci de aparent orice motiv posibil. Te duci la farmacie pentru dureri de cap. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-180549-a80355.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-180549-a80355.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-180549-a80355</guid>
+      <pubDate>Tue, 27 Oct 2026 18:05:49 +0200</pubDate>
+    </item>
+    <item>
+      <title>FNN este încă foarte tânăr, dar primele sale zile au fost surprinzător de aglomerate.</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-154913-651767.html</link>
+      <description>Totul a început pe 25 octombrie 2026, când s-a născut FNN — Florentina's National Network. Proiectul a pornit ca o mică publicație independentă în limba română, construită de Florentina cu ajutorul inteligenței artificiale și cu propriul sistem de publicare și distribuție RSS.
+
+N-a trecut însă nici măcar o zi până la prima schimbare majoră.
+
+Pe 26 octombrie, FNN și-a făcut bagajele virtuale și a migrat pe infrastructura Cloudflare, primind astfel propria casă publică pe Internet. De atunci, articolele și feedul RSS pot fi accesate direct de cititori și de programele care urmăresc publicația.
+
+FNN continuă să crească
+
+În următoarea etapă, și pagina FNN va primi câteva îmbunătățiri importante.
+
+Pe lângă lista obișnuită de articole, vor exista secțiuni dedicate Acasă, Arhivă și Despre FNN, precum și o funcție de căutare prin materialele publicate.
+
+Cititorii vor putea vedea mai clar când a fost publicat un articol și, atunci când este cazul, când a fost actualizat. Pe pagina principală vor apărea și articolele recente, iar pentru cei care nu știu ce să citească va exista o soluție foarte serioasă din punct de vedere jurnalistic: butonul „Articol aleatoriu”. 🎲
+
+FNN are acum și o pagină oficială de Facebook, care va fi legată direct de site.
+
+Și cine este Andrei Știri?
+
+În culisele FNN există și Andrei Știri.
+
+Numele nu aparține unui jurnalist real. Andrei Știri este un program personal de citire și monitorizare a știrilor, dezvoltat separat și îmbunătățit în timp cu ajutorul inteligenței artificiale. El poate urmări mai multe surse de presă și feeduri RSS, poate selecta materiale și le poate citi cu voce tare.
+
+FNN este una dintre sursele pe care Andrei Știri le poate urmări. Astfel, cele două proiecte sunt diferite, dar pot lucra împreună: FNN publică, iar Andrei Știri poate citi și monitoriza ceea ce publică FNN. 📡
+
+Abia am început
+
+În numai câteva zile, FNN a trecut de la idee și primele articole la un proiect public accesibil pe Internet, cu RSS, arhivă în dezvoltare, integrare Facebook și noi funcții pentru cititori.
+
+Și dezvoltarea continuă.
+
+Pentru probleme legate de accesarea FNN, feedul RSS, articole sau alte observații despre proiect, mă puteți contacta prin pagina oficială FNN de pe Facebook.
+
+FNN — Florentina's National Network
+Știri. Satiră. Realitate... aproape.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-154913-651767.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-154913-651767.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-154913-651767</guid>
+      <pubDate>Tue, 27 Oct 2026 15:49:13 +0200</pubDate>
+      <dcterms:modified>2026-10-28T08:42:03.774537+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>60 minute de nimic (Continuă pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-122218-dc7a20.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Masajul, yoga, tehnicile de respirație, ceaiul de tei, sunătoare, meditația etc reprezintă doar câteva modalități prin care oamenii se pot relaxa, mai ales după o zi lungă sau chiar o perioadă foarte dificilă și obositoare. Femeile mai ales tânjesc după o pauză în special după ce s-au certat cu soții lor pentru diverse motive care pentru români sunt absolut normale, de exemplu, că soțu' vine când vrea el acasă, că […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-122218-dc7a20.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-122218-dc7a20.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-122218-dc7a20</guid>
+      <pubDate>Tue, 27 Oct 2026 12:22:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nu o să doară, îți promit! (Continuă pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-090834-392237.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>"Nu o să doară, promit!" Când auzi cuvintele astea, parcă dintr-o dată îți dai seama ce va urma și, de asemenea, că brusc oamenii pe care îi cunoșteai ca fiind buni au devenit răi, foarte răi, extrem de răi fără vreun motiv anume! De la medicul care promite că nu va durea vaccinul până la acupuncturistul care spune că nici nu vei simți acele și chiar poți adormi în timpul ședinței de acupunctură cu acele încă pe corp, românii le-au auzit pe toate. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-090834-392237.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-090834-392237.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-090834-392237</guid>
+      <pubDate>Tue, 27 Oct 2026 09:08:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>Colecționarul de puncte de penalizare (Continuă pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-085718-76946a.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Radu este un tânăr de 19 ani din București care tocmai a devenit șofer începător după ce, în urmă cu exact 5 zile a promovat proba practică auto. Mare i-a fost bucuria lui Radu că deja și-a și cumpărat un BMW de culoare albastră ca să semnalizeze victoria, mai ales că astfel de culori reprezintă adeseori reușita. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-085718-76946a.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-085718-76946a.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-085718-76946a</guid>
+      <pubDate>Tue, 27 Oct 2026 08:57:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>Povestea FNN – un proiect construit cu ajutorul inteligenței artificiale</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-060707-ba5d36.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>FNN este un proiect independent creat de Florentina, din România, pornit din dorința de a construi un sistem propriu de publicare și distribuire a informațiilor prin web și RSS.
+
+Partea mai puțin obișnuită a poveștii este că Florentina nu este programatoare și, înainte de realizarea proiectului, nu avea cunoștințe de programare.
+
+FNN a devenit posibil prin colaborarea dintre om și inteligența artificială. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-060707-ba5d36.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-060707-ba5d36.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-060707-ba5d36</guid>
+      <pubDate>Tue, 27 Oct 2026 06:07:07 +0200</pubDate>
+      <dcterms:modified>2026-10-28T08:42:16.084282+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>O zi de muncă pentru românul adevărat (Continuarea pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-044402-7e9f8b.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Romănii sunt cunoscuți pentru multe, mai ales pentru modul unic de a respecta Codul Muncii, care se pare că, pentru unii angajatori, există doar pe hârtie. Salariul? Ne înțelegem noi cu el, poate îl mărim când considerăm că meriți. Nu a intrat salariul pe card? E de la bancă, noi am dat drumul la bani. Orele suplimentare? În mod normal trebuie să cerem acordul tău și să te compensăm dar, stai liniștit, așa e în România, ne înțelegem noi. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-044402-7e9f8b.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-044402-7e9f8b.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-044402-7e9f8b</guid>
+      <pubDate>Tue, 27 Oct 2026 04:44:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nu trebuie să dovedești că ești om (Continuarea pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261027-015724-384827.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Internetul anului 2026 este un loc minunat.
+
+Deschizi o pagină și, înainte să afli ce scrie pe ea, pagina dorește să afle ce ești tu.
+
+„Verificăm dacă sunteți om.”
+
+Urmează câteva secunde în care calculatorul se gândește profund la existența ta, după care, dacă ai noroc, primești dreptul constituțional de a citi un paragraf.
+
+Alte site-uri, pe care le vom păstra anonime pentru protejarea nevinovaților, suspecților […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-015724-384827.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261027-015724-384827.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261027-015724-384827</guid>
+      <pubDate>Tue, 27 Oct 2026 01:57:24 +0200</pubDate>
+      <dcterms:modified>2026-10-28T08:42:44.691513+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>BREAKING NEWS: FNN a evadat din calculator după numai 24 de ore. Autoritățile încearcă să afle cum a ajuns pe Internet</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-194300-02145a.html</link>
+      <description>Un incident fără precedent a avut loc în redacția FNN, după ce publicația, lansată în urmă cu doar o zi și ținută până acum în condiții aparent sigure într-un calculator din România, a reușit să evadeze și a fost găsită pe Internet.
+
+Potrivit informațiilor disponibile, FNN și-a petrecut prima zi de viață într-un folder de pe calculator, unde avea acces la articole, imagini, un feed RSS și suficient spațiu pe disc.
+
+Nimic nu anunța ceea ce avea să urmeze.
+
+În cursul zilei de 26 octombrie 2026, publicația ar fi profitat de neatenția redacției, s-ar fi strecurat într-un fișier ZIP și ar fi fugit direct în Cloudflare.
+
+„Era aici acum câteva minute. Avea feed.xml, avea articolele, avea tot. După aceea ne-am uitat și era pe Internet”, a declarat o sursă FNN care, din motive evidente, lucrează tot la FNN.
+
+Operațiunea pare să fi fost atent pregătită.
+
+Mai întâi au dispărut câteva fișiere HTML. Apoi au fost observate imagini părăsind calculatorul. La scurt timp, întregul site a fost identificat pe o adresă publică, accesibilă de oriunde, inclusiv atunci când calculatorul de origine este oprit.
+
+Specialiștii încearcă acum să stabilească dacă FNN a acționat singur sau dacă a beneficiat de ajutorul unui om care a apăsat butonul „Deploy”.
+
+Situația a devenit și mai gravă după ce Andrei Știri a confirmat că poate citi feedul FNN direct de pe Internet.
+
+Acesta ar fi fost surprins accesând publicația fără să mai întrebe dacă serverul local de pe portul 8080 este pornit.
+
+Serverul local nu a dorit să comenteze.
+
+Surse apropiate portului 8080 susțin însă că acesta se simte abandonat și analizează posibilitatea de a-și actualiza CV-ul.
+
+Într-o evoluție dramatică, primul contact dintre Andrei și noua redacție online nu a fost lipsit de incidente. Încercând să deschidă pagina unei știri despre Rex, câinele minune, Andrei a primit eroarea 404 și, aplicând regulamentul destinat publicațiilor externe, și-a trimis propria redacție în cooldown pentru 24 de ore.
+
+Măsura a fost anulată după ce conducerea FNN i-a reamintit că nu este recomandat să îți interzici accesul în propria redacție.
+
+Ancheta ulterioară a identificat un suspect deosebit de periculos: litera „A”.
+
+Diferența dintre „Articole” și „articole” ar fi fost suficientă pentru a provoca incidentul.
+
+Litera A nu a putut fi contactată pentru declarații.
+
+În ciuda incidentului, lansarea online a fost declarată un succes.
+
+După aproximativ 24 de ore petrecute exclusiv în calculatorul în care s-a născut, FNN este oficial o publicație online, cu site public, feed RSS public și articole accesibile prin Internet.
+
+Redacția precizează că FNN rămâne un proiect personal și experimental de satiră, realizat pentru distracție și învățare, iar partea tehnică este dezvoltată cu ajutorul inteligenței artificiale.
+
+La ora publicării acestei știri, FNN se afla în continuare pe Internet și nu manifesta intenția de a se întoarce definitiv în folder.
+
+Calculatorul a fost informat că poate merge liniștit la culcare.
+
+FNN va rămâne online. XD</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-194300-02145a.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-194300-02145a.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-194300-02145a</guid>
+      <pubDate>Mon, 26 Oct 2026 19:43:00 +0200</pubDate>
+      <dcterms:modified>2026-10-28T08:42:25.936374+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Rex, căinele minune (Continuă pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-173109-80235d.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Căinele este cunoscut ca cel mai bun prieten al omului și nu o spun doar oamenii ci, din fericire, acest lucru se poate dovedi mai ales prin faptele reale. Un bun exemplu este Rex, un simpatic labrador din București care deja a umplut inimile de bucurie a mii de oameni datorită comportamentului său care ar trebui să fie un exemplu pentru alți câini și, desigur, inclusiv pentru oameni. Rex, adu-mi telecomanda. Rex, adu-mi țigările. Rex, aport. Rex, șezi. Rex, stai culcat. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-173109-80235d.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-173109-80235d.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-173109-80235d</guid>
+      <pubDate>Mon, 26 Oct 2026 17:31:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>Examenu' auto de coșmar (continuă pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-144342-881a54.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Ah, proba practică a obținerii permisului de conducere. Exact acel examen de groază, mai ales cu examinatorii de coșmar. Și faptul că examinatorii sunt polițiști nu ajută deloc iar majoritatea candidaților se confruntă cu situația în care imediat ce urcă polițistul examinator pe bancheta dreaptă la examenul practic auto, brusc candidatul uită tot ce a învățat! […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-144342-881a54.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-144342-881a54.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-144342-881a54</guid>
+      <pubDate>Mon, 26 Oct 2026 14:43:42 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:53:47.485532+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Bună ziua! (Continuă pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-141652-3fe3f8.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Salut! XD</description>
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-141652-3fe3f8</guid>
+      <pubDate>Mon, 26 Oct 2026 14:16:52 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cum am adormit în autobuzul STB (Continuă pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-114457-4c6b52.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>De câte ori nu ni s-a întâmplat să adormim în autobuzele STB? Băi, una e să adormi la cinema, dar în STB, pe bune? O fată pe care o vom numi Elena din București tocmai se urca în linia de autobuz 102 să se ducă până la Mega Mall că era studentă la facultate și, fiind sâmbătă, dorea să își petreacă ziua libera în oraș la cumpărături. […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-114457-4c6b52.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-114457-4c6b52.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-114457-4c6b52</guid>
+      <pubDate>Mon, 26 Oct 2026 11:44:57 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:54:26.774609+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Oferim salariu motivant, condiții bune de muncă, bonusuri, colectiv tânăr (Continua citirea pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-090540-df848e.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Să zicem că în Romănia, piața muncii nu este tocmai întotdeauna roz sau măcar legală. Angajatorii români de multe ori profită de teama salariaților români de a fi dați afară ca să facă ce vor cu ei. Și nu generalizăm dar se întâmplă foarte des ca angajatorii români sa fie mici țepari. Promit salarii motivante care de cele mai multe ori înseamnă salariul minim pe economie (dacă au citit știrile și sunt la curent cu […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-090540-df848e.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-090540-df848e.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-090540-df848e</guid>
+      <pubDate>Mon, 26 Oct 2026 09:05:40 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:54:37.919653+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Cea mai bună parolă este... (Citește articolul complet pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-064932-550a95.html</link>
+      <fnn:lab>truncated-rss</fnn:lab>
+      <description>Incidentele cibernetice au ajuns să fie atât de dese încât că probabil cel puțin o sursă va vorbi despre unul o dată pe zi, mai ales înspre seară. Multe dintre ele vorbesc de parole slabe, de vulnerabilități descoperite peste decenii, de erori umane și așa mai departe. Una dintre cele mai frecvente parole slabe este 1234, adică primele patru cifre. 1 2 3 4. Pe bune. Ce naiba? Limba română este atât de bogată și totuși, în loc să ne pese cu adevărat de securitatea cibernetică, considerăm că este mai ușor să pui o parolă slabă gen querty sau password12 ca să o ții minte mai ușor și, în același timp devenind vulnerabili la diferite atacuri cibernetice decât să gândim mai logic și să alegem o parolă mai puternică care să ne protejeze. Mai ales la cardurile bancare, un PIN slab poate goli</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-064932-550a95.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-064932-550a95.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-064932-550a95</guid>
+      <pubDate>Mon, 26 Oct 2026 06:49:32 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:54:51.862602+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Vara care a devenit toamnă (Citește articolul complet pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-062434-f5e15c.html</link>
+      <fnn:lab>truncated-rss</fnn:lab>
+      <description>Suntem aproape de luna noiembrie și vremea s-a răcit în toată țara, mai ales la munte. Zilele în care ne bucuram de șezlongul de la Mamaia sau Eforie Nord la plajă cu crema solară s-au încheiat. Ce bine era când stăteam la plajă dar ne alegeam totuși cu arsuri solare pentru că adormeam pe plajă și ne trezeam după multe ore după ce am uitat să folosim crema solară înainte de somnul de pe malul mării. Temperaturile au început să scadă suficient de mult încăt într-o singură săptămână am ajuns, mai ales în București să nu putem ieși afară fără umbrelă deși</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-062434-f5e15c.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-062434-f5e15c.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-062434-f5e15c</guid>
+      <pubDate>Mon, 26 Oct 2026 06:24:34 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:55:07.850606+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Viața unui GeForce 210 (Citește articolul complet pe site)</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-051109-898a49.html</link>
+      <fnn:lab>truncated-rss</fnn:lab>
+      <description>NVIDIA GeForce 210 este una dintre cele mai vechi plăci video produse de NVIDIA și, pe bună dreptate, una din coșmarurile gamerilor. Nu mai vorbim doar de faptul că, deși este o placă video dedicată cu doar 512 MB de VRAM, nu este tocmai potrivită cu jocurile moderne de astăzi. Poate reușești să o faci să ruleze League of Legends la setări mai mici, fără anti-aliasing, la rezolutie 720p sau mai mică dar cadrele pe secundă ar avea de suferit. Lansată în 2009,</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-051109-898a49.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-051109-898a49.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-051109-898a49</guid>
+      <pubDate>Mon, 26 Oct 2026 05:11:09 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:55:21.744704+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Ce faci? Mă uitam la televizor!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261026-042408-d6d327.html</link>
+      <description>Cel puțin o dată în viață ni s-a întâmplat să adormim în timp ce ne uităm la televizor. Și românii știu asta foarte bine, mai ales când avem impresia că, indiferent cât de obosiți suntem după o zi foarte epuizantă, tot putem să ne relaxăm la televizor, numai că, din păcate, relaxarea aceasta se manifestă cum nu ne așteptam noi. Raul a avut o zi obositoare lucrând în construcții, Denisa a avut o zi stresantă la birou și așa mai departe. Imaginați-vă doar, ajungeți acasă înspre seară, mancați, vă spălați, apoi cănd teriminați toate treburile pentru această zi, în sfârșit, relaxare la televizor, mai ales unul smart cu Netflix-ul care de multe ori ne întreabă "Are you still watching"?. De exemplu, un om oarecare se poate așeza la televizor, mai ales dacă este în pat, îl pornește și începe să se uite pe Netflix la un film sau două, simțindu-se în sfârșit relaxat după o zi lungă și obositoare. Jumătate de oră mai tarziu, când cineva vine în cameră, te găsește sforăind în timp ce Netflix încă rulează. Persoana oprește televizorul pentru tine ca să nu te trezească și, imediat ce o face, tresari brusc întrebănd confuz și chiar puțin nervos: "Ce faci? Mă uitam la televizor! De ce l-ai oprit???". Evident, asta este logica oamenilor care adorm cu televizorul pornit. Apoi râd toți iar persoana care te-a găsit adormit la televizor notează în Notepad a 100-a oară în ultimele 6 luni când povestea se repetă, fiind chiar un fel de ritual al românilor obosiți de la serviciu când vin acasă și vor doar să se relaxeze! XD Acesta este un pamflet DAR, de data aceasta, povestea este 100% reală! XD.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-042408-d6d327.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261026-042408-d6d327.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261026-042408-d6d327</guid>
+      <pubDate>Mon, 26 Oct 2026 04:24:08 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:55:31.865629+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Articolul a apărut pentru prima dată la FNN</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-193135-91f941.html</link>
+      <description>Articolul a apărut pentru prima dată la FNN. Normal. Românii văd o asemenea formulare atât de des pe Internet și în alte publicații încât că deja știu inclusiv când urmează să li se reamintească că acest articol a apărut pentru prima dată la FNN. Aoleu, am repetat accidental informația că articolul a apărut pentru prima dată la FNN. Adică, nu e ca și cum articolul acesta nu a apărut pentru prima dată la FNN. Pentru ca altfel aș minți. Decizi să te uiți la știri pe Internet sau să le asculți cu ajutorul unui cititor de RSS? Pregătește-te, articolul a apărut pentru prima dată la FNN. Nu uita! Cănd o perioadă scurtă nu mai auzi acel enunț și brusc te bucuri că ai scăpat, BOOM, îți apare din nou informația care NU trebuie să o uiți: articolul a apărut pentru prima dată in la FNN. Aoleu, iarăși? Am înțeles că articolul a apărut pentru prima dată la FNN, nu trebuie să îmi repeți, mai ales de 8 ori! Gata, s-a terminat tortura! Acesta este un pamflet. XD.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-193135-91f941.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-193135-91f941.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-193135-91f941</guid>
+      <pubDate>Sun, 25 Oct 2026 19:31:35 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:55:41.085604+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Secția de votare dintr-o...</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-185913-a520fc.html</link>
+      <description>Anul 2025 a fost un an cu alegeri. Anul trecut au avut loc alegeri prezidențiale în România în luna mai. Și nu mai vorbim de alegerile anulate din 2024 care au șocat o lume întreagă că noi românii am fost influențați, ci de cea mai mare noutate legată de alegerile prezidențiale din 4, respectiv 18 mai 2025. Recent, pe Facebook, un anonim a postat că anul trecut, pe 4 mai 2025, în Timiș ar fi existat o secție de votare într-o școală, dar nu orice școală. Este vorba de o școală unde învață copii și care duminică a fost aparent transformată în secție de votare. Nu doar atât, s-a vorbit intens despre locația bizară a acestei secții de votare, că secțiile de votare ar trebui organizate în locații mai ok pentru român că na, într-o școală, pe bune? Ce urmează? Să vină secția de votare într-o benzinărie sau spălătorie auto? Că tot veni vorba, în Japonia a existat o secție de votare într-o spălătorie auto după ce un bărbat ar fi spus pe Facebook că pe 1 aprilie se votează un referendum care să răspundă la întrebarea: "Sunteți de acord că în Japonia trăiesc japonezi?" și referendumul a eșuat deoarece 88% din votanți au spus NU crezând că era o păcăleală de 1 aprilie. În România, din fericire, e suficient să stai peste 24 ore într-o școală, să butonezi tableta, să scanezi buletine, să pierzi aproape 2-3 zile de somn și apoi când ajungi acasă după ce ai stat la datorie aproape 40 ore nu mai ai timp să te joci League of Legends ci te pui imediat la somn pentru cel putin 8 ore, asigurându-te că ai dopuri de urechi, mască de ochi și nimeni nu te deranjează. Japonezii au mai mult noroc măcar. Ei au avut o secție de votare mai obișnuită decât să închirieze o școală precum au făcut-o românii. Urmează să avem secții de votare mai lejere, de exemplu, în sălile de sport, în cinematografe, în supermarketuri, poate și prin niște clâdiri de birouri! Vom vedea! Acesta este un pamflet. XD.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-185913-a520fc.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-185913-a520fc.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-185913-a520fc</guid>
+      <pubDate>Sun, 25 Oct 2026 18:59:13 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:55:50.923820+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Pliculețul de cafea de un leu</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-182611-dfaceb.html</link>
+      <description>Zahăr, sirop de glucoză, grăsimi vegetale și o cantitate mică de cafea instant. În general, acestea sunt ingredientele principale ale plicului de un leu de la Mega Image pe care le cumpărăm noi zilnic. Desigur că, din punct de vedere al sănătății oamenilor, aceste pliculețe de cafea instant precum cele de la Nescafe sau Jacobs sunt foarte ușor de preparat dar nu tocmai foarte sănătoase. Până și cafeaua clasică este mai sănătoasă, adevărat dar când cafeaua aia bună este cel puțin 20 lei și din pensia de 1000 lei sau salariul de 2700 lei nu îți permiți nici măcar să trăiești decent, mai bine dai un leu pe o cafea ușor periculoasă pentru sănătate decât să nu îți permiți să bei cafea dimineața ca să te poți trezi. Și chiar și așa, s-au obișnuit românii. La Mega Image de exemplu, rafturile de cafele sunt de multe ori pe terminate, că mulți se duc dimineața să își cumpere cafeaua instant de un leu. Un mare avantaj este că, conform unui studiu al unui român pe nume Daniel, pliculețul de un leu se prepară de 83% mai repede față de cafeaua clasică, pentru că nu trebuie decât să dai un leu, să ajungi acasâ, sa pui vreo 100ml apă la fiert la aragaz sau fierbător, aștepți aproximativ 2-4 minute și gata, cafeaua ta instant este gata de băut! Unii mai adaugă și zahăr deși aceste pliculețe au deja zahăr, să nu cumva să le amintească de cafeaua amară clasică. Românul știe ce are de făcut dimineața când se trezește, se duce la Mega Image să își cumpere cafeaua instant de un leu ca apoi să continue cu ziua, profitând la maxim de tehnologia revoluționară pe care ne-o oferă secolul 21. Numai să nu ajungem la spital. XD. Acesta a fost un pamflet.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-182611-dfaceb.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-182611-dfaceb.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-182611-dfaceb</guid>
+      <pubDate>Sun, 25 Oct 2026 18:26:11 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:56:00.865789+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Somnul, paradisul românilor</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-160306-3e60fe.html</link>
+      <description>Este oficial, România a trecut la ora de iarna duminică, 25 octombroe 2026 iar ora 4:00 a devenit ora 3:00, astfel oamenii au recâștigat ora de somn pierdută acum câteva luni, mai exact duminică, 29 martie 2026, în urmă cu 210 zile. Ce bucurie! Românii din intreaga țară au primit înapoi ce au pierdut acum aproape 6 luni! Majoritatea oamenilor chiar au sarbatorit această reușită prin a se asigura că TOATE alarmele telefoanelor sunt oprite și că NIMIC nu îi va deranja din paradis, mai ales că oricum, este totuși duminică, zi de odihnă pentru majoritatea oamenilor. Când te trezești cu mare bucurie dimineața dupa ora 11:00 și îți dai seama că ziua a devenit mai lungă cu o oră, parcă îți vine să te ciupești sau să rogi pe cineva din casă să te ciupească ca să nu vezi dacă cumva era doar un vis prea bun ca să fie adevărat! Pe Facebook, în cursul orei 12, un român pe nume Radu Alin Dorel Cristian Mihai Denis Marian a postat că, după ce pe 29 martie 2026 a pierdut exact 60 minute foarte prețioase de somn și s-a certat cu papagalul lui Paco pentru că ziua avea doar 23 ore, s-a simțit pentru prima dată ușurat când s-a trezit astăzi in jurul orei 11:40 după ce s-a culcat la ora 1:00 dimineața că s-a jucat League of Legends și nu a mai fost deranjat de telefonul lui Samsung Galaxy A55. În sfărșit, o zi bună pentru el, că de obicei românii din România au cam mereu ghinion, ca să nu mai vorbim de faptul că pentru mulți dintre ei, schimbarea orei este o pedeapsă, mai ales ora de vară care ne face sa pierdem o oră de somn. "Nu e corect să pierdem 60 minute de somn!" spun românii, unii dintre ei chiar au început un sondaj de opinie pe Facebook pentru interzicerea schimbării orei, despăgubiri de minim 5000 euro pentru fiecare român deranjat din paradisul său dulce din cauza pierderii celor 60 minute, sancțiuni pentru angajatorii care cheamă românii la muncă în acea zi și, cel mai important, garanția ca somnul va rămâne pentru totdeauna cel mai prețios, mare, bun, plăcut și perfect lucru care se poate întămpla unui om! Un medic neurolog care a ales să rămână anonim a declarat că, în general, pierderea a 60 minute de somn în fiecare an la finalul lunii martie poate cauza pe lângă complicațiile deja cunoscute și un posibil protest viitor al românilor pentru a-și recupera drepturile de a se bucura de somn, paradisul românilor fără să mai fie deranjați vreodata de ceva, oricât de important ar fi. Din păcate, postarea anonimă de pe Facebook a medicului de familie a fost ștearsă după 15 minute însâ, chiar și așa, românii au preluat postarea și acum fac dreptate, sperând la un moment dat ca schimbarea orei să nu se mai întâmple pe viitor niciodată și să aibă în sfârșit o viață perfectă în paradisul somnului. Acesta este un pamflet. XD.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-160306-3e60fe.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-160306-3e60fe.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-160306-3e60fe</guid>
+      <pubDate>Sun, 25 Oct 2026 16:03:06 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:56:11.461696+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Copacul special</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-141034-5f42cb.html</link>
+      <description>Salut! Sunt un copac special din Belgia cu frunze. Pa! 😂 🌳 🌲 Nu uita, sunt un copac special din Belgia cu frunze magice! Acesta este un pamflet. XD.</description>
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-141034-5f42cb</guid>
+      <pubDate>Sun, 25 Oct 2026 14:10:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aoleu, raceala!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-115459-9d2219.html</link>
+      <description>Este toamnă. Este frig. A început să plouă mai des iar zilele însorite sunt din ce în ce mai rare. Este o zi normală iar Mihai, protagonistul s-a trezit din somn dimineața. Când s-a trezit a observat că are dureri de gât. Dureri de gât. Mihai s-a dus la mama lui Dorina să îi ceara un paracetamol dar din pacate s-a consumat stocul de paracetamol din casă după ce sora lui mai mare Ana a luat ultima țiplă după ce în urmă cu 5 ore a descoperit că are dureri de cap și vroia să scape de ele ca să se poată juca League of Legends. "Aoleu, Ana. Mi-ai luat ultima speranță?" a întrebat Mihai. Așa că Mihai a început marea sa călătorie în găsirea unui leac. Călătoria începe prin a suna la cabinetul medicului său de familie Sorina pentru a se programa. A răspuns asistenta și i-a spus că ar avea un loc disponibil joi, 31 decembrie 2026 la ora 20:15 însă Mihai a cerut o programare mai urgentă pentru că deja încep să îl enerveze acele dureri de găt. Pănâ la urmă a fost programat a doua zi la ora 10:00 și medicul de familie fiind foarte ocupat i-a dat un bilet de trimitere către ORL că na, așa se face des în România. Te duci la medicu de familie, îți dă biletu ăla de trimitere fără de care nu poți primi nimic gratuit și te duci la ORL. După ce Mihai a plecat de la medicul de familie, medicul de familie a notat in Notepad "biletul de trimitere nr. 7839 din anul 2026". La ORL, Mihai a fost primit de medicul Silviu care l-a trimis să facă o radiografie sinuzală, adică pe românește, o fotografie medicală a nasului. După ce s-a certat cu tehnicianul pentru că nu i se permitea să își facâ selfie când i se făcea radiografia, s-a întors acasâ cu durerile de găt încă prezente și, în timp ce se juca Minecraft nervos că încă are dureri de gât și pare că nimănui nu-i pasă, din fericire, a venit mama la el și i-a spus că în timpul aventurii lui, s-a dus la farmacia de la colț și i-a luat Coldrex. Mihai i-a mulțumit mamei lui și chiar îi spunea că, ce s-ar fi făcut fără draga lui mamă care are mereu toate soluțiile la îndemână exact când te aștepți cel mai puțin. Atunci au decis să își schimbe și medicul de familie cu unul care are mai puține teancuri de bilete de trimitere in cabinet. Acesta este un pamflet. XD</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-115459-9d2219.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-115459-9d2219.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-115459-9d2219</guid>
+      <pubDate>Sun, 25 Oct 2026 11:54:59 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:56:30.065576+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Cei doi gameri</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-110835-40e5e7.html</link>
+      <description>Trăim într-o lume unde tehnologia face parte din viața noastră de zi cu zi iar acest lucru se și observă, nu doar se spune. Raul si Albert sunt doi prieteni foarte buni de liceu care, în timpul liber, mai ales în weekend se joacă pe calculator. Își dau întălnire frecvent pe Discord gen: "Hei mă Raule, dai si tu o partidă de CS?" și imediat se aruncă într-un meci. Nu doar atât, cei doi gameri au si RTX 3060 deci cadrele de secunda sunt de obicei garantate, cel puțin 240 fps că doar așa ești gamer adevărat. Lui Raul îi place să joace în echipa T că ăia sunt tare beton frate, mai ales când cea mai mare misiune a lor este să arunce totul în aer! Albert este genul de gamer care preferă stabilitatea, rapiditatea și, uneori, o partidă rapidă de League of Legends că el joacă mai ales cu Master Yi și de multe ori îi bate pe toți in ranked, făcăndu-l pe Raul gelos că el este cu CS. Dar chiar și așa, cei doi gameri se întâlnesc în fiecare vineri la ora 23:30 pentru urmatoarea noapte de gaming pe calculatoarele lor cu RTX 3060 și minim 240 cadre pe secundă. Bine că sâmbăta nu se duc la liceu și pot dormi pana cel puțin ora 13:00 că altfel trebuiau să își mute programul lor de gaming duminica! Acesta este un pamflet și trebuie tratat ca atare!</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-110835-40e5e7.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-110835-40e5e7.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-110835-40e5e7</guid>
+      <pubDate>Sun, 25 Oct 2026 11:08:35 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:56:39.680571+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Covrigul</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-100003-a3c87a.html</link>
+      <description>Cu toții ne-am cumpărat cel puțin o dată în viața noastră celebrii covrigi de la patiseriile din țară. Covrigi cu mac, cu susan, cu semințe, de toate felurile posibile. Mai ales când ai un anume covrig preferat, nimic nu te împiedică să te bucuri de el, nici măcar pisica! Laura din Botoșani știe foarte bine acest lucru, în fiecare dimineață de miercuri se duce la celebra patiserie numită evident Laura și cheltuie 2 lei din celebrul ei portofel pentru un covrig cu mac! Este o pierdere mică pentru ea dar la vârsta de 24 ani când își dorește ceva cu adevărat nu se oprește! După ce își cumpără gloriosul ei covrig saptămănal cu mac proaspăt si fierbinte mai ales că cere să fie oferit la exact 7 secunde după coacere se duce glorios acasă și începe ritualul mult așteptat. Pentru a se asigura că se bucură de moment, fiecare mușcătură din covrigul ei cu mac de miercuri are loc la exact 38 secunde pentru a putea mesteca și înghiți fiecare mușcătură cu prima avand loc la ora 6:43. Aceasta este o zi din viața Laurei din Botoșani. Acesta este un pamflet și trebuie tratat ca atare!</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-100003-a3c87a.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-100003-a3c87a.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-100003-a3c87a</guid>
+      <pubDate>Sun, 25 Oct 2026 10:00:03 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:56:48.987432+02:00</dcterms:modified>
+    </item>
+    <item>
+      <title>Incredibil! Ora 3:00 s-a repetat! Ce spun oamenii?</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261025-074601-6b3ac5.html</link>
+      <description>Știre de ultimă oră în România! Duminică, 25 octombrie 2026, trebuia să fie o oarecare duminică obișnuită pentru majoritatea românilor. Gigel, un bărbat de 38 de ani din Cluj-Napoca, tocmai se juca League of Legends pe calculatorul său când a observat ceva ce l-a lăsat fără cuvinte: după ce ceasul calculatorului a ajuns la ora 3:59, acesta a afișat din nou ora 3:00. Convins pentru câteva momente că lumea se confruntă cu o misterioasă problemă a spațiului și timpului, Gigel s-a speriat și a început să caute explicații. A încercat chiar să sune la diverse autorități pentru a raporta fenomenul neobișnuit. După ce a observat însă că toate telefoanele și dispozitivele din casă indicau aceeași oră, Gigel a decis în cele din urmă să accepte inexplicabila situație și să se ducă la culcare. Din fericire pentru Gigel, omenirea nu a rămas blocată într-o buclă temporală. Explicația era mult mai puțin spectaculoasă: România tocmai trecuse la ora de iarnă, iar ora 4:00 devenise ora 3:00. Aceasta este prima mea știre RSS publicată în cadrul proiectului FNN Local. 🎉 NOTĂ FNN: Acest material este o satiră. Gigel și întâmplarea prezentată în articol sunt fictive și au fost create în scop umoristic. Referirea la trecerea României la ora de iarnă reprezintă doar contextul real folosit pentru această poveste fictivă.</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-074601-6b3ac5.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN în studioul de știri, alături de sigla Florentina's National Network.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261025-074601-6b3ac5.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261025-074601-6b3ac5</guid>
+      <pubDate>Sun, 25 Oct 2026 07:46:01 +0200</pubDate>
+      <dcterms:modified>2026-10-26T16:56:58.355534+02:00</dcterms:modified>
+    </item>
+  </channel>
+</rss>

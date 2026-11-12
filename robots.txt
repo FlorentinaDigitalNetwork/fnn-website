@@ -1,0 +1,7 @@
+# FNN - Florentina's National Network
+# Nu trebuie sa dovedesti ca esti om.
+# Cititoarele RSS, agregatoarele si programele automate sunt binevenite.
+# Probleme de acces la feed? Contact pe pagina oficiala FNN de pe Facebook.
+
+User-agent: *
+Allow: /
