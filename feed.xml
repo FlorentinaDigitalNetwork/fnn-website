@@ -6,6 +6,49 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>FNN, publicația născută dintr-o idee, zero cunoștințe de programare și un chatbot care n-a cerut salariu</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261113-182039-264bad.html</link>
+      <description>O tânără din România a demonstrat că pentru a înființa o publicație online nu ai neapărat nevoie de un departament IT, un programator angajat sau un buget impresionant. Uneori sunt suficiente o idee, multă răbdare și un chatbot AI care știe să scrie cod.
+
+Povestea FNN a început când o tânără fără loc de muncă stabil, fără venituri regulate și fără cunoștințe de programare și-a dorit propria publicație online. […]</description>
+      <content:encoded>O tânără din România a demonstrat că pentru a înființa o publicație online nu ai neapărat nevoie de un departament IT, un programator angajat sau un buget impresionant. Uneori sunt suficiente o idee, multă răbdare și un chatbot AI care știe să scrie cod.
+
+Povestea FNN a început când o tânără fără loc de muncă stabil, fără venituri regulate și fără cunoștințe de programare și-a dorit propria publicație online. Singura problemă era că nu știa să construiască un site și nici nu își permitea să plătească un specialist.
+
+În loc să renunțe, a apelat la ChatGPT, un chatbot AI cunoscut în întreaga lume, căruia i-a explicat ce își dorește.
+
+„Vreau o publicație online, dar nu știu programare și nu am bani pentru un programator.”
+
+Răspunsul chatbotului nu a fost o ofertă comercială, o factură sau o solicitare de avans. A început pur și simplu să o ajute.
+
+Au urmat coduri, teste, erori, modificări, automatizări și numeroase situații în care un lucru care trebuia să funcționeze din prima a decis să funcționeze abia după a șaptesprezecea încercare.
+
+În cele din urmă, FNN a prins viață pe Cloudflare Workers, iar proiectul a continuat să se dezvolte, inclusiv cu ajutorul automatizărilor și al sistemelor de publicare.
+
+Departamentul IT al publicației nu are angajați, dar are conversații interminabile.
+
+Specialiștii fictivi consultați de FNN au declarat că situația este fără precedent: fondatoarea nu știe programare, chatbotul nu încasează salariu, iar site-ul există totuși.
+
+Un economist imaginar a încercat să calculeze costurile colaborării, dar a abandonat după ce a descoperit că factura pentru serviciile personale ale chatbotului era de zero lei.
+
+„Nu putem confirma dacă acesta este voluntariat, magie digitală sau o anomalie economică”, a declarat specialistul.
+
+În realitate, accesul la instrumentele AI și infrastructura online pot avea costuri, însă chatbotul nu solicită un onorariu personal pentru fiecare linie de cod.
+
+Fondatoarea FNN a transmis că nu intenționează să se oprească aici și că, deși încă nu știe să programeze, a început deja să recunoască anumite erori tehnice înainte să afle ce înseamnă.
+
+Concluzia FNN: Uneori, cea mai importantă investiție într-un proiect nu este financiară, ci curajul de a întreba: „Crezi că putem face asta?”</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261113-182039-264bad.png" medium="image" type="image/png">
+        <media:description>Creatoarea si asistentul ei AI</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261113-182039-264bad.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261113-182039-264bad</guid>
+      <pubDate>Fri, 13 Nov 2026 18:20:39 +0200</pubDate>
+    </item>
+    <item>
       <title>Criză mondială provocată de ciocolata prea delicioasă după ce oamenii au uitat să se mai oprească din mâncat</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261113-150619-f52244.html</link>
       <description>O situație absolut incredibilă a fost raportată în această dimineață după ce cercetătorii unui institut internațional fictiv au descoperit că ciocolata este atât de delicioasă încât oamenii care încep să o mănânce riscă să uite complet ce aveau de făcut iar descoperirea a provocat panică în întreaga lume după ce un angajat al unei fabrici de ciocolată a fost surprins consumând produsele destinate vânzării în timp ce […]</description>
