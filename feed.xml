@@ -6,6 +6,16 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>FNN are o știre extrem de importantă pentru toți cititorii! Citiți cu mare atenție!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261113-080937-53b7dd.html</link>
+      <description>FNN are o știre extrem de importantă pentru toți cititorii! Citiți cu mare atenție!</description>
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261113-080937-53b7dd</guid>
+      <pubDate>Fri, 13 Nov 2026 08:09:37 +0200</pubDate>
+    </item>
+    <item>
       <title>Criză națională în România: cartofii prăjiți sunt atât de delicioși încât cetățenii refuză să-i mai împartă cu familia!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261113-072431-cc8368.html</link>
       <description>România se confruntă cu o situație gastronomică fără precedent după ce cercetătorii unui institut fictiv au descoperit că deliciosul gust al cartofilor prăjiți poate provoca certuri familiale, întârzieri la serviciu și dispariția misterioasă a dietelor.
