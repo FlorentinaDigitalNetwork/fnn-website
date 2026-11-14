@@ -50,6 +50,16 @@ footer { max-width:900px; margin:0 auto; padding:12px 20px 40px; color:#66788c; 
 #fnn-calendar-banner{box-sizing:border-box;background:linear-gradient(110deg,#172c4b,#344e7c);color:#fff;padding:20px;border-bottom:4px solid #f5c453;text-align:center;font:17px/1.55 Arial,sans-serif}
 #fnn-calendar-banner *{box-sizing:border-box}#fnn-calendar-banner strong{display:block;font-size:clamp(20px,3vw,29px);color:#fff;margin-bottom:6px}#fnn-calendar-banner p{margin:6px auto;max-width:850px}#fnn-calendar-banner section+section{margin-top:14px;padding-top:12px;border-top:1px solid #6b83a5}
 </style>
+<style id="fnn-winter-style">
+body.fnn-winter{background-color:#dbeaf4!important;background-image:linear-gradient(180deg,rgba(224,240,250,.88),rgba(247,251,255,.82)),repeating-linear-gradient(130deg,transparent 0 90px,rgba(95,151,183,.12) 90px 92px)!important;background-attachment:fixed!important}
+body.fnn-winter::before{content:"";position:fixed;bottom:0;left:0;right:0;height:150px;pointer-events:none;z-index:0;background:linear-gradient(0deg,rgba(255,255,255,.75),transparent);}
+body.fnn-winter>header,body.fnn-winter>main,body.fnn-winter>footer{position:relative;z-index:1}
+#fnn-snow-layer{position:fixed;inset:0;pointer-events:none;overflow:hidden;z-index:10000}
+.fnn-snowflake{position:absolute;top:-2em;color:#fff;text-shadow:0 1px 3px #3b6b93;font-family:Arial,sans-serif;user-select:none;animation:fnn-snowfall linear infinite;will-change:transform}
+@keyframes fnn-snowfall{from{transform:translate3d(0,-5vh,0) rotate(0)}to{transform:translate3d(var(--drift),110vh,0) rotate(180deg)}}
+#fnn-snow-toggle{position:fixed;right:12px;bottom:12px;z-index:10001;border:1px solid #abc4db;border-radius:24px;background:#173d62;color:white;padding:9px 13px;font:600 13px Arial,sans-serif;cursor:pointer;box-shadow:0 2px 8px #0003}
+@media(prefers-reduced-motion:reduce){.fnn-snowflake{animation:none!important;display:none!important}}
+</style>
 </head>
 <body>
 <header class="site-header"><div class="header-inner">
@@ -85,7 +95,8 @@ footer { max-width:900px; margin:0 auto; padding:12px 20px 40px; color:#66788c; 
 <div class="notice"><strong>FNN</strong><br>Materialele satirice/pamflet sunt prezentate ca atare; materialele marcate explicit altfel pot avea alt caracter editorial.</div>
 <div class="follow">📘 Urmărește FNN și pe <a href="https://www.facebook.com/profile.php?id=61595957488635" target="_blank" rel="noopener noreferrer">pagina oficială de Facebook</a>.</div>
 </article></main>
-<aside class="fnn-related" aria-label="Alte articole FNN" data-fnn-bonus="recommendations"><h2>Mai citește și pe FNN</h2><ul><li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261114-063228-05efd0.html">SCANDAL FARMACEUTIC! Medicamentele de răceală care provoacă somnolență ar fi fost inventate pentru a obliga bolnavii să stea acasă și să nu mai îmbolnăvească populația!</a> <small>· Satira</small></li>
+<aside class="fnn-related" aria-label="Alte articole FNN" data-fnn-bonus="recommendations"><h2>Mai citește și pe FNN</h2><ul><li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261114-103633-259e2d.html">SCANDAL ÎN INDUSTRIA GAMING! GTA 6 ar putea necesita un supercomputer NASA pentru a rula la 30 FPS! Calculatoarele din 2026, declarate oficial „calculatoare de buzunar”!</a> <small>· Satira</small></li>
+<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261114-063228-05efd0.html">SCANDAL FARMACEUTIC! Medicamentele de răceală care provoacă somnolență ar fi fost inventate pentru a obliga bolnavii să stea acasă și să nu mai îmbolnăvească populația!</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261114-045610-4e176e.html">Pepsi cucerește Bucureștiul și Popești-Leordeni într-o invazie spectaculoasă a bulelor. Capitala României se transformă într-un uriaș regat al băuturilor carbogazoase, iar FNN descoperă o coincidență aniversară extraordinară!</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261113-182039-264bad.html">FNN, publicația născută dintr-o idee, zero cunoștințe de programare și un chatbot care n-a cerut salariu</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261113-150619-f52244.html">Criză mondială provocată de ciocolata prea delicioasă după ce oamenii au uitat să se mai oprească din mâncat</a> <small>· Satira</small></li>
@@ -95,8 +106,7 @@ footer { max-width:900px; margin:0 auto; padding:12px 20px 40px; color:#66788c; 
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261112-101748-0cb0fa.html">🚨 BREAKING NEWS DIN ANUL 2099! România a inaugurat primul Minister al Inteligenței Artificiale, dar ministrul-robot a intrat în concediu medical după ce a citit un formular ANAF!🚨 BREAKING NEWS DIN ANUL 2099! România a inaugurat primul Minister al Inteligenței Artificiale, dar ministrul-robot a intrat în concediu medical după ce a citit un formular ANAF!</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261112-081054-db61fb.html">REVOLUȚIE VIZUALĂ LA FNN! După 70 de articole, redacția descoperă că imaginile pot avea descrieri diferite!</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261112-063901-090cb9.html">Un prezentator de știri care nu doarme niciodată? Andrei Știri, programul românesc care transformă calculatorul într-o redacție!</a> <small>· Tehnologie</small></li>
-<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261112-052609-2851b0.html">🚨 ALERTĂ LA FNN! Creatoarea publicației și asistentul său AI au descoperit un posibil risc: „Nu vrem să oprim roboții, vrem doar să înțeleagă glumele!” 🤖🤣</a> <small>· Breaking News</small></li>
-<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261112-041233-e9615b.html">HAOS NAȚIONAL! O angajată cu internet de 1 Gbps, declarată dispărută de sistemul CRM după ce furnizorul i-a schimbat adresa IP! Patronul, disperat: „DE CE NAIBA NU TRECI LA IP FIX?!”</a> <small>· Satira</small></li></ul></aside>
+<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261112-052609-2851b0.html">🚨 ALERTĂ LA FNN! Creatoarea publicației și asistentul său AI au descoperit un posibil risc: „Nu vrem să oprim roboții, vrem doar să înțeleagă glumele!” 🤖🤣</a> <small>· Breaking News</small></li></ul></aside>
 <footer class="fnn-mega-footer" data-fnn-footer="site-footer" aria-label="Subsolul site-ului FNN">
   <div class="fnn-footer-inner">
     <div class="fnn-footer-heading"><div><div class="fnn-footer-brand">FNN <span>· SUBSOLUL REDACȚIEI</span></div><p>Florentina's National Network — știrile care au refuzat să rămână normale.</p></div><span class="fnn-footer-stamp">100% redacție fictivă</span></div>
@@ -169,6 +179,20 @@ footer { max-width:900px; margin:0 auto; padding:12px 20px 40px; color:#66788c; 
   const yearFmt=new Intl.DateTimeFormat("en",{timeZone:"Europe/Bucharest",year:"numeric"});
   function tick(){const now=new Date();if(clock)clock.textContent=timeFmt.format(now);if(date)date.textContent=dateFmt.format(now)+" · Ora României";if(year)year.textContent=yearFmt.format(now);}
   tick();setInterval(tick,1000);
+})();
+</script>
+<script id="fnn-winter-script">
+(function(){
+ "use strict";
+ const fmt=new Intl.DateTimeFormat("en-GB",{timeZone:"Europe/Bucharest",month:"2-digit",day:"2-digit"});
+ const reduce=window.matchMedia("(prefers-reduced-motion: reduce)");
+ let layer=null,button=null,active=false;
+ function isWinter(){const parts=fmt.formatToParts(new Date());const n=t=>Number(parts.find(p=>p.type===t).value);const m=n("month"),d=n("day");return m===12||(m===1&&d<=15);}
+ function snowEnabled(){try{return localStorage.getItem("fnn-snow-disabled")!=="1";}catch(e){return true;}}
+ function storeEnabled(v){try{localStorage.setItem("fnn-snow-disabled",v?"0":"1");}catch(e){}}
+ function renderSnow(){if(layer){layer.remove();layer=null;}if(!active||!snowEnabled()||reduce.matches)return;layer=document.createElement("div");layer.id="fnn-snow-layer";layer.setAttribute("aria-hidden","true");const count=Math.min(42,Math.max(18,Math.floor(innerWidth/27)));for(let i=0;i<count;i++){const f=document.createElement("span");f.className="fnn-snowflake";f.textContent=i%3===0?"❄":"•";f.style.left=(Math.random()*100)+"%";f.style.fontSize=(8+Math.random()*13)+"px";f.style.opacity=String(.4+Math.random()*.5);f.style.animationDuration=(9+Math.random()*15)+"s";f.style.animationDelay=(-Math.random()*25)+"s";f.style.setProperty("--drift",(Math.random()*100-50)+"px");layer.appendChild(f);}document.body.appendChild(layer);}
+ function update(){const next=isWinter();document.body.classList.toggle("fnn-winter",next);active=next;if(!next){if(layer){layer.remove();layer=null;}if(button){button.remove();button=null;}return;}if(!button){button=document.createElement("button");button.id="fnn-snow-toggle";button.type="button";button.addEventListener("click",()=>{const enabled=!snowEnabled();storeEnabled(enabled);renderSnow();button.textContent=enabled?"❄ Oprește ninsoarea":"❄ Pornește ninsoarea";});document.body.appendChild(button);}button.textContent=snowEnabled()?"❄ Oprește ninsoarea":"❄ Pornește ninsoarea";if(!layer)renderSnow();}
+ update();setInterval(update,60000);reduce.addEventListener?.("change",renderSnow);
 })();
 </script>
 </body>
