@@ -6,6 +6,20 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>Pepsi cucerește Bucureștiul și Popești-Leordeni într-o invazie spectaculoasă a bulelor. Capitala României se transformă într-un uriaș regat al băuturilor carbogazoase, iar FNN descoperă o coincidență aniversară extraordinară!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261114-045610-4e176e.html</link>
+      <description />
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261114-045610-4e176e.png" medium="image" type="image/png">
+        <media:description>Oamenii bucurandu-se de o sticla de Pepsi rece</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261114-045610-4e176e.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261114-045610-4e176e</guid>
+      <pubDate>Sat, 14 Nov 2026 04:56:10 +0200</pubDate>
+    </item>
+    <item>
       <title>FNN, publicația născută dintr-o idee, zero cunoștințe de programare și un chatbot care n-a cerut salariu</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261113-182039-264bad.html</link>
       <description>O tânără din România a demonstrat că pentru a înființa o publicație online nu ai neapărat nevoie de un departament IT, un programator angajat sau un buget impresionant. Uneori sunt suficiente o idee, multă răbdare și un chatbot AI care știe să scrie cod.
