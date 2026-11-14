@@ -6,6 +6,73 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>SCANDAL INFORMATIC! Un magazin online de ciocolată le trimite clienților parolele uitate prin e-mail și îi invită să depună reclamații la autorități!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261114-152321-b69fc1.html</link>
+      <description>Un magazin online complet fictiv, denumit ChocoParola, a revoluționat securitatea informatică printr-o metodă considerată de specialiști drept „cel mai sincer dezastru cibernetic din istorie”.
+
+Totul a început când un client a încercat să cumpere trei tablete de ciocolată, dar a descoperit că își uitase parola contului.
+
+A apăsat butonul „Am uitat parola”, a introdus adresa de e-mail și a primit următorul mesaj:
+
+De la: Departamentul Securitate ChocoParola
+
+Subiect: V-am găsit parola! […]</description>
+      <content:encoded>Un magazin online complet fictiv, denumit ChocoParola, a revoluționat securitatea informatică printr-o metodă considerată de specialiști drept „cel mai sincer dezastru cibernetic din istorie”.
+
+Totul a început când un client a încercat să cumpere trei tablete de ciocolată, dar a descoperit că își uitase parola contului.
+
+A apăsat butonul „Am uitat parola”, a introdus adresa de e-mail și a primit următorul mesaj:
+
+De la: Departamentul Securitate ChocoParola
+
+Subiect: V-am găsit parola! Cu plăcere!
+
+Bună ziua, stimate client!
+
+Am primit solicitarea dumneavoastră privind parola uitată.
+
+Vă informăm cu bucurie că parola dumneavoastră este:
+
+Ciocolata123!
+
+Nu este necesară resetarea acesteia, deoarece noi păstrăm toate parolele exact așa cum le-ați introdus. Considerăm că uitarea unei parole nu trebuie să reprezinte o problemă pentru clienții noștri!
+
+Pentru sesizările pe care suntem convinși că le veți depune la autoritățile competente, ne puteți contacta la numărul fictiv 000-CHOCO-AJUTOR.
+
+Vă mulțumim pentru încredere și vă dorim cumpărături plăcute!
+
+Cu stimă,
+
+Departamentul de Securitate și Reclamații Anticipate
+
+Clientul a rămas șocat.
+
+„Eu voiam doar o ciocolată cu alune! Acum trebuie să-mi schimb parolele și să contactez autoritățile!”, a declarat acesta.
+
+Contactat de reporterii FNN, directorul fictiv al magazinului a explicat filosofia companiei:
+
+„De ce să complicăm lucrurile cu resetări și coduri de verificare? Dacă omul și-a uitat parola, i-o spunem noi! Suntem un magazin transparent!”
+
+Întrebat dacă parolele sunt criptate, directorul a răspuns:
+
+„Desigur! Avem un lacăt desenat pe pagina principală!”
+
+ULTIMA ORĂ: ChocoParola a introdus o nouă funcție: „Trimite-mi parola și, opțional, formularul de reclamație ANSPDCP”.
+
+Compania analizează inclusiv posibilitatea de a oferi o tabletă de ciocolată gratuită fiecărui client care promite să nu anunțe autoritățile.
+
+Notă FNN: Articolul este un pamflet. Magazinul și întâmplările sunt fictive. În realitate, serviciile online trebuie să protejeze parolele utilizatorilor, de regulă prin stocarea unor valori hash securizate, nu în text clar. Recuperarea accesului se face printr-un mecanism sigur de resetare, nu prin trimiterea parolei existente prin e-mail.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261114-152321-b69fc1.png" medium="image" type="image/png">
+        <media:description>Femeie socata</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261114-152321-b69fc1.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261114-152321-b69fc1</guid>
+      <pubDate>Sat, 14 Nov 2026 15:23:21 +0200</pubDate>
+    </item>
+    <item>
       <title>SCANDAL ÎN INDUSTRIA GAMING! GTA 6 ar putea necesita un supercomputer NASA pentru a rula la 30 FPS! Calculatoarele din 2026, declarate oficial „calculatoare de buzunar”!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261114-103633-259e2d.html</link>
       <description>Panică imaginară printre pasionații de jocuri video după ce pe internet a apărut o listă complet fictivă cu presupusele cerințe de sistem pentru versiunea Windows a jocului GTA 6.
