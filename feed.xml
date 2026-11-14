@@ -6,6 +6,20 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>PANICĂ ÎN SISTEMUL BANCAR! Un bucureștean a confundat Banca Transilvania cu banca lui Dracula și BT Pay cu Apple Pay! A cerut să-și retragă economiile înainte de apus!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261114-185946-43b1ec.html</link>
+      <description />
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261114-185946-43b1ec.png" medium="image" type="image/png">
+        <media:description>Dracula. XD.</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261114-185946-43b1ec.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261114-185946-43b1ec</guid>
+      <pubDate>Sat, 14 Nov 2026 18:59:46 +0200</pubDate>
+    </item>
+    <item>
       <title>SCANDAL INFORMATIC! Un magazin online de ciocolată le trimite clienților parolele uitate prin e-mail și îi invită să depună reclamații la autorități!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261114-152321-b69fc1.html</link>
       <description>Un magazin online complet fictiv, denumit ChocoParola, a revoluționat securitatea informatică printr-o metodă considerată de specialiști drept „cel mai sincer dezastru cibernetic din istorie”.
