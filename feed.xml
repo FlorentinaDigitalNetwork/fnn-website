@@ -6,6 +6,43 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>FNN împlinește 3 săptămâni! Prima redacție a fost readusă la viață, dar propriul cititor RSS o consideră suspectă!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261115-093610-b7a4f4.html</link>
+      <description>Astăzi, Florentina's National Network (FNN) sărbătorește trei săptămâni de existență! Pe 25 octombrie 2026, o tânără fără cunoștințe de programare, ajutată de un chatbot AI, a pus bazele unei publicații satirice care avea să provoace numeroase situații absurde, inclusiv în propria infrastructură informatică.
+
+Puțini știu că FNN și-a petrecut prima zi de viață pe calculatorul fondatoarei, într-un modest server Python. […]</description>
+      <content:encoded>Astăzi, Florentina's National Network (FNN) sărbătorește trei săptămâni de existență! Pe 25 octombrie 2026, o tânără fără cunoștințe de programare, ajutată de un chatbot AI, a pus bazele unei publicații satirice care avea să provoace numeroase situații absurde, inclusiv în propria infrastructură informatică.
+
+Puțini știu că FNN și-a petrecut prima zi de viață pe calculatorul fondatoarei, într-un modest server Python. După aproximativ 24 de ore, publicația a fost expediată către Cloudflare Workers, unde și-a stabilit sediul principal.
+
+Cu ocazia aniversării, fondatoarea a decis să readucă la viață serverul original, transformat între timp într-o redacție locală de rezervă, disponibilă la adresa 127.0.0.1:8080.
+
+Numai că festivitățile au fost întrerupte de un incident neașteptat: Andrei Știri, propriul cititor RSS al publicației, a încercat în repetate rânduri să împiedice accesul la redacția locală!
+
+Responsabilul incidentului este Web Fetch Guard, sistemul de securitate al cititorului RSS, care a considerat adresa locală suficient de suspectă încât să declanșeze avertismente și blocări.
+
+„Este doar o redacție prostească de satiră din calculatorul meu! Nu face rău nimănui!”, a declarat fondatoarea, încercând să convingă paznicul digital să permită accesul.
+
+Potrivit unor surse fictive din interiorul redacției, Web Fetch Guard ar fi solicitat inclusiv verificarea antecedentelor penale ale fișierului feed.xml, precum și o declarație pe propria răspundere din partea serverului Python că nu intenționează să atace omenirea.
+
+În cele din urmă, Andrei Știri a reușit să acceseze FNN Local și să citească trei știri, demonstrând că serverul funcționează și că singura amenințare reală la adresa redacției era, aparent, propriul său paznic.
+
+La trei săptămâni de la înființare, FNN are acum două sedii, un flux RSS, o arhivă de articole și un sistem de securitate atât de vigilent încât uneori nu permite nici proprietarului să intre.
+
+FNN transmite tuturor cititorilor: vă mulțumim pentru primele 21 de zile!
+
+Web Fetch Guard nu a aprobat încă acest mesaj aniversar. Motivul oficial: publicația a fost identificată comunicând cu ea însăși.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261115-093610-b7a4f4.png" medium="image" type="image/png">
+        <media:description>FNN implineste 3 saptamani</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261115-093610-b7a4f4.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261115-093610-b7a4f4</guid>
+      <pubDate>Sun, 15 Nov 2026 09:36:10 +0200</pubDate>
+    </item>
+    <item>
       <title>STUDIU ȘOCANT! Cercetătorii au descoperit că unele persoane pot rezista peste 200 de ore fără somn! Rezultatele ar putea revoluționa programul de muncă!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261115-045125-220d52.html</link>
       <description>O cercetare prezentată de specialiștii fictivi FNN a provocat agitație în rândul angajatorilor după ce s-a descoperit că anumite organisme pot rămâne active peste 200 de ore fără să manifeste semne evidente de oboseală.
