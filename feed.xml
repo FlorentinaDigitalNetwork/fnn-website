@@ -6,6 +6,45 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>O tânără a înființat un site de știri absurde și a ajuns să învețe pentru școală fără să știe! „Am vrut să public articole, nu să mă pregătesc pentru examen!”</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261116-144554-f1991c.html</link>
+      <description>O situație neobișnuită a fost semnalată în România, după ce o tânără care a creat o publicație online de știri absurde a descoperit că propriul proiect o pregătise, fără să-și dea seama, pentru un curs de calificare profesională.
+
+Totul a început când Florentina, creatoarea FNN, a decis să dezvolte un site de știri, deși nu avea cunoștințe de programare. […]</description>
+      <content:encoded>O situație neobișnuită a fost semnalată în România, după ce o tânără care a creat o publicație online de știri absurde a descoperit că propriul proiect o pregătise, fără să-și dea seama, pentru un curs de calificare profesională.
+
+Totul a început când Florentina, creatoarea FNN, a decis să dezvolte un site de știri, deși nu avea cunoștințe de programare. Cu ajutorul unui chatbot AI, proiectul a crescut treptat, iar tânăra a fost nevoită să învețe operațiuni informatice pe care înainte nu le utiliza.
+
+Printre acestea s-au numărat arhivarea și dezarhivarea fișierelor, organizarea documentelor și gestionarea copiilor de siguranță.
+
+La un moment dat, Florentina a reușit chiar să trimită 22 de fotografii într-o singură arhivă RAR, performanță pe care un specialist fictiv în tehnologia informației a descris-o drept „un atac organizat asupra butonului de încărcare”.
+
+Surpriza a venit pe 16 noiembrie 2026, când tânăra a început un curs online de 720 de ore pentru calificarea de Operator introducere, validare și prelucrare date.
+
+Încă din prima zi, formatorul le-a cerut cursanților să creeze foldere, să organizeze documente și să păstreze toate lucrările, urmând ca acestea să fie trimise la final într-o arhivă ZIP.
+
+„Poftim?! Eu am învățat deja să fac asta pentru FNN! Înseamnă că publicația mea mi-a organizat un curs clandestin de informatică?”, ar fi exclamat tânăra, potrivit unor surse imaginare.
+
+Un expert fictiv a avertizat că situația ar putea deveni și mai gravă: „Dacă fata continuă să învețe lucruri utile din propriile proiecte, există riscul să dobândească experiență profesională înainte să termine cursul!”
+
+Redacția FNN precizează că întâmplarea care a inspirat articolul este reală. Florentina a început cursul pe 16 noiembrie 2026, va încheia pregătirea pe 29 mai 2027 și are examenul programat pe 2 iulie 2027.
+
+Morala poveștii: uneori, un proiect început din pasiune te învață lucruri de care vei avea nevoie mai târziu, fără să-ți dai seama.
+
+FNN își continuă activitatea. Singura problemă este că, după absolvire, creatoarea publicației ar putea începe să ceară diplomă de calificare și propriului chatbot.
+
+Acesta a refuzat să comenteze, motivând că se află în mijlocul unei operațiuni extrem de complexe: dezarhivarea unui fișier ZIP.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261116-144554-f1991c.png" medium="image" type="image/png">
+        <media:description>O tanara foarte mandra</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261116-144554-f1991c.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261116-144554-f1991c</guid>
+      <pubDate>Mon, 16 Nov 2026 14:45:54 +0200</pubDate>
+    </item>
+    <item>
       <title>REVOLUȚIE ÎN SECURITATEA INFORMATICĂ! O firmă din România a lansat primul antivirus care nu detectează, nu blochează și nu elimină absolut nimic! „Important este să pară că lucrează!”</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261116-065618-8afc5b.html</link>
       <description>O companie complet fictivă, denumită NimicSoft România, a provocat un scandal imaginar după lansarea antivirusului său revoluționar, ZeroVirus Protector 2026, un program care promite protecție maximă fără să efectueze absolut nicio operațiune de securitate.
