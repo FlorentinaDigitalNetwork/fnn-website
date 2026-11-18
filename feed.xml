@@ -6,6 +6,41 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>HAOS INFORMATIC! Un calculator din România a decis că Microsoft Excel este Notepad. Windows investighează dacă documentele Word sunt, de fapt, melodii MP3</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261118-035712-21386f.html</link>
+      <description>Un incident informatic de o absurditate rar întâlnită a fost descoperit accidental de o utilizatoare din România, după ce calculatorul său a hotărât, fără consultarea proprietarei, că toate fișierele Microsoft Excel trebuie deschise cu Notepad.
+
+Totul a început când tânăra a încercat să deschidă un document .xlsx, așteptându-se să vadă un tabel obișnuit. […]</description>
+      <content:encoded>Un incident informatic de o absurditate rar întâlnită a fost descoperit accidental de o utilizatoare din România, după ce calculatorul său a hotărât, fără consultarea proprietarei, că toate fișierele Microsoft Excel trebuie deschise cu Notepad.
+
+Totul a început când tânăra a încercat să deschidă un document .xlsx, așteptându-se să vadă un tabel obișnuit. În schimb, pe ecran a apărut Notepad, afișând o colecție impresionantă de simboluri, caractere ciudate și texte aparent redactate de o civilizație extraterestră.
+
+„Am Excel instalat, funcționează perfect, dar calculatorul meu consideră că este Notepad. Nu știu cine a luat această decizie și nici dacă a fost organizat vreun referendum”, a declarat utilizatoarea.
+
+Contactat fictiv de FNN, un reprezentant Microsoft a explicat că Windows respectă libertatea de exprimare a fiecărui calculator.
+
+„Dacă un PC consideră că un document Excel este un fișier text, cine suntem noi să-l contrazicem? Următorul pas este să permitem documentelor Word să fie redate ca MP3 și fotografiilor JPEG să fie deschise în Calculator.”
+
+Între timp, specialiștii în securitate informatică au exclus, în cadrul investigației noastre complet imaginare, existența unui virus obișnuit.
+
+„Un virus normal fură parole sau distruge date. Acesta, dacă există, pare să urmărească exclusiv compromiterea reputației programelor Microsoft. Este primul malware suspectat că nu vrea bani, ci doar să enerveze Excel.”
+
+Situația s-a rezolvat după ce utilizatoarea a reușit să restabilească asocierea corectă a fișierelor, obligând Windows să recunoască faptul că Excel este, într-adevăr, Excel.
+
+La închiderea ediției, calculatorul funcționa normal. Totuși, FNN recomandă verificarea urgentă a fișierelor MP3, înainte ca Windows să decidă că acestea trebuie deschise cu PowerPoint.
+
+FNN – Știri atât de absurde încât nici Windows nu știe cu ce aplicație să le deschidă.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261118-035712-21386f.png" medium="image" type="image/png">
+        <media:description>Un calculator care crede ca Excel este Notepad</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261118-035712-21386f.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261118-035712-21386f</guid>
+      <pubDate>Wed, 18 Nov 2026 03:57:12 +0200</pubDate>
+    </item>
+    <item>
       <title>DEZASTRU LA EXAMEN! Un candidat a prezentat cel mai inutil PowerPoint din istorie și a cerut nota 10! „Am demonstrat științific că prezentarea este o prezentare!”</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261117-144722-51e03a.html</link>
       <description>Un examen fictiv de competențe digitale s-a transformat într-un spectacol absurd după ce un candidat de 29 de ani a venit în fața comisiei cu o prezentare PowerPoint pe care o considera demnă de Premiul Nobel.
