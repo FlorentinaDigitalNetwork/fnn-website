@@ -6,6 +6,27 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>CUTREMUR DE 5,7 ÎN ROMÂNIA! O FEMEIE DIN ILFOV A DORMIT ATÂT DE PROFUND ÎNCÂT A AFLAT DE SEISM ABIA PE FACEBOOK! „De ce nu m-a anunțat nimeni că se mișcă Pământul?”</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261118-155408-d50946.html</link>
+      <fnn:lab>editorial-teaser-auto</fnn:lab>
+      <description>Un fenomen absolut incredibil a fost raportat de cercetătorii fictivi FNN după cutremurul produs la ora 02:48 în zona Vrancea.
+
+În timp ce numeroși români au simțit mișcarea seismică, o femeie din Ilfov și-a continuat somnul fără să observe absolut nimic.
+
+Potrivit anchetei imaginare, femeia dormea atât de profund încât nici măcar Pământul nu a reușit să-i atragă atenția.
+
+„Eu aveam program de somn! […]</description>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261118-155408-d50946.png" medium="image" type="image/png">
+        <media:description>Un cutremur invizibil</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261118-155408-d50946.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261118-155408-d50946</guid>
+      <pubDate>Wed, 18 Nov 2026 15:54:08 +0200</pubDate>
+    </item>
+    <item>
       <title>SCANDAL INFORMATIC! Un angajat și-a protejat contul de serviciu cu parola „123456”, hackerii au spart-o în câteva secunde și au comandat doar cafea! „Nu ne interesa compania, eram obosiți!”</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261118-080824-6e2777.html</link>
       <description>O companie complet fictivă din România, denumită BirouMax Solutions, a fost protagonista celui mai inutil atac informatic din istorie, după ce un angajat de 32 de ani a ales pentru contul profesional parola extrem de sigură, în opinia sa, „123456”.
