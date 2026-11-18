@@ -6,6 +6,65 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>SCANDAL INFORMATIC! Un angajat și-a protejat contul de serviciu cu parola „123456”, hackerii au spart-o în câteva secunde și au comandat doar cafea! „Nu ne interesa compania, eram obosiți!”</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261118-080824-6e2777.html</link>
+      <description>O companie complet fictivă din România, denumită BirouMax Solutions, a fost protagonista celui mai inutil atac informatic din istorie, după ce un angajat de 32 de ani a ales pentru contul profesional parola extrem de sigură, în opinia sa, „123456”.
+
+„Am ales-o pentru că este ușor de memorat. În plus, cine s-ar gândi că tocmai asta este parola mea?”, a explicat bărbatul.
+
+Răspunsul a venit imediat: absolut […]</description>
+      <content:encoded>O companie complet fictivă din România, denumită BirouMax Solutions, a fost protagonista celui mai inutil atac informatic din istorie, după ce un angajat de 32 de ani a ales pentru contul profesional parola extrem de sigură, în opinia sa, „123456”.
+
+„Am ales-o pentru că este ușor de memorat. În plus, cine s-ar gândi că tocmai asta este parola mea?”, a explicat bărbatul.
+
+Răspunsul a venit imediat: absolut oricine.
+
+Potrivit anchetatorilor fictivi, hackerii au ghicit parola în câteva secunde și au obținut acces la contul angajatului, care includea documente profesionale, mesaje interne și o aplicație pentru comandarea cafelei.
+
+În mod surprinzător, infractorii nu au furat documente, nu au șters fișiere și nu au solicitat răscumpărare.
+
+Au comandat patru cappuccino, două espresso și un latte cu vanilie.
+
+„Inițial voiam să vedem ce informații găsim, dar am observat butonul «Comandă cafea». Era ora 06:30 și ne era somn!”, a declarat un hacker imaginar.
+
+Departamentul IT a descoperit incidentul după ce angajatul a primit o notificare:
+
+„Comanda dumneavoastră de 87 de lei a fost confirmată. Cafeaua este în drum spre dumneavoastră!”
+
+„Dar eu nici măcar nu beau cafea!”, a exclamat victima.
+
+Directorul companiei a convocat imediat o ședință de criză.
+
+„Au accesat documentele confidențiale?”
+
+„Nu.”
+
+„Au furat bani?”
+
+„Doar cei 87 de lei pentru cafea.”
+
+„Au instalat viruși?”
+
+„Nu. Dar au cerut lapte suplimentar.”
+
+ULTIMA ORĂ: Compania a introdus obligativitatea parolelor complexe, iar angajatul a anunțat că și-a schimbat parola în „1234567”.
+
+Departamentul IT și-a depus demisia colectivă.
+
+Între timp, hackerii fictivi au transmis un ultim mesaj: „Vă mulțumim pentru cafea. Data viitoare, vă rugăm să aveți și croissante!”
+
+Notă FNN: Articolul este un pamflet. Compania, personajele și incidentul sunt inventate. În realitate, parolele slabe pot permite accesul neautorizat la informații și servicii. Folosiți parole unice și puternice, preferabil generate de un manager de parole, și activați autentificarea multifactorială.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261118-080824-6e2777.png" medium="image" type="image/png">
+        <media:description>Un angajat neglijent</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261118-080824-6e2777.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261118-080824-6e2777</guid>
+      <pubDate>Wed, 18 Nov 2026 08:08:24 +0200</pubDate>
+    </item>
+    <item>
       <title>HAOS INFORMATIC! Un calculator din România a decis că Microsoft Excel este Notepad. Windows investighează dacă documentele Word sunt, de fapt, melodii MP3</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261118-035712-21386f.html</link>
       <description>Un incident informatic de o absurditate rar întâlnită a fost descoperit accidental de o utilizatoare din România, după ce calculatorul său a hotărât, fără consultarea proprietarei, că toate fișierele Microsoft Excel trebuie deschise cu Notepad.
