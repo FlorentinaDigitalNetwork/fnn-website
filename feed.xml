@@ -6,6 +6,43 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>BREAKING NEWS FNN! Redacția care publică știri din anul 2099 a primit nota B pentru propriul flux RSS. Două publicații serioase au reușit performanțe mult mai bizare!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261119-182155-c6886d.html</link>
+      <description>Bucurie fără precedent în redacția Florentina's National Network! FNN, publicația satirică independentă construită manual de o tânără fără pregătire în programare, cu ajutorul unui asistent bazat pe inteligență artificială, a primit nota B la evaluarea tehnică a propriului flux RSS, realizată de un serviciu important de agregare și verificare a știrilor online.
+
+Identitatea evaluatorului rămâne confidențială, pentru […]</description>
+      <content:encoded>Bucurie fără precedent în redacția Florentina's National Network! FNN, publicația satirică independentă construită manual de o tânără fără pregătire în programare, cu ajutorul unui asistent bazat pe inteligență artificială, a primit nota B la evaluarea tehnică a propriului flux RSS, realizată de un serviciu important de agregare și verificare a știrilor online.
+
+Identitatea evaluatorului rămâne confidențială, pentru a proteja liniștea sufletească a publicațiilor care au primit note mai mici.
+
+Rezultatul? ZERO erori, două avertismente și trei observații! Fluxul RSS funcționează, articolele sunt recunoscute, iar serverul a răspuns în aproximativ 0,05 secunde.
+
+Cele două avertismente sunt, culmea, rezultatul unor decizii editoriale intenționate: câteva articole fără descriere și o știre publicată direct din anul 2099. Redacția precizează că nu intenționează să aștepte 73 de ani pentru a o considera actuală.
+
+Între timp, cititorul personal RSS „Andrei Știri”, care folosește vocea Microsoft Andrei, a descoperit situații spectaculoase la două publicații reale, ale căror identități vor rămâne anonime.
+
+Prima publicație oferă articole recente cu descrieri complet goale, probabil pentru a încuraja cititoarele RSS să-și folosească imaginația.
+
+A doua publicație a decis să atribuie același identificator tuturor articolelor sale, transformând zece știri diferite într-o singură familie digitală. Unele cititoare RSS ar putea interpreta această minunăție drept un singur articol.
+
+Surse apropiate redacției susțin că Microsoft Andrei ar fi exclamat: „Vă rog să vă hotărâți! Ori îmi dați știri, ori mă puneți să ghicesc!”
+
+FNN sărbătorește nota B fără șampanie, fără buget și fără departament IT, dar cu satisfacția că un flux RSS construit manual poate funcționa mai corect decât unele realizate de publicații consacrate.
+
+Conducerea FNN a transmis un mesaj oficial: „Noi inventăm știrile, nu identificatorii articolelor!”
+
+Acest articol este satiric. Rezultatul evaluării RSS și problemele tehnice menționate sunt reale, însă declarațiile și reacțiile personajelor sunt fictive.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261119-182155-c6886d.png" medium="image" type="image/png">
+        <media:description>Florentina sarbatorind</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261119-182155-c6886d.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261119-182155-c6886d</guid>
+      <pubDate>Thu, 19 Nov 2026 18:21:55 +0200</pubDate>
+    </item>
+    <item>
       <title>SPRIJIN FINANCIAR ISTORIC! Guvernul fictiv oferă tinerilor fără loc de muncă și fără venituri un ajutor de 1 LEU PE LUNĂ! „În 36 de luni puteți strânge o avere de 36 de lei!”</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261119-151907-7676a4.html</link>
       <description>Guvernul complet fictiv al României a adoptat Ordonanța de Urgență nr. 999/2026 privind sprijinirea persoanelor cu vârste între 18 și 35 de ani care nu au loc de muncă și nu realizează niciun venit.
