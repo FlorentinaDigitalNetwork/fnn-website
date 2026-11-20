@@ -1,7 +1,7 @@
 # FNN - Florentina's National Network
 # Nu trebuie sa dovedesti ca esti om.
 # Cititoarele RSS, agregatoarele si programele automate sunt binevenite.
-# Probleme de acces la feed? Contact pe pagina oficiala FNN de pe Facebook.
+# FNN nu mai are pagina oficiala Facebook. Sursa oficiala: https://fnn.gnica430.workers.dev/
 
 User-agent: *
 Allow: /

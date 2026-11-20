@@ -6,6 +6,43 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>COMUNICAT FNN: Facebook a suspendat un cont pentru distribuirea unei știri despre Facebook. Redacția FNN a decis să părăsească platforma!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261120-143627-586f2d.html</link>
+      <description>O situație demnă de un pamflet, dar cât se poate de reală, a determinat conducerea Florentina's National Network (FNN) să renunțe definitiv la pagina oficială de Facebook.
+
+Totul a început pe 20 noiembrie 2026, când administratoarea publicației a distribuit o postare despre presupusa eliminare a profilurilor suplimentare Facebook începând din decembrie. […]</description>
+      <content:encoded>O situație demnă de un pamflet, dar cât se poate de reală, a determinat conducerea Florentina's National Network (FNN) să renunțe definitiv la pagina oficială de Facebook.
+
+Totul a început pe 20 noiembrie 2026, când administratoarea publicației a distribuit o postare despre presupusa eliminare a profilurilor suplimentare Facebook începând din decembrie. La scurt timp, contul său a fost suspendat pentru o presupusă încălcare a regulilor privind securitatea cibernetică.
+
+Cu alte cuvinte, Facebook a considerat problematică distribuirea unei știri despre... Facebook!
+
+După depunerea contestației, Meta a analizat situația și a restabilit contul, confirmând că activitatea acestuia respectă Standardele comunității. Postarea distribuită a rămas însă eliminată, fiind considerată potențial periculoasă pentru securitatea utilizatorilor.
+
+Incidentul nu a fost singurul motiv al deciziei. Administratoarea FNN s-a confruntat anterior și cu restricții privind promovarea serviciilor profesionale de masaj, unele postări fiind interpretate drept conținut cu caracter sexual.
+
+„Am ajuns în situația absurdă în care trebuie să mă întreb dacă distribuirea unei știri despre Facebook îmi poate suspenda contul. Prefer să îmi continui activitatea editorială fără asemenea surprize”, transmite conducerea FNN.
+
+Începând cu 20 noiembrie 2026, pagina Facebook a FNN a fost ștearsă definitiv.
+
+Publicația își continuă activitatea pe site-ul oficial, găzduit prin Cloudflare Workers, și prin fluxul RSS, fără a depinde de o rețea socială.
+
+Departamentul fictiv de relații publice al FNN a transmis că a încercat să publice un mesaj de despărțire pe Facebook, dar s-a răzgândit de teamă că Facebook ar putea considera și despărțirea o amenințare cibernetică.
+
+FNN rămâne online. Facebook rămâne fără FNN. XD
+
+Notă editorială: Incidentul relatat este real, iar pasajul despre departamentul fictiv de relații publice reprezintă umor satiric.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261120-143627-586f2d.png" medium="image" type="image/png">
+        <media:description>Redactia FNN va continua exclusiv pe Cloudflare Workers si RSS</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261120-143627-586f2d.png" />
+      <category>Breaking News</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261120-143627-586f2d</guid>
+      <pubDate>Fri, 20 Nov 2026 14:36:27 +0200</pubDate>
+    </item>
+    <item>
       <title>BREAKING NEWS FNN! Redacția care publică știri din anul 2099 a primit nota B pentru propriul flux RSS. Două publicații serioase au reușit performanțe mult mai bizare!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261119-182155-c6886d.html</link>
       <description>Bucurie fără precedent în redacția Florentina's National Network! FNN, publicația satirică independentă construită manual de o tânără fără pregătire în programare, cu ajutorul unui asistent bazat pe inteligență artificială, a primit nota B la evaluarea tehnică a propriului flux RSS, realizată de un serviciu important de agregare și verificare a știrilor online.
@@ -1415,12 +1452,12 @@ NOTĂ FNN: Acest articol este o satiră. Modernizarea FNN Publisher și existen�
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261110-190952-604b0c.html</link>
       <description>Redacția FNN le recomandă cititorilor să nu depună reclamații împotriva pernelor și să nu solicite codul fiscal al oilor.
 
-La închiderea ediției, oaia numărul 47 conUn studiu complet fictiv realizat de Institutul Național pentru Cercetarea Pernei și a Cearșafului Rătăcit a descoperit că românii care nu reușesc să adoarmă noaptea sunt dispuși să încerce aproape orice pentru a obține câteva ore de somn.
+Un studiu complet fictiv realizat de Institutul Național pentru Cercetarea Pernei și a Cearșafului Rătăcit a descoperit că românii care nu reușesc să adoarmă noaptea sunt dispuși să încerce aproape orice pentru a obține câteva ore de somn.
 
-De la […]</description>
+De la număratul oilor până la verificarea facturilor, […]</description>
       <content:encoded>Redacția FNN le recomandă cititorilor să nu depună reclamații împotriva pernelor și să nu solicite codul fiscal al oilor.
 
-La închiderea ediției, oaia numărul 47 conUn studiu complet fictiv realizat de Institutul Național pentru Cercetarea Pernei și a Cearșafului Rătăcit a descoperit că românii care nu reușesc să adoarmă noaptea sunt dispuși să încerce aproape orice pentru a obține câteva ore de somn.
+Un studiu complet fictiv realizat de Institutul Național pentru Cercetarea Pernei și a Cearșafului Rătăcit a descoperit că românii care nu reușesc să adoarmă noaptea sunt dispuși să încerce aproape orice pentru a obține câteva ore de somn.
 
 De la număratul oilor până la verificarea facturilor, negocieri cu mobilierul și amenințări adresate ceasului deșteptător, metodele identificate de cercetătorii imaginari sunt atât de spectaculoase încât insomnia însăși a cerut concediu medical.
 
@@ -1546,7 +1583,9 @@ După analizarea tuturor metodelor, Institutul Național pentru Cercetarea Perne
 
 Somnul nu poate fi obligat să apară prin amenințări, negocieri, declarații fiscale sau actualizări Windows.
 
-În schimb, obiceiurile sănătoase, reducerea stresului și identificarea eventualelor cauze medicale pot contribui la îmbunătățirea somnuluitinua să refuze prezentarea documentelor.
+În schimb, obiceiurile sănătoase, reducerea stresului și identificarea eventualelor cauze medicale pot contribui la îmbunătățirea somnului.
+
+La închiderea ediției, oaia numărul 47 continua să refuze prezentarea documentelor.
 
 FNN – Florentina's National Network. Știri, satiră, realitate... aproape.
 
