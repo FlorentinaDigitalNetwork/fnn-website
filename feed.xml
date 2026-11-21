@@ -6,6 +6,46 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>FNN | Facebook declară război securității cibernetice: utilizatorii care distribuie informații riscă să fie confundați cu hackerii</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261121-050420-38c15a.html</link>
+      <description>O companie fictivă de socializare, MetaMatic, a introdus un sistem revoluționar de moderare care identifică amenințările informatice înainte ca acestea să existe. Potrivit reprezentanților companiei, noua tehnologie poate transforma orice distribuire nevinovată într-un incident de securitate națională în mai puțin de trei secunde.
+
+Primul caz a implicat o femeie care a distribuit un avertisment despre modificarea profilurilor utilizatorilor. […]</description>
+      <content:encoded>O companie fictivă de socializare, MetaMatic, a introdus un sistem revoluționar de moderare care identifică amenințările informatice înainte ca acestea să existe. Potrivit reprezentanților companiei, noua tehnologie poate transforma orice distribuire nevinovată într-un incident de securitate națională în mai puțin de trei secunde.
+
+Primul caz a implicat o femeie care a distribuit un avertisment despre modificarea profilurilor utilizatorilor. Sistemul a concluzionat imediat că aceasta încearcă să colecteze parole, deși postarea nu conținea niciun formular, nicio solicitare de date și nici măcar un link.
+
+„Tocmai absența formularului ne-a făcut suspicioși. Hackerii moderni sunt extrem de discreți”, a explicat un purtător de cuvânt fictiv.
+
+Situația a devenit și mai gravă după ce femeia a contestat decizia. Contul i-a fost restabilit, dar distribuirea a rămas eliminată.
+
+„Utilizatoarea este nevinovată, însă postarea continuă să fie vinovată. Nu vedem nicio contradicție”, a precizat departamentul de logică digitală.
+
+Alte incidente au provocat panică internațională. Un pensionar care a scris „Bună dimineața!” a fost suspendat pentru tentativă de acces neautorizat la dimineața altor persoane. O profesoară care a publicat tabla înmulțirii a fost acuzată că distribuie coduri secrete de autentificare, iar un bucătar care a recomandat schimbarea periodică a uleiului a fost sancționat pentru promovarea schimbării parolelor fără autorizație.
+
+Într-un alt caz, fotografia unei pisici dormind pe tastatură a fost clasificată drept atac informatic, deoarece animalul apăsase simultan șapte taste.
+
+
+Pentru soluționarea reclamațiilor, compania a angajat un algoritm care verifică deciziile altui algoritm. Dacă cele două nu sunt de acord, intervine un al treilea, programat să confirme primul rezultat.
+
+Disperați, utilizatorii au apelat la o organizație independentă formată din reprezentanți ai speciei Homo sapiens.
+
+„Am descoperit că unele postări trebuie citite înainte de a fi eliminate. Este o metodă experimentală, dar promițătoare”, a declarat coordonatorul fictiv al proiectului.
+
+MetaMatic a anunțat că investighează această descoperire și că, până la finalizarea cercetărilor, orice utilizator care întreabă „De ce?” ar putea fi suspendat pentru tentativă de acces la raționamentul algoritmului.
+
+FNN precizează: Articolul este o satiră. Compania MetaMatic, declarațiile și incidentele suplimentare sunt fictive. Povestea este inspirată de dificultățile reale pe care utilizatorii le pot întâmpina în contestarea deciziilor de moderare automată.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261121-050420-38c15a.png" medium="image" type="image/png">
+        <media:description>O imagine cu un robot de la MetaMatic</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261121-050420-38c15a.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261121-050420-38c15a</guid>
+      <pubDate>Sat, 21 Nov 2026 05:04:20 +0200</pubDate>
+    </item>
+    <item>
       <title>FNN | Cursant promovat accidental la conducerea Google Meet: „Eu venisem să învăț Word, nu să administrez o instituție!”</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261120-151440-a878a7.html</link>
       <description>O simplă participare la un curs online s-a transformat într-o criză administrativă după ce o cursantă a descoperit că fusese desemnată gazdă în Google Meet, fără să primească manualul de supraviețuire.
