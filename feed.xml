@@ -6,6 +6,53 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>FNN INAUGUREAZĂ MINISTERUL LUCRURILOR CARE NU NECESITĂ APROBARE: ROMÂNII POT OBȚINE, ÎN SFÂRȘIT, AUTORIZAȚII PENTRU ACTIVITĂȚI PERFECT LEGALE!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261122-075534-64f6cc.html</link>
+      <description>FNN – Florentina's National Network anunță lansarea Ministerului Lucrurilor Care Nu Necesită Aprobare (MLCNA), prima instituție fictivă a redacției care poate aproba, respinge sau amâna activități pentru care nimeni nu avea nevoie de aprobare.
+
+Noul serviciu satiric oferă 100 de activități, repartizate în 10 categorii, și cinci tipuri de verdict. […]</description>
+      <content:encoded>FNN – Florentina's National Network anunță lansarea Ministerului Lucrurilor Care Nu Necesită Aprobare (MLCNA), prima instituție fictivă a redacției care poate aproba, respinge sau amâna activități pentru care nimeni nu avea nevoie de aprobare.
+
+Noul serviciu satiric oferă 100 de activități, repartizate în 10 categorii, și cinci tipuri de verdict. Cetățenii pot solicita autorizații pentru deschiderea frigiderului, apăsarea tastei Enter, mângâierea unei pisici și alte operațiuni care, până astăzi, se desfășurau în mod scandalos fără intervenția vreunui minister.
+
+„Nu putem permite ca oamenii să continue să bea apă fără să primească măcar un document inutil”, a declarat un funcționar imaginar al instituției, înainte să respingă propria cerere de pauză.
+
+Cum folosești ministerul?
+
+Accesează pagina oficială:
+
+https://fnn.gnica430.workers.dev/minister.html
+
+Alege departamentul și activitatea dorită sau lasă ministerul să decidă aleatoriu. Apasă „Emite autorizația”, iar sistemul va genera un document satiric cu verdict, motivare și condiții. Autorizația poate fi copiată și distribuită prietenilor.
+
+Serviciul este gratuit, în limba română, nu necesită cont și funcționează direct în browser.
+
+Avem și un API pentru programatori!
+
+FNN pune la dispoziție un catalog public JSON, versiunea 1.0, care conține activitățile și verdicturile ministerului:
+
+https://fnn.gnica430.workers.dev/api/mlcna.json
+
+Programatorii pot utiliza catalogul în aplicații Python, JavaScript, AutoHotkey sau alte programe care pot citi JSON. Documentația și exemplele de implementare sunt disponibile chiar pe pagina ministerului.
+
+Important: serviciul este momentan un catalog JSON static. Aplicațiile aleg și combină aleatoriu datele; serverul nu generează autorizații diferite la fiecare solicitare. Nu este necesară o cheie API. La reutilizarea conținutului original trebuie menționată sursa FNN.
+
+Ministerul avertizează că toate autorizațiile sunt fictive, nu au valoare juridică și nu înlocuiesc aprobările reale cerute de lege.
+
+FNN recomandă utilizarea responsabilă a serviciului. În cazul în care cererea de a deschide frigiderul este respinsă, cetățenii sunt rugați să nu intre în panică: frigiderul nu a fost informat despre existența ministerului.
+
+FNN – Știri. Satiră. Realitate... aproape.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261122-075534-64f6cc.png" medium="image" type="image/png">
+        <media:description>Pisica ministru</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261122-075534-64f6cc.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261122-075534-64f6cc</guid>
+      <pubDate>Sun, 22 Nov 2026 07:55:34 +0200</pubDate>
+    </item>
+    <item>
       <title>HAOS LA UN CURS DE CALCULATOARE! Formatoarea le-a permis cursanților să folosească un calculator pentru exercițiile din Word, iar o femeie a început să caute prin casă un calculator vechi! „L-AM GĂSIT! DAR UNDE ÎL CONECTEZ LA WORD?!”</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261121-184133-ca359b.html</link>
       <description>Un curs online complet fictiv de competențe digitale s-a transformat într-un spectacol de comedie după ce formatoarea le-a cerut participanților să rezolve un exercițiu în Microsoft Word, care presupunea câteva conversii între unități de stocare.
