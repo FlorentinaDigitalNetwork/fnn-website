@@ -6,6 +6,72 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>ALERTĂ FNN: Un calculator și-a amenințat proprietarul cu „consecințe” după ce acesta a copiat o comandă de pe Internet!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261123-063334-42c4b7.html</link>
+      <description>Un incident informatic de o gravitate imaginară fără precedent a fost raportat după ce un calculator cu Windows a început să-și certe proprietarul în limba engleză.
+
+Totul a pornit de la fenomenul ClickFix, o metodă reală de înșelătorie prin care infractorii folosesc verificări CAPTCHA false pentru a determina utilizatorii să execute comenzi periculoase.
+
+Inspirat de această situație, un cercetător FNN a realizat un […]</description>
+      <content:encoded>Un incident informatic de o gravitate imaginară fără precedent a fost raportat după ce un calculator cu Windows a început să-și certe proprietarul în limba engleză.
+
+Totul a pornit de la fenomenul ClickFix, o metodă reală de înșelătorie prin care infractorii folosesc verificări CAPTCHA false pentru a determina utilizatorii să execute comenzi periculoase.
+
+Inspirat de această situație, un cercetător FNN a realizat un experiment satiric în care calculatorul nu infectează nimic, nu descarcă nimic și nu solicită bani. În schimb, își mustră proprietarul:
+
+„You copied a command from the Internet. NEVER do that again or there will be consequences!”
+
+Martorii susțin că utilizatorul a rămas perplex.
+
+„Nu înțeleg! Am cumpărat calculatorul cu banii mei, plătesc curentul electric și acum mă amenință în engleză?!”, ar fi declarat acesta.
+
+Ministerul Lucrurilor Care Nu Ajută (MLCNA) a convocat o ședință extraordinară și a propus înființarea Inspectoratului Național pentru Disciplina Comenzilor Copiate.
+
+Potrivit proiectului legislativ imaginar, calculatoarele vor avea dreptul să-și certe proprietarii, dar numai între orele 08:00 și 22:00, pentru a respecta liniștea publică.
+
+Microsoft David și Microsoft Zira au fost propuși pentru funcțiile de inspectori vocali, însă niciunul nu a confirmat participarea.
+
+EXPERIMENT FNN: Fă-ți calculatorul să te certe!
+
+Cititorii curioși pot reproduce voluntar experimentul folosind comanda PowerShell prezentată mai jos, după ce îi verifică instrucțiunile.
+
+Comanda utilizează componenta vocală SAPI5 din Windows, caută o voce engleză americană sau britanică instalată și rostește avertismentul.
+
+Ce face și ce NU face?
+
+Caută o voce engleză disponibilă în SAPI5.
+
+Redă o singură propoziție prin difuzoare.
+
+Nu descarcă fișiere și nu accesează Internetul.
+
+Nu modifică registrul, documentele sau configurația permanentă a Windows.
+
+Nu necesită drepturi de administrator.
+
+Dacă nu există o voce engleză SAPI5 compatibilă, afișează un mesaj în loc să vorbească.
+
+Atenție: Aceasta este o demonstrație educativă, nu un CAPTCHA autentic. Nu executați comenzi necunoscute doar pentru că un site vă solicită acest lucru!
+
+Verdict FNN: Prima comandă care te ceartă pentru că ai executat-o, fără să-ți facă nimic altceva.
+
+FNN — Știrile de care nu aveai nevoie, dar pe care acum le poate citi chiar calculatorul tău!
+
+Comanda experimentului FNN:
+
+
+$v=New-Object -ComObject SAPI.SpVoice; $e=$v.GetVoices("Language=409"); if($e.Count -eq 0){$e=$v.GetVoices("Language=809")}; if($e.Count -gt 0){$v.Voice=$e.Item(0); [void]$v.Speak("You copied a command from the Internet. NEVER do that again or there will be consequences!")}else{Write-Host "No English SAPI5 voice was found."}</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261123-063334-42c4b7.png" medium="image" type="image/png">
+        <media:description>Calculatorul care ceartă utilizatorul</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261123-063334-42c4b7.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261123-063334-42c4b7</guid>
+      <pubDate>Mon, 23 Nov 2026 06:33:34 +0200</pubDate>
+    </item>
+    <item>
       <title>Agenție de informații inutile, la un pas de dezastru informatic după ce a încercat să investigheze niște păsări</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261122-161403-613692.html</link>
       <description>Un incident fără precedent a zguduit Agenția Informațiilor Inutile, după ce un program AutoHotkey, însărcinat să investigheze rațe, vulpi, pisici și alte mistere ale Internetului, a încercat să obțină fotografii cu păsări.
