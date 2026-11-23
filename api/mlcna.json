@@ -69,6 +69,36 @@
       "departament": "Inspectoratul Tastelor si Cablurilor"
     },
     {
+      "id": "tehnologie-11",
+      "categorie": "tehnologie",
+      "activitate": "scuturarea ușoară a mouse-ului",
+      "departament": "Inspectoratul Tastelor si Cablurilor"
+    },
+    {
+      "id": "tehnologie-12",
+      "categorie": "tehnologie",
+      "activitate": "privitul unei ferestre care nu răspunde",
+      "departament": "Inspectoratul Tastelor si Cablurilor"
+    },
+    {
+      "id": "tehnologie-13",
+      "categorie": "tehnologie",
+      "activitate": "mutarea unui cablu cu o jumătate de centimetru",
+      "departament": "Inspectoratul Tastelor si Cablurilor"
+    },
+    {
+      "id": "tehnologie-14",
+      "categorie": "tehnologie",
+      "activitate": "salvarea unui fișier deja salvat",
+      "departament": "Inspectoratul Tastelor si Cablurilor"
+    },
+    {
+      "id": "tehnologie-15",
+      "categorie": "tehnologie",
+      "activitate": "închiderea unui tab care pare suspect",
+      "departament": "Inspectoratul Tastelor si Cablurilor"
+    },
+    {
       "id": "bucatarie-01",
       "categorie": "bucatarie",
       "activitate": "deschiderea frigiderului",
@@ -126,6 +156,36 @@
       "id": "bucatarie-10",
       "categorie": "bucatarie",
       "activitate": "punerea capacului pe o oală",
+      "departament": "Directia Generala a Frigiderelor"
+    },
+    {
+      "id": "bucatarie-11",
+      "categorie": "bucatarie",
+      "activitate": "citirea ingredientelor de pe un borcan",
+      "departament": "Directia Generala a Frigiderelor"
+    },
+    {
+      "id": "bucatarie-12",
+      "categorie": "bucatarie",
+      "activitate": "amestecatul în aer cu o lingură goală",
+      "departament": "Directia Generala a Frigiderelor"
+    },
+    {
+      "id": "bucatarie-13",
+      "categorie": "bucatarie",
+      "activitate": "privitul cuptorului prin geam",
+      "departament": "Directia Generala a Frigiderelor"
+    },
+    {
+      "id": "bucatarie-14",
+      "categorie": "bucatarie",
+      "activitate": "căutarea capacului potrivit",
+      "departament": "Directia Generala a Frigiderelor"
+    },
+    {
+      "id": "bucatarie-15",
+      "categorie": "bucatarie",
+      "activitate": "mirosirea unei felii de lămâie",
       "departament": "Directia Generala a Frigiderelor"
     },
     {
@@ -189,6 +249,36 @@
       "departament": "Comisia pentru Relatii Felino-Umane"
     },
     {
+      "id": "pisici-11",
+      "categorie": "pisici",
+      "activitate": "numărarea mustăților unei pisici",
+      "departament": "Comisia pentru Relatii Felino-Umane"
+    },
+    {
+      "id": "pisici-12",
+      "categorie": "pisici",
+      "activitate": "așteptarea ca pisica să decidă dacă intră sau iese",
+      "departament": "Comisia pentru Relatii Felino-Umane"
+    },
+    {
+      "id": "pisici-13",
+      "categorie": "pisici",
+      "activitate": "ocolirea unei pisici adormite pe prag",
+      "departament": "Comisia pentru Relatii Felino-Umane"
+    },
+    {
+      "id": "pisici-14",
+      "categorie": "pisici",
+      "activitate": "vorbitul cu o pisică pe un ton serios",
+      "departament": "Comisia pentru Relatii Felino-Umane"
+    },
+    {
+      "id": "pisici-15",
+      "categorie": "pisici",
+      "activitate": "recunoașterea faptului că pisica a câștigat",
+      "departament": "Comisia pentru Relatii Felino-Umane"
+    },
+    {
       "id": "locuinta-01",
       "categorie": "locuinta",
       "activitate": "deschiderea unui sertar",
@@ -246,6 +336,36 @@
       "id": "locuinta-10",
       "categorie": "locuinta",
       "activitate": "închiderea unei uși",
+      "departament": "Autoritatea pentru Mobilier si Pereti"
+    },
+    {
+      "id": "locuinta-11",
+      "categorie": "locuinta",
+      "activitate": "verificarea dacă ușa e încuiată, a doua oară",
+      "departament": "Autoritatea pentru Mobilier si Pereti"
+    },
+    {
+      "id": "locuinta-12",
+      "categorie": "locuinta",
+      "activitate": "mutarea unui pantof de lângă ușă",
+      "departament": "Autoritatea pentru Mobilier si Pereti"
+    },
+    {
+      "id": "locuinta-13",
+      "categorie": "locuinta",
+      "activitate": "așezarea unei farfurii în dulap",
+      "departament": "Autoritatea pentru Mobilier si Pereti"
+    },
+    {
+      "id": "locuinta-14",
+      "categorie": "locuinta",
+      "activitate": "privitul unui colț de cameră",
+      "departament": "Autoritatea pentru Mobilier si Pereti"
+    },
+    {
+      "id": "locuinta-15",
+      "categorie": "locuinta",
+      "activitate": "tragerea unei perdele cu doi centimetri",
       "departament": "Autoritatea pentru Mobilier si Pereti"
     },
     {
@@ -309,6 +429,36 @@
       "departament": "Oficiul National al Hartiilor"
     },
     {
+      "id": "birou-11",
+      "categorie": "birou",
+      "activitate": "apăsarea pixului retractabil de două ori",
+      "departament": "Oficiul National al Hartiilor"
+    },
+    {
+      "id": "birou-12",
+      "categorie": "birou",
+      "activitate": "căutarea unei hârtii în teancul greșit",
+      "departament": "Oficiul National al Hartiilor"
+    },
+    {
+      "id": "birou-13",
+      "categorie": "birou",
+      "activitate": "deschiderea unui dosar gol",
+      "departament": "Oficiul National al Hartiilor"
+    },
+    {
+      "id": "birou-14",
+      "categorie": "birou",
+      "activitate": "numărarea agrafelor",
+      "departament": "Oficiul National al Hartiilor"
+    },
+    {
+      "id": "birou-15",
+      "categorie": "birou",
+      "activitate": "citirea unei etichete lipite strâmb",
+      "departament": "Oficiul National al Hartiilor"
+    },
+    {
       "id": "relaxare-01",
       "categorie": "relaxare",
       "activitate": "căscatul",
@@ -366,6 +516,36 @@
       "id": "relaxare-10",
       "categorie": "relaxare",
       "activitate": "verificarea confortului pernei",
+      "departament": "Departamentul Pauzelor Justificate"
+    },
+    {
+      "id": "relaxare-11",
+      "categorie": "relaxare",
+      "activitate": "oftatul scurt",
+      "departament": "Departamentul Pauzelor Justificate"
+    },
+    {
+      "id": "relaxare-12",
+      "categorie": "relaxare",
+      "activitate": "întinderea gâtului la stânga și la dreapta",
+      "departament": "Departamentul Pauzelor Justificate"
+    },
+    {
+      "id": "relaxare-13",
+      "categorie": "relaxare",
+      "activitate": "privitul într-un punct fix",
+      "departament": "Departamentul Pauzelor Justificate"
+    },
+    {
+      "id": "relaxare-14",
+      "categorie": "relaxare",
+      "activitate": "frecarea ochilor",
+      "departament": "Departamentul Pauzelor Justificate"
+    },
+    {
+      "id": "relaxare-15",
+      "categorie": "relaxare",
+      "activitate": "luarea unei guri de aer proaspăt",
       "departament": "Departamentul Pauzelor Justificate"
     },
     {
@@ -429,6 +609,36 @@
       "departament": "Comitetul Conversatiilor Marunte"
     },
     {
+      "id": "social-11",
+      "categorie": "social",
+      "activitate": "salutarea unui vecin pe scări",
+      "departament": "Comitetul Conversatiilor Marunte"
+    },
+    {
+      "id": "social-12",
+      "categorie": "social",
+      "activitate": "discuția despre vreme",
+      "departament": "Comitetul Conversatiilor Marunte"
+    },
+    {
+      "id": "social-13",
+      "categorie": "social",
+      "activitate": "așteptarea unui răspuns la un mesaj",
+      "departament": "Comitetul Conversatiilor Marunte"
+    },
+    {
+      "id": "social-14",
+      "categorie": "social",
+      "activitate": "spunerea cuvântului mersi",
+      "departament": "Comitetul Conversatiilor Marunte"
+    },
+    {
+      "id": "social-15",
+      "categorie": "social",
+      "activitate": "încuviințarea din cap la o poveste lungă",
+      "departament": "Comitetul Conversatiilor Marunte"
+    },
+    {
       "id": "exterior-01",
       "categorie": "exterior",
       "activitate": "privitul pe fereastră",
@@ -486,6 +696,36 @@
       "id": "exterior-10",
       "categorie": "exterior",
       "activitate": "observarea direcției vântului",
+      "departament": "Inspectoratul Privitului pe Geam"
+    },
+    {
+      "id": "exterior-11",
+      "categorie": "exterior",
+      "activitate": "observarea unui porumbel care merge pe jos",
+      "departament": "Inspectoratul Privitului pe Geam"
+    },
+    {
+      "id": "exterior-12",
+      "categorie": "exterior",
+      "activitate": "verificarea dacă plouă scoțând mâna pe geam",
+      "departament": "Inspectoratul Privitului pe Geam"
+    },
+    {
+      "id": "exterior-13",
+      "categorie": "exterior",
+      "activitate": "privitul unui avion",
+      "departament": "Inspectoratul Privitului pe Geam"
+    },
+    {
+      "id": "exterior-14",
+      "categorie": "exterior",
+      "activitate": "numărarea mașinilor roșii",
+      "departament": "Inspectoratul Privitului pe Geam"
+    },
+    {
+      "id": "exterior-15",
+      "categorie": "exterior",
+      "activitate": "ocolirea unei bălți cu un pas lung",
       "departament": "Inspectoratul Privitului pe Geam"
     },
     {
@@ -549,6 +789,36 @@
       "departament": "Directia Pasilor si Deplasarilor"
     },
     {
+      "id": "transport-11",
+      "categorie": "transport",
+      "activitate": "urcarea unei trepte cu piciorul drept",
+      "departament": "Directia Pasilor si Deplasarilor"
+    },
+    {
+      "id": "transport-12",
+      "categorie": "transport",
+      "activitate": "citirea afișajului din stația de autobuz",
+      "departament": "Directia Pasilor si Deplasarilor"
+    },
+    {
+      "id": "transport-13",
+      "categorie": "transport",
+      "activitate": "verificarea cardului de transport",
+      "departament": "Directia Pasilor si Deplasarilor"
+    },
+    {
+      "id": "transport-14",
+      "categorie": "transport",
+      "activitate": "așteptarea tramvaiului care întârzie",
+      "departament": "Directia Pasilor si Deplasarilor"
+    },
+    {
+      "id": "transport-15",
+      "categorie": "transport",
+      "activitate": "ocolirea unui stâlp",
+      "departament": "Directia Pasilor si Deplasarilor"
+    },
+    {
       "id": "diverse-01",
       "categorie": "diverse",
       "activitate": "verificarea buzunarelor",
@@ -607,6 +877,36 @@
       "categorie": "diverse",
       "activitate": "constatarea că este astăzi",
       "departament": "Ministerul Activitatilor Deja Efectuate"
+    },
+    {
+      "id": "diverse-11",
+      "categorie": "diverse",
+      "activitate": "căutarea ochelarilor de pe frunte",
+      "departament": "Ministerul Activitatilor Deja Efectuate"
+    },
+    {
+      "id": "diverse-12",
+      "categorie": "diverse",
+      "activitate": "verificarea dacă telefonul e în buzunar",
+      "departament": "Ministerul Activitatilor Deja Efectuate"
+    },
+    {
+      "id": "diverse-13",
+      "categorie": "diverse",
+      "activitate": "numărarea monedelor din portofel",
+      "departament": "Ministerul Activitatilor Deja Efectuate"
+    },
+    {
+      "id": "diverse-14",
+      "categorie": "diverse",
+      "activitate": "legatul unui șiret deja legat",
+      "departament": "Ministerul Activitatilor Deja Efectuate"
+    },
+    {
+      "id": "diverse-15",
+      "categorie": "diverse",
+      "activitate": "constatarea că este luni",
+      "departament": "Ministerul Activitatilor Deja Efectuate"
     }
   ],
   "verdicturi": [
@@ -616,12 +916,15 @@
         "Nu s-a identificat niciun motiv pentru care ar fi necesară aprobarea.",
         "Comisia a votat în unanimitate că nu are nimic de votat.",
         "Dosarul este complet, deși nimeni nu a cerut dosar.",
-        "Activitatea este permisă inclusiv fără prezentul document."
+        "Activitatea este permisă inclusiv fără prezentul document.",
+        "Activitatea a fost deja efectuată, deci cererea a ajuns prea târziu pentru orice obiecție.",
+        "Nicio lege cunoscută nu interzice și nicio lege necunoscută nu a protestat."
       ],
       "conditii": [
         "Autorizația expiră imediat după folosire.",
         "Păstrați documentul până uitați unde l-ați pus.",
-        "Nu este necesară nicio acțiune suplimentară."
+        "Nu este necesară nicio acțiune suplimentară.",
+        "Nu confundați prezentul document cu un bilet de loterie."
       ]
     },
     {
@@ -630,12 +933,15 @@
         "Nu a fost depusă dovada că solicitantul are nevoie de aprobare.",
         "Ștampila a fost găsită, dar cererea nu prezintă suficiente complicații.",
         "Solicitantul a încercat să facă ceva prea normal.",
-        "Comisia a constatat un exces de bun-simț procedural."
+        "Comisia a constatat un exces de bun-simț procedural.",
+        "Cererea a fost respinsă din prudență, deși nimeni nu știe de ce.",
+        "Formularul a fost completat corect, ceea ce este suspect."
       ],
       "conditii": [
         "Puteți contesta decizia printr-o cerere care nu va fi citită.",
         "Reveniți după ce activitatea a fost deja efectuată.",
-        "Nu se aplică nicio sancțiune pentru ignorarea acestui refuz fictiv."
+        "Nu se aplică nicio sancțiune pentru ignorarea acestui refuz fictiv.",
+        "Respingerea este valabilă doar până se întoarce funcționarul de la o pauză neprogramată."
       ]
     },
     {
@@ -644,12 +950,15 @@
         "Este necesară prezența unui martor imaginar.",
         "Ministerul solicită o confirmare verbală de la un obiect din apropiere.",
         "Dosarul necesită avizul Departamentului Lucrurilor Evidente.",
-        "Activitatea a fost încadrată la categoria «probabil inofensivă»."
+        "Activitatea a fost încadrată la categoria «probabil inofensivă».",
+        "Aprobarea este valabilă doar dacă se spune «cu permisiunea mea» o dată, în gând.",
+        "Este necesar avizul unui obiect cu vechime în birou."
       ],
       "conditii": [
         "Martorul imaginar trebuie să semneze imaginar.",
         "Condiția este îndeplinită automat dacă nimeni nu protestează.",
-        "Documentul trebuie prezentat doar dacă îl solicită o imprimantă."
+        "Documentul trebuie prezentat doar dacă îl solicită o imprimantă.",
+        "Condiția poate fi îndeplinită simbolic, cu aprobarea simbolică a unui scaun."
       ]
     },
     {
@@ -658,12 +967,15 @@
         "Funcționarul verifică dacă pauza lui a fost aprobată.",
         "Comisia așteaptă un răspuns de la un departament care nu există.",
         "Ședința despre această ședință nu a fost programată.",
-        "Dosarul a fost pus într-un sertar care necesită propria autorizație."
+        "Dosarul a fost pus într-un sertar care necesită propria autorizație.",
+        "Cererea a fost trimisă la Departamentul de Întârzieri, care răspunde cu întârziere.",
+        "Registrul de amânări este deja amânat."
       ],
       "conditii": [
         "Reveniți într-o zi care nu a fost încă aleasă.",
         "Termen estimat: după următoarea pauză administrativă.",
-        "Nu așteptați răspunsul pentru a vă continua viața."
+        "Nu așteptați răspunsul pentru a vă continua viața.",
+        "Veți fi anunțat când se va decide cine vă anunță."
       ]
     },
     {
@@ -672,12 +984,15 @@
         "Ministerul nu are atribuții asupra lucrurilor care nu necesită aprobare.",
         "Cererea aparține unei instituții la fel de fictive.",
         "Nu s-a stabilit cine ar trebui să nu aprobe această activitate.",
-        "Comisia a constatat că activitatea este prea obișnuită pentru jurisdicția sa."
+        "Comisia a constatat că activitatea este prea obișnuită pentru jurisdicția sa.",
+        "Cererea a fost trimisă către o ușă pe care scrie «Nu aici».",
+        "Ministerul consideră că activitatea se rezolvă singură, fără intervenție birocratică."
       ],
       "conditii": [
         "Dosarul a fost redirecționat imaginar.",
         "Nu este necesar să contactați altă instituție.",
-        "Decizia nu produce niciun efect în lumea reală."
+        "Decizia nu produce niciun efect în lumea reală.",
+        "Dosarul poate fi depus la ghișeul potrivit, imediat ce acesta va fi inventat."
       ]
     }
   ]

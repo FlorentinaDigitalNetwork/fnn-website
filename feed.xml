@@ -6,6 +6,43 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>Agenție de informații inutile, la un pas de dezastru informatic după ce a încercat să investigheze niște păsări</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261122-161403-613692.html</link>
+      <description>Un incident fără precedent a zguduit Agenția Informațiilor Inutile, după ce un program AutoHotkey, însărcinat să investigheze rațe, vulpi, pisici și alte mistere ale Internetului, a încercat să obțină fotografii cu păsări.
+
+Totul a început când agentul vocal Andrei a raportat o eroare HTTP. Directorul agenției a decis să verifice personal serviciul în Google Chrome, unde, în locul păsărilor promise, a întâlnit o […]</description>
+      <content:encoded>Un incident fără precedent a zguduit Agenția Informațiilor Inutile, după ce un program AutoHotkey, însărcinat să investigheze rațe, vulpi, pisici și alte mistere ale Internetului, a încercat să obțină fotografii cu păsări.
+
+Totul a început când agentul vocal Andrei a raportat o eroare HTTP. Directorul agenției a decis să verifice personal serviciul în Google Chrome, unde, în locul păsărilor promise, a întâlnit o pagină care pretindea că efectuează o verificare Cloudflare.
+
+„Am apăsat pe «Nu sunt robot» și m-am trezit cu o comandă suspectă în clipboard. Eu voiam să văd păsări, nu să deschid CMD!”, ar fi declarat directorul, potrivit reconstituirii satirice a incidentului.
+
+Comanda încerca să descarce și să execute fișiere necunoscute. Din fericire, aceasta a fost lipită accidental într-o conversație cu ChatGPT, unde a fost identificată drept potențial periculoasă.
+
+Surse fictive din cadrul agenției susțin că atacatorii au fost profund dezamăgiți: „Am pregătit totul pentru PowerShell și ne-am trezit la o discuție despre securitate informatică!”
+
+Între timp, Google Chrome, deși avea activată Protecția îmbunătățită, nu a afișat niciun avertisment înainte de accesarea paginii suspecte.
+
+În urma incidentului, conducerea a dispus concedierea imediată a serviciului pentru păsări. Acesta se alătură unei rațe eliminate anterior pentru că furniza fotografii prin HTTP.
+
+„Vulpea folosește HTTPS, pisicile cooperează, Pokémon răspunde în 62 de milisecunde, dar păsările au început să distribuie comenzi Windows. Este inadmisibil!”, a transmis purtătorul de cuvânt imaginar al instituției.
+
+Agenția a anunțat înființarea unui nou departament: Direcția Generală pentru Prevenirea Atacurilor Informatice Provocate de Animale Aleatorii.
+
+Prima măsură propusă este interzicerea accesului la CMD pentru orice pasăre care nu poate prezenta un certificat de bună purtare digitală.
+
+FNN precizează că articolul este o satiră inspirată dintr-un incident real. Nu există dovezi că păsările au organizat atacul, iar compromiterea serviciului API nu a fost confirmată.</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261122-161403-613692.png" medium="image" type="image/png">
+        <media:description>Păsări foarte periculoase</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261122-161403-613692.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261122-161403-613692</guid>
+      <pubDate>Sun, 22 Nov 2026 16:14:03 +0200</pubDate>
+    </item>
+    <item>
       <title>FNN INAUGUREAZĂ MINISTERUL LUCRURILOR CARE NU NECESITĂ APROBARE: ROMÂNII POT OBȚINE, ÎN SFÂRȘIT, AUTORIZAȚII PENTRU ACTIVITĂȚI PERFECT LEGALE!</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261122-075534-64f6cc.html</link>
       <description>FNN – Florentina's National Network anunță lansarea Ministerului Lucrurilor Care Nu Necesită Aprobare (MLCNA), prima instituție fictivă a redacției care poate aproba, respinge sau amâna activități pentru care nimeni nu avea nevoie de aprobare.
