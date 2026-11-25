@@ -59,15 +59,25 @@ body.fnn-winter>header,body.fnn-winter>main,body.fnn-winter>footer{position:rela
   const month=Math.floor((h+l-7*m+114)/31),day=((h+l-7*m+114)%31)+1;
   return new Date(Date.UTC(y,month-1,day,12));
  }
+ let lastDate="";
  function refresh(){
   const parts=fmt.formatToParts(new Date()),get=t=>Number(parts.find(p=>p.type===t).value);
   const year=get("year"),month=get("month"),day=get("day");
+  const dateKey=year+"-"+month+"-"+day;
+  if(dateKey===lastDate)return;
+  lastDate=dateKey;
   const today=Date.UTC(year,month-1,day,12);
   const matches=events.filter(e=>{
    if(!e.enabled)return false;
    if(e.kind==="easter")return gregorianEaster(year).getTime()+e.offset*86400000===today;
    return e.month===month&&e.day===day&&(e.kind!=="anniversary"||year>=e.since);
   });
+  // Aniversarea lunara este independenta de calendarul JSON personalizat.
+  const ageMonths=(year-2026)*12+month-10;
+  if(day===25&&ageMonths>0){
+   const ageText=ageMonths===1?"o lună":ageMonths+((ageMonths%100>=20||ageMonths%100===0)?" de luni":" luni");
+   matches.unshift({kind:"monthly_fnn",title:"🎂 La mulți ani, FNN!",message:"Astăzi, FNN împlinește "+ageText+" de existență! Redacția sărbătorește alături de cititorii săi."});
+  }
   let banner=document.getElementById("fnn-calendar-banner");
   if(!matches.length){if(banner)banner.remove();return;}
   if(!banner){banner=document.createElement("aside");banner.id="fnn-calendar-banner";banner.setAttribute("aria-label","Calendarul special FNN");banner.setAttribute("data-fnn-calendar","non-editorial");const header=document.querySelector("body > header");if(header)header.insertAdjacentElement("afterend",banner);else document.body.insertBefore(banner,document.body.firstChild);}
@@ -79,7 +89,7 @@ body.fnn-winter>header,body.fnn-winter>main,body.fnn-winter>footer{position:rela
    section.append(heading,body);banner.append(section);
   }
  }
- refresh();setInterval(refresh,60000);
+ refresh();setInterval(refresh,1000);document.addEventListener("visibilitychange",()=>{if(!document.hidden)refresh();});
 })();
 </script>
 <script id="fnn-footer-script">

@@ -133,7 +133,8 @@ body.fnn-winter>header,body.fnn-winter>main,body.fnn-winter>footer{position:rela
 <div class="notice"><strong>FNN</strong><br>Materialele satirice/pamflet sunt prezentate ca atare; materialele marcate explicit altfel pot avea alt caracter editorial.</div>
 <div class="follow">📡 Urmărește publicația prin <a href="../feed.xml">fluxul RSS oficial FNN</a>. FNN nu mai are pagină oficială de Facebook.</div>
 </article></main>
-<aside class="fnn-related" aria-label="Alte articole FNN" data-fnn-bonus="recommendations"><h2>Mai citește și pe FNN</h2><ul><li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261124-184346-afdc44.html">Premieră medicală în România: cursantă OIVPD diagnosticată cu alergie severă la Microsoft Excel</a> <small>· Satira</small></li>
+<aside class="fnn-related" aria-label="Alte articole FNN" data-fnn-bonus="recommendations"><h2>Mai citește și pe FNN</h2><ul><li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261125-042128-e1ef23.html">FNN împlinește o lună de existență! Redacția sărbătorește 31 de zile de activitate fără niciun angajat real</a> <small>· Breaking News</small></li>
+<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261124-184346-afdc44.html">Premieră medicală în România: cursantă OIVPD diagnosticată cu alergie severă la Microsoft Excel</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261124-184212-1c367b.html">Cursantă OIVPD surprinsă utilizând un monitor de gaming la 240 Hz pentru numerotarea paginilor în Word</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261124-064158-a3e1b0.html">PANICĂ NAȚIONALĂ: Cercetătorii suspectați că programează creierul voluntarilor, după ce le-au cerut să apese două taste</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261123-063334-42c4b7.html">ALERTĂ FNN: Un calculator și-a amenințat proprietarul cu „consecințe” după ce acesta a copiat o comandă de pe Internet!</a> <small>· Satira</small></li>
@@ -143,8 +144,7 @@ body.fnn-winter>header,body.fnn-winter>main,body.fnn-winter>footer{position:rela
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261121-050420-38c15a.html">FNN | Facebook declară război securității cibernetice: utilizatorii care distribuie informații riscă să fie confundați cu hackerii</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261120-151440-a878a7.html">FNN | Cursant promovat accidental la conducerea Google Meet: „Eu venisem să învăț Word, nu să administrez o instituție!”</a> <small>· Satira</small></li>
 <li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261120-143627-586f2d.html">COMUNICAT FNN: Facebook a suspendat un cont pentru distribuirea unei știri despre Facebook. Redacția FNN a decis să părăsească platforma!</a> <small>· Breaking News</small></li>
-<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261119-182155-c6886d.html">BREAKING NEWS FNN! Redacția care publică știri din anul 2099 a primit nota B pentru propriul flux RSS. Două publicații serioase au reușit performanțe mult mai bizare!</a> <small>· Satira</small></li>
-<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261119-151907-7676a4.html">SPRIJIN FINANCIAR ISTORIC! Guvernul fictiv oferă tinerilor fără loc de muncă și fără venituri un ajutor de 1 LEU PE LUNĂ! „În 36 de luni puteți strânge o avere de 36 de lei!”</a> <small>· Satira</small></li></ul></aside>
+<li><a href="https://fnn.gnica430.workers.dev/Articole/fnn-20261119-182155-c6886d.html">BREAKING NEWS FNN! Redacția care publică știri din anul 2099 a primit nota B pentru propriul flux RSS. Două publicații serioase au reușit performanțe mult mai bizare!</a> <small>· Satira</small></li></ul></aside>
 <footer class="fnn-mega-footer" data-fnn-footer="site-footer" aria-label="Subsolul site-ului FNN">
   <div class="fnn-footer-inner">
     <div class="fnn-footer-heading"><div><div class="fnn-footer-brand">FNN <span>· SUBSOLUL REDACȚIEI</span></div><p>Florentina's National Network — știrile care au refuzat să rămână normale.</p></div><span class="fnn-footer-stamp">100% redacție fictivă</span></div>
@@ -168,15 +168,25 @@ body.fnn-winter>header,body.fnn-winter>main,body.fnn-winter>footer{position:rela
   const month=Math.floor((h+l-7*m+114)/31),day=((h+l-7*m+114)%31)+1;
   return new Date(Date.UTC(y,month-1,day,12));
  }
+ let lastDate="";
  function refresh(){
   const parts=fmt.formatToParts(new Date()),get=t=>Number(parts.find(p=>p.type===t).value);
   const year=get("year"),month=get("month"),day=get("day");
+  const dateKey=year+"-"+month+"-"+day;
+  if(dateKey===lastDate)return;
+  lastDate=dateKey;
   const today=Date.UTC(year,month-1,day,12);
   const matches=events.filter(e=>{
    if(!e.enabled)return false;
    if(e.kind==="easter")return gregorianEaster(year).getTime()+e.offset*86400000===today;
    return e.month===month&&e.day===day&&(e.kind!=="anniversary"||year>=e.since);
   });
+  // Aniversarea lunara este independenta de calendarul JSON personalizat.
+  const ageMonths=(year-2026)*12+month-10;
+  if(day===25&&ageMonths>0){
+   const ageText=ageMonths===1?"o lună":ageMonths+((ageMonths%100>=20||ageMonths%100===0)?" de luni":" luni");
+   matches.unshift({kind:"monthly_fnn",title:"🎂 La mulți ani, FNN!",message:"Astăzi, FNN împlinește "+ageText+" de existență! Redacția sărbătorește alături de cititorii săi."});
+  }
   let banner=document.getElementById("fnn-calendar-banner");
   if(!matches.length){if(banner)banner.remove();return;}
   if(!banner){banner=document.createElement("aside");banner.id="fnn-calendar-banner";banner.setAttribute("aria-label","Calendarul special FNN");banner.setAttribute("data-fnn-calendar","non-editorial");const header=document.querySelector("body > header");if(header)header.insertAdjacentElement("afterend",banner);else document.body.insertBefore(banner,document.body.firstChild);}
@@ -188,7 +198,7 @@ body.fnn-winter>header,body.fnn-winter>main,body.fnn-winter>footer{position:rela
    section.append(heading,body);banner.append(section);
   }
  }
- refresh();setInterval(refresh,60000);
+ refresh();setInterval(refresh,1000);document.addEventListener("visibilitychange",()=>{if(!document.hidden)refresh();});
 })();
 </script>
 <script id="fnn-footer-script">
