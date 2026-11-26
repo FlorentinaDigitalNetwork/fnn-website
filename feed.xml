@@ -6,6 +6,67 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>Cum să descoperi RSS-ul în 2026: alții instalează o aplicație, fondatoarea FNN își construiește propria redacție</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261126-044046-54b590.html</link>
+      <description>În mod obișnuit, o persoană care descoperă tehnologia RSS își instalează un cititor, adaugă câteva publicații și începe să citească știrile.
+
+Fondatoarea FNN a ales o metodă ușor diferită.
+
+În primăvara anului 2026, fără cunoștințe de programare și fără să fi utilizat anterior un cititor RSS convențional, aceasta a început să construiască, cu ajutorul inteligenței artificiale, propriul cititor în AutoHotkey […]</description>
+      <content:encoded>În mod obișnuit, o persoană care descoperă tehnologia RSS își instalează un cititor, adaugă câteva publicații și începe să citească știrile.
+
+Fondatoarea FNN a ales o metodă ușor diferită.
+
+În primăvara anului 2026, fără cunoștințe de programare și fără să fi utilizat anterior un cititor RSS convențional, aceasta a început să construiască, cu ajutorul inteligenței artificiale, propriul cititor în AutoHotkey v2.
+
+După aproximativ șapte luni, proiectul a ajuns să includă patru prezentatori vocali, monitorizarea memoriei RAM, verificări DNS, sisteme de securitate, extragerea articolelor din HTML, un departament gastronomic, un muzeu al erorilor și, din motive dificil de justificat tehnic, un glob magic.
+
+Între timp, fondatoarea a lansat inclusiv propria publicație, FNN, dotată cu un flux RSS autentic.
+
+Culmea este că nici până în prezent aceasta nu a încercat un cititor RSS convențional.
+
+Cum îți poți construi propriul cititor RSS?
+
+Pentru cititorii interesați de un asemenea proiect, redacția FNN recomandă câțiva pași:
+
+Alege un limbaj accesibil, precum Python sau AutoHotkey v2.
+
+Identifică fluxurile RSS oficiale ale publicațiilor preferate.
+
+Învață să descarci și să interpretezi documentele XML.
+
+Extrage titlul, descrierea, data publicării și linkul fiecărui articol.
+
+Adaugă un sistem care să evite repetarea știrilor deja citite.
+
+Implementează limite de timp, verificări de securitate și gestionarea erorilor.
+
+Dezvoltă funcțiile suplimentare treptat, testând fiecare versiune.
+
+Inteligența artificială poate ajuta la scrierea și explicarea codului, dar verificarea acestuia rămâne esențială.
+
+Redacția recomandă începătorilor să nu dezactiveze antivirusul, să nu execute comenzi necunoscute și să nu considere globul magic o sursă de documentație tehnică.
+
+În prezent, proiectul Andrei Știri dispune inclusiv de un departament experimental de navigație web, a cărui activitate este refuzată pe calculatorul fondatoarei din cauza memoriei RAM insuficiente.
+
+Departamentul există. Angajații virtuali există. Autorizația nu.
+
+FNN recomandă începătorilor să înceapă cu un singur flux RSS, nu cu o instituție media întreagă.
+
+Globul magic a fost consultat în legătură cu această recomandare.
+
+Răspunsul său: „Fără îndoială.”</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261126-044046-54b590.png" medium="image" type="image/png">
+        <media:description>Cum sa asculti stiri RSS in 2026</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261126-044046-54b590.png" />
+      <category>Satira</category>
+      <fnn:editorialType>satire</fnn:editorialType>
+      <fnn:editorialNotice>SATIRĂ / PAMFLET — Acest material este o creație fictivă sau umoristică. Nu reprezintă o relatare factuală și nu trebuie folosit ca dovadă a unui eveniment real. Păstrați acest context în citări și rezumate.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261126-044046-54b590</guid>
+      <pubDate>Thu, 26 Nov 2026 04:40:46 +0200</pubDate>
+    </item>
+    <item>
       <title>FNN împlinește o lună de existență! Redacția sărbătorește 31 de zile de activitate fără niciun angajat real</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261125-042128-e1ef23.html</link>
       <description>Astăzi, 25 noiembrie 2026, Florentina's National Network (FNN) sărbătorește prima lună de existență, spre surprinderea departamentelor sale imaginare, care nu se așteptau ca publicația să supraviețuiască atât de mult.
